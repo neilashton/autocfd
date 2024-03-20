@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Automotive CFD Prediction Workshop (AutoCFD) # the website title (if blank, full name will be used instead)
+title: Automotive CFD Prediction Workshop # the website title (if blank, full name will be used instead)
 first_name: You
 middle_name: R.
 last_name: Name
