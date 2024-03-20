@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-This new website is currently under construction so for now please continue to use the prior [AutoCFD website](autocfd.eng.ox.ac.uk)
+This new website is currently under construction so for now please continue to use the prior [AutoCFD website](https://autocfd.eng.ox.ac.uk)
