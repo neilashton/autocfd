@@ -19,21 +19,13 @@ Maldron Belfast City – www.maldronhotelbelfastcity.com
 
 <h3>Useful Links:</h3>
 *Delegate Offers https://businesseventsbelfastandni.com/exclusive-delegate-offers/ 
-
 *Brochures and Downloads (including City Guide and city Map) https://businesseventsbelfastandni.com/bochures-downloads/ 
-
 *Getting Here https://visitbelfast.com/plan/getting-to-belfast-travel-options/
-
 *Things To See & Do https://visitbelfast.com/see-do/
-
 *Places To Eat & Drink  https://visitbelfast.com/eat-drink/
-
 *Ideas and Inspiration https://visitbelfast.com/ideas/
-
 *Sustainable Belfast https://visitbelfast.com/plan/sustainable-belfast/ 
-
 *What’s On: https://visitbelfast.com/whats-on 
-
 *Essential Information: https://visitbelfast.com/plan/essential-information/
 
 
