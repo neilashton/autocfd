@@ -7,4 +7,20 @@ nav: true
 nav_order: 3
 ---
 
-Case 1 is the Windsor Squareback body at 2.5 degrees yaw and is the same test-case studied in the 3rd automotive CFD workshop. The problem is at a Reynolds number of 3 million based on vehicle length and is within a wind-tunnel like domain. As well as force, moment and surface pressure data, there is also available non intrusive PIV measurements in the wake. The baseline grid is similar to the ‘eddy resolving’ grid from the second workshop and contains 37 million cells. The alternate grids halve and double the core cell size to give 7 million and 197 million cell grids. The grid type follows the second workshop using the ‘trimmer mesh’ and prism layer approach from Simcenter STAR-CCM+. The test description can be found here . The submission guidelines can be found here . Example data submission folder can be found here too . Grids are available in a variety of formats below.
+<p>Registration details will be available shortly</p>
+
+<h3>Fees</h3>
+
+* Standard £296
+* Student £225
+* Late (post 1st August) £325
+* Extra Banquet £75 
+
+<h3>Visa Details</h3>
+All attendees at your event must ensure that they have obtained any visa that may be required to visit the United Kingdom before travelling.  It is strongly recommended that those attending events at Queen’s University travel to a UK port of entry.  If they intend to visit the Republic of Ireland during their stay or to transit through the Republic of Ireland en route to Belfast, they may require two visas, one for the United Kingdom and one for the Republic of Ireland.
+Up-to-date information on visa requirements can be found on the website of the UK Visas and Immigration.  Details on visa requirements for Ireland can be found at the website of the Irish Naturalisation and Immigration Service.  Attendees can also seek further information from their local British/Irish Embassy or Consulate.
+Delegates from some countries may require a visa supporting letter from the conference organiser.  Where this is the case, you should ask them to email their request, stating their full name (as on their passport), address, country, passport number, nationality, travel dates and the date of the visa application to allow you to consider their request.  Visa supporting letters should only be sent to delegates after payment of the necessary conference registration fee.  
+
+
+
+

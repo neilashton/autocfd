@@ -79,11 +79,15 @@ nav_order: 7
 
 ## Technical program committee
 
-- Matteo Barbetti (University of Firenze, INFN-Firenze)
-- Alessandro Bombini (INFN-Firenze)
-- Benedetta Camaiani (University of Firenze, INFN-Firenze)
-- Lisa Castelli (INFN-Firenze)
-- Stefano Dal Pra (INFN-CNAF)
-- Fernando Garcia Avello-Bofias (INFN-Firenze)
-- Luca Giommi (INFN-CNAF)
-- Francesca Lizzi (INFN-Pisa)
+* Ben Thornber (Queen's University Belfast)
+* Gary Page (Loughborough University)
+* Burkhard Hupertz (Ford)
+* Astrid Walle (Siemens Energy)
+* Neil Ashton (Amazon Web Services)
+* Charles Mockett (Upstream CFD)
+* Timo Kuthada (FKFS)
+* Oriol Lehmkuhl (Barcelona Supercomputing Center)  
+* Herbert Owen (Barcelona Supercomputing Center) 
+* Charles Ribes (Stellantis)
+* Iraj Mortazavi (CNAM)
+* Vangelis Skaperdas (BETA-CAE Systems)
