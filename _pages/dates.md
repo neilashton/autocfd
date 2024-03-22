@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /keydates/
+permalink: /dates/
 title: key dates
-page_title: key dates
 description: 
 nav: true
 nav_order: 5
