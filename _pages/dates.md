@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dates/
-title: key dates
+title: dates
 description: 
 nav: true
 nav_order: 5
