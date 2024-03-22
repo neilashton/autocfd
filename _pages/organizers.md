@@ -9,18 +9,16 @@ nav_order: 7
 ---
 
 <div class="organizer">
-  <img class="photo" alt="Alessandro Bombini" src="{{ site.baseurl }}/assets/img/people/bombini.jpeg">
+  <img class="photo" alt="Neil Ashton" src="{{ site.baseurl }}/assets/img/people/nashton-small.jpeg">
   <div class="info">
-    <h4>Alessandro Bombini  
-      <a href="mailto:bombini@fi.infn.it" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
-      <a href="https://orcid.org/0000-0001-7225-3355" title="orcid"><i class="fab fa-orcid"></i></a> 
-      <a href="https://www.semanticscholar.org/author/A.-Bombini/84260082" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
-      <a href="https://dl.acm.org/profile/99660371894" title="acm"><i class="ai ai-acm ai"></i></a>
+    <h4>Neil Ashton  
+      <a href="mailto:neashton@amazon.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+      <a href="https://orcid.org/0000-0002-9943-2334" title="orcid"><i class="fab fa-orcid"></i></a> 
     </h4>
-    <p> INFN-Firenze </p>
+    <p> Amazon Web Services </p>
   </div>
   <p class="bio">
-    Ph.D. in Physics, he works as a Researcher at the Istituto Nazionale di Fisica Nucleare (INFN) in the network devoted to the application of nuclear techniques to Cultural Heritage, where he is responsible for the research and development of digital infrastructure and web-services. He is also responsible for the digital development of the "Artificial Intelligence for digital REStoration of Cultura Heritage" (AIRES-CH) project, offering a web service for AI-based digital restoration of cultural heritage employing nuclear physics-based imaging raw data. He is also involved in the development of big data services for real time monitoring of environmental risks on cultural heritage within the european project "Competence Centre for Conservation of Cultural Heritage" (4CH).
+WW Tech Leader for CAE at Amazon Web Services and also act as one of the main subject-matter experts for Computational Fluid Dynamics and High Performance Computing (HPC) across Amazon and lead the Amazon-wide CFD working group. I am also a Fellow of the Institution of Mechanical Engineers. Previous to these positions I worked in Formula 1 with the Lotus F1 team (now Renault F1) and I worked with Formula 1 Management and the FIA on the 2021 technical regulation changes and I was also a core part of the British Cycling 2020 Tokyo Olympics bike development program. I’m passionate about explaining science and engineering to the general public and will be soon be launching a podcast.
   </p>
 </div>
 
