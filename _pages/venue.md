@@ -4,10 +4,11 @@ permalink: /venue/
 title: venue
 description: 
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 The conference will be held in Riddle Hall which is located 1.5 miles (2.4km) south of Belfast City Centre.
+
 **DIRECTIONS**
 
 If you are travelling by air, train or road, our information will help you plan your trip to the AutoCFD4 Conference held at Riddel Hall, 185 Stranmillis Rd, Belfast BT9 5EE, UK. Riddel Hall is approximately 15 minutes from the city centre by several buses, the 8d being the fastest and running every 20 minutes from Great Northern Mall in the city centre. Alternatively, it is a 40 minutes walk.
