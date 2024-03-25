@@ -12,7 +12,7 @@ nav_order: 6
 * Mini-workshop [presentations](https://autocfd4.s3.eu-west-1.amazonaws.com/autocfd4-miniworkshop-presentations.zip) from each TFG 
 * Mini-workshop [video recording](https://autocfd4.s3.eu-west-1.amazonaws.com/autocfd4-miniworkshop-video.mp4)
 
-<h4>Main workshop (available post-workshop)</h4>
-
+<h4>Main workshop</h4>
+These will be made available after the workshop
 
 

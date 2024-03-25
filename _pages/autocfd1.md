@@ -23,6 +23,29 @@ Participants were encouraged to run the coarse, medium and fine meshes to demons
 Experimental data for Case 1 was made [available](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Exp_Data/all-expdata-compressed.tgz) which has the data itself and some instructions. Please refer to the main [test-case description](https://autocfd1.s3.eu-west-1.amazonaws.com/Presentations/Case1-descriptionv0p6.pdf) for complete information.
 
 <h3>Grids</h3>
+<h5>Case 1 </h5>
+
+ | Surface grids | [STL](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Geometry/SAENotchback.stl) | [STEP](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Geometry/SAENotchback.step) | [PRT](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Geometry/SAENotchback.prt) | [IGS](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Geometry/SAENotchback.igs)
+| DES-type committee grids | [CGNS](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Committee_Grids/DES_Grid/SAE20DESgridCGNSADF.cgns.gz)|[OpenFOAM](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Committee_Grids/DES_Grid/SAE20DESgridOF.tar.gz)|[Fluent](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Committee_Grids/DES_Grid/SAE20DESgridFluentA.msh.gz)|[STAR-CCM+](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Committee_Grids/DES_Grid/SAE20DESgrid.ccm.gz)|
+| RANS-type committee grids | [CGNS](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Committee_Grids/RANS_Grid/SAE20loReGridCGNS.cgns.gz)|[OpenFOAM](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Committee_Grids/RANS_Grid/SAE20loReGridOF.tar.gz) | [Fluent](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Committee_Grids/RANS_Grid/SAE20loReGridFluentA.msh.gz)|[STAR-CCM+](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Committee_Grids/RANS_Grid/SAE20loReGrid.ccm.gz) |
+| BETA-CAE Participant ANSA grid (Coarse) | [OpenFOAM](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Participant_Grids/BETA-CAE/SAE20_Coarse_HexaPoly_OF.tar.gz) | [Fluent](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Participant_Grids/BETA-CAE/SAE20_Coarse_HexaPoly.msh.gz)|[STAR-CCM+](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Participant_Grids/BETA-CAE/SAE20_Coarse_HexaPoly.ccm.gz)|
+| BETA-CAE Participant ANSA grid (Medium) |[CGNS](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Participant_Grids/BETA-CAE/SAE20_Medium_HexaPoly.cgns.gz) | [OpenFOAM](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Participant_Grids/BETA-CAE/SAE20_Medium_HexaPoly_OF.tar.gz)|[Fluent](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Participant_Grids/BETA-CAE/SAE20_Medium_HexaPoly.msh.gz)|[STAR-CCM+](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Participant_Grids/BETA-CAE/SAE20_Medium_HexaPoly.ccm.gz)|
+| BETA-CAE Participant ANSA grid (Fine) |[CGNS](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Participant_Grids/BETA-CAE/SAE20_Fine_HexaPoly.cgns.gz) | [OpenFOAM](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Participant_Grids/BETA-CAE/SAE20_Fine_HexaPoly_OF.tar.gz)|[Fluent](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Participant_Grids/BETA-CAE/SAE20_Fine_HexaPoly.msh.gz)|[STAR-CCM+](https://autocfd1.s3.eu-west-1.amazonaws.com/case1/Participant_Grids/BETA-CAE/SAE20_Fine_HexaPoly.ccm.gz)|
+
+
+<h5>Case 2a</h5>
+
+ | Surface grids | [STL](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Geometry/DrivAer_FastBack.stl) | [STEP](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Geometry/DrivAer_fastback.step) |
+| Coarse volume grid |[CGNS](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/coarse/DrivAer_fastback_Coarse_HexaPoly.ansa.gz.cgns.gz) | [OpenFOAM](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/coarse/DrivAer_fastback_Coarse_HexaPoly.ansa.gz_OPENFOAM.tar.gz) | [Fluent](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/coarse/DrivAer_fastback_Coarse_HexaPoly.ansa.gz.msh.gz)|[STAR-CCM+](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/coarse/DrivAer_fastback_Coarse_HexaPoly.ansa.gz.ccm.gz)|
+| Medium volume grid |[CGNS](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/medium/DrivAer_fastback_Medium_HexaPoly.ansa.gz.cgns.gz) | [OpenFOAM](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/medium/DrivAer_fastback_Medium_HexaPoly.ansa.gz_OPENFOAM.tar.gz)|[Fluent](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/medium/DrivAer_fastback_Medium_HexaPoly.ansa.gz.msh.gz)|[STAR-CCM+](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/medium/DrivAer_fastback_Medium_HexaPoly.ansa.gz.ccm.gz)|
+| Fine volume grid |[CGNS](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/fine/DrivAer_fastback_Fine_Volume_HexaPoly.ansa.gz.cgns.gz) | [OpenFOAM](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/fine/DrivAer_fastback_Fine_Volume_HexaPoly.ansa.gz_OPENFOAM.tar.gz)|[Fluent](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/fine/DrivAer_fastback_Fine_Volume_HexaPoly.ansa.gz.msh.gz)|[STAR-CCM+](https://autocfd1.s3.eu-west-1.amazonaws.com/case2a/Committee_Grids/fine/DrivAer_fastback_Fine_Volume_HexaPoly.ansa.gz.ccm.gz)|
+
+<h5>Case 2b</h5>
+
+ | Surface grids | [STL](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Geometry/DrivAer_Estate.stl) | [STEP](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Geometry/DrivAer_estate.step) |
+| Coarse volume grid | [CGNS](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/coarse/DrivAer_estate_Coarse_HexaPoly.ansa.gz.cgns.gz) | [OpenFOAM](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/coarse/DrivAer_estate_Coarse_HexaPoly.ansa.gz_OPENFOAM.tar.gz) | [Fluent](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/coarse/DrivAer_estate_Coarse_HexaPoly.ansa.gz.msh.tgz)|[STAR-CCM+](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/coarse/DrivAer_estate_Coarse_HexaPoly.ansa.gz.ccm.gz)|
+| Medium volume grid |[CGNS](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/medium/DrivAer_estate_Medium_Hexapoly.ansa.gz.cgns.gz) | [OpenFOAM](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/medium/DrivAer_estate_Medium_Hexapoly.ansa.gz_OPENFOAM.tar.gz)|[Fluent](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/medium/DrivAer_estate_Medium_Hexapoly.ansa.gz.msh.gz)|[STAR-CCM+](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/medium/DrivAer_estate_Medium_Hexapoly.ansa.gz.ccm.gz)|
+| Fine volume grid |[CGNS](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/fine/DrivAer_estate_Fine_HexaPoly.ansa.gz.cgns.gz) | [OpenFOAM](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/fine/DrivAer_estate_Fine_HexaPoly.ansa.gz_OPENFOAM.tar.gz)|[Fluent](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/fine/DrivAer_estate_Fine_HexaPoly.ansa.gz.msh.gz)|[STAR-CCM+](https://autocfd1.s3.eu-west-1.amazonaws.com/case2b/Committee_Grids/fine/DrivAer_estate_Fine_HexaPoly.ansa.gz.ccm.gz)|
 
 <h3>Agenda</h3>
 
@@ -44,7 +67,6 @@ Final Agenda for the workshop is [here](https://autocfd1.s3.eu-west-1.amazonaws.
 |[025](https://autocfd1.s3.eu-west-1.amazonaws.com/Presentations/025-PSA-Presentation.pdf) - PSA |
 |[026](https://autocfd1.s3.eu-west-1.amazonaws.com/Presentations/026-upstreamCFD-presentation.pdf) - upstreamCFD |
 |[029](https://autocfd1.s3.eu-west-1.amazonaws.com/Presentations/029-Sydney-Presentation.pdf) - University of Sydney |
-
 
 <h3> Organizers</h3>
 
