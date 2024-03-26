@@ -14,6 +14,9 @@ Case 2 is the notchback version of the DrivAer and is the same as used in the 3r
 | [Submission template](https://autocfdv3.s3.eu-west-1.amazonaws.com/AutoCFD3_DrivAer_Result_Template_v6.xlsm) |
 | [Flowfield mapping (ANSA and NASTRAN formats)](https://autocfd2.s3-eu-west-1.amazonaws.com/test-cases/case2/AutoCFD2.zip) |
 | [Updated 2024 mesh details](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/AutoCFD4_UpdatedMesh.pdf) |
+
+<h3> Results Dashboard </h3>
+Given the test-cases have remained the same from [AutoCFD3](https://autocfd.org/autocfd3), you can look at the interactive results [dashboard](https://auto-cfd-workshop-3.cfdsolutions.net) to assess the work done during AutoCFD3.
  
 <h3>Grids</h3>
     

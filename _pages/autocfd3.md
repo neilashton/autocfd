@@ -25,17 +25,31 @@ Case 2 is the notchback version of the DrivAer. Beside the base variant of the D
 
 <h3>Grids</h3>
 <h5>Case 1</h5>
+
  | Surface grids (windsor body) | [STL](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/Windsor_Square_nW.stl) | [JT](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/Windsor_Square_nW.jt) |
  | Surface grids (pins-only) | [STL](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/Windsor_Pins.stl) | [JT](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/Windsor_Pins.jt)
 | Coarse Grids | [CGNS](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g1.cgns)|[OpenFOAM](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g1.OpenFOAM.tar.gz)|[Fluent](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g1.msh)|[STAR-CCM+](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g1.ccm>)|
-| Medium Grids (baseline) | [CGNS](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g2.cgns)|[OpenFOAM](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g2.OpenFOAM.tar.gz)|[Fluent](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g2.msh)|[STAR-CCM+](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g2.ccm>)|
-| Fine Grids | [CGNS](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g3.cgns)|[OpenFOAM](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g3.OpenFOAM.tar.gz)|[Fluent](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g3.msh)|[STAR-CCM+](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g3.ccm>)|
+| Medium Grids (baseline) | [CGNS](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g2.cgns)|[OpenFOAM](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g2.OpenFOAM.tar.gz)|[Fluent](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g2.msh)|[STAR-CCM+](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g2.ccm)|
+| Fine Grids | [CGNS](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g3.cgns)|[OpenFOAM](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g3.OpenFOAM.tar.gz)|[Fluent](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g3.msh)|[STAR-CCM+](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/meshes/c1g3.ccm)|
 
 <h5>Case 2</h5>
 
 <h3>Agenda</h3>
 
 Final Agenda for the workshop is [here](https://autocfdv3.s3.eu-west-1.amazonaws.com/autocfd3-210922%2Bagenda-v10.pdf)
+
+<h3> Results Dashboard </h3>
+
+The interactive results dashboard can also be found [here](https://auto-cfd-workshop-3.cfdsolutions.net)
+
+
+<h3>Presentations</h3>
+
+|Case 1 description and cross-plotting  - Gary Page (Loughborough University) [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Fr1135_Case1AutoCFD3full.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/case1-part2.mp4)|
+|Case 2 description and cross-plotting  - Burkhard Hupertz (Ford Motor Company) [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1105_AutoCFD3_Case2_Results_220421_PUBLISHED.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/case2-part1.mp4)|
+
+|Dashboard Video Demo (Astrid Walle - Neural Concept) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/dashboard.mp4)|
+
 
 <h3> Organizers</h3>
 

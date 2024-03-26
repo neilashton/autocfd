@@ -17,6 +17,8 @@ Case 1 is the Windsor Squareback body at 2.5 degrees yaw and is the same test-ca
 | [Example submission folder](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/Case1DataSubmission.zip) |
 | [Submission guidelines](https://autocfdv3.s3.eu-west-1.amazonaws.com/test-cases/case1/Case1AutoCFD3Submission.pdf) |
 
+<h3> Results Dashboard </h3>
+Given the test-cases have remained the same from [AutoCFD3](https://autocfd.org/autocfd3), you can look at the interactive results [dashboard](https://auto-cfd-workshop-3.cfdsolutions.net) to assess the work done during AutoCFD3.
 
 <h3>Grids</h3>
 
