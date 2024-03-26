@@ -49,6 +49,25 @@ The interactive results dashboard can also be found [here](https://auto-cfd-work
 |Case 2 description and cross-plotting  - Burkhard Hupertz (Ford Motor Company) [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1105_AutoCFD3_Case2_Results_220421_PUBLISHED.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/case2-part1.mp4)|
 
 |Dashboard Video Demo (Astrid Walle - Neural Concept) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/dashboard.mp4)|
+|Giorgio Giangasperio  - Siemens Digital Industries Software [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1150_Siemens_AutomotiveCFDWorkshop2022.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Siemens.mp4)|
+|Miguel Class  - TotalSim US [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1210_TotalSimUS-3rd-AutoCFD-Prediction-Workshop-Presentation-no-gifs.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/totalsimUS.mp4)|
+|Astrid Walle  - Neural Concept [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1430_AutoCFD3_Walle_NC.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/NeuralConcept.mp4)|
+|Ivor Annetts  - Bramble CFD/TotalSim UK [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1450_IvorAnnetts-AutoCFD3.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/TotalSimUK.mp4)|
+|Tom Fahner - ActiFlow/Lightyear [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Actiflow_Lightyear+-+DrivAer-notchback-effect-of-turbulence-modelling-on-delta-prediction.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/lightyear.mp4)|
+|Sanjin Saric - AVL [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1530_AutoCFD3_workshop_AVL_Presentation.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/AVL.mp4)|
+|Olivier Thiry  - Cadence Design Systems [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1550_PRES_2022-09-22_OTH_AutoCFD3.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Cadence.mp4)|
+|Emmanuel Guilmineau  - CNRS - Centrale Nantes [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1610_guilmineau_AutoCFD3.pdf) [Video](href="https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/CNRS.mp4)|
+|Jan Pischinger and Bastian Morcinkowski  - FEV [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1640_FEV_AutoCFD3_Presentation.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/FEV.mp4)|
+|Rob Winstanley and Christina Peristeri  - ANSYS [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1720_3rdAutoCFDPW_ANSYS_RW.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/ANSYS.mp4)|
+|Paul Norman  - Ford Motor Company [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1740_PEN_ford_autocfd_presentation.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/ford.mp4)|
+|Francesco Fabio Semeraro  - Politecnico di Milano [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Th1800_Semeraro_AutoCFD3_2022.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/poli.mp4)|
+|CJ Doolittle  - FlexCompute [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Flexcompute+AutoCFD3.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/flexcompute.mp4)|
+|Eugen Riegel  - Numeric Systems GmbH [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Fr0915_20220914_Numeric+Systems+Pacefish+-+AutoCFD3+Results+discussion.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/pacefish.mp4)|
+|Gary Page  - Loughborough University [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Fr0935_LUCase1WindsorYaw4.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/page.mp4)|
+|B. Eiximeno - Barcelona Supercomputing Center [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Fr0955_BSC.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/bsc.mp4)|
+|Neil Ashton  - Amazon Web Services [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Fr1015_Ashton-AWS.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/aws.mp4)|
+|Håkon Strandenes and Florian Schwertfirm  - Kreuzinger und Manhart Turbulenz GmbH [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Fr1035_KMTurbulenz-slides.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/mglet.mp4)|
+|Dr. Eric Jacuzzi and Chris Popiela - NASCAR [Slides](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/Fr1055_NASCAR+AUTOCFD3+Conference+Presentation.pdf) [Video](https://autocfdv3.s3.eu-west-1.amazonaws.com/presentations/nascar.mp4)|
 
 
 <h3> Organizers</h3>
