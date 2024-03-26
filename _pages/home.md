@@ -31,3 +31,16 @@ For this workshop we will use a Technology Focus Group (TFG) model (inspired by 
 A description of the scope and goals of each TFG can be found [here](https://autocfd4.s3.eu-west-1.amazonaws.com/AutoCFD_TFG_overall.pdf).
 
 Our data policy can be found [here](https://autocfdv3.s3.eu-west-1.amazonaws.com/data-policy.pdf).
+
+<h3> Organizers</h3>
+
+* Ben Thornber (Queens University Belfast) - **Local Organiser**
+* Neil Ashton (Amazon Web Services)
+* Burkhard Hupertz (Ford)
+* Gary Page (Loughborough University)
+* Charles Mockett (Upstream CFD)
+* Astrid Walle (Siemens Energy)
+* Vangelis Skaperdas (BETA-CAE Systems)
+* Oriol Lehmkuhl (Barcelona Supercomputing Center) 
+* Herbert Owen (Barcelona Supercomputing Center)
+* Charles Ribes (Stellantis)

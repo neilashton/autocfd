@@ -7,11 +7,11 @@ nav: true
 nav_order: 3
 ---
 
-<p>Registration details will be available shortly</p>
+<p>You can register via this external link [here](https://ecommerce.apps.qub.ac.uk/osacfd4/catalog/index.php)</p>
 
 <h3>Fees</h3>
 
-* Standard £296
+* Standard £275
 * Student £225
 * Late (post 1st August) £325
 * Extra Banquet £75 

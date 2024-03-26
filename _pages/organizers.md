@@ -19,9 +19,17 @@ nav_order: 6
     <p> Queens University Belfast </p>
   </div>
 </div>
-
+\
+\
+\
+\
+\
 <h3>AutoCFD Organizing Committee</h3>
-
+\
+\
+\
+\
+\
 
 <div class="organizer">
   <img class="photo" alt="Neil Ashton" src="{{ site.baseurl }}/assets/img/people/nashton-small.jpeg">
@@ -33,7 +41,11 @@ nav_order: 6
     <p> Amazon Web Services </p>
   </div>
 </div>
-
+\
+\
+\
+\
+\
 
 <div class="organizer">
   <img class="photo" alt="Gary Page" src="{{ site.baseurl }}/assets/img/people/page.jpeg">
@@ -45,7 +57,11 @@ nav_order: 6
     <p> Loughborough University </p>
   </div>
 </div>
-
+\
+\
+\
+\
+\
 <br/>
 <div class="organizer">
   <img class="photo" alt="Burkhard Hupertz" src="{{ site.baseurl }}/assets/img/people/burkhard.jpeg">
@@ -56,7 +72,11 @@ nav_order: 6
     <p> Ford Motor Company </p>
   </div>
 </div>
-
+\
+\
+\
+\
+\
 
 <div class="organizer">
   <img class="photo" alt="Charles Mockett" src="{{ site.baseurl }}/assets/img/people/mockett.jpeg">
@@ -67,7 +87,11 @@ nav_order: 6
     <p> UpStreamCFD </p>
   </div>
 </div>
-
+\
+\
+\
+\
+\
 
 <div class="organizer">
   <img class="photo" alt="Astrid Walle" src="{{ site.baseurl }}/assets/img/people/astrid.jpeg">
@@ -78,7 +102,11 @@ nav_order: 6
     <p> Siemens Energy </p>
   </div>
 </div>
-
+\
+\
+\
+\
+\
 
 <div class="organizer">
   <img class="photo" alt="Hebert Owen" src="{{ site.baseurl }}/assets/img/people/owen.jpeg">
@@ -90,7 +118,11 @@ nav_order: 6
     <p> Barcelona Supercomputing Center </p>
   </div>
 </div>
-
+\
+\
+\
+\
+\
 
 <div class="organizer">
   <img class="photo" alt="Vangelis Skaperdas" src="{{ site.baseurl }}/assets/img/people/vangelis.jpeg">
@@ -101,7 +133,11 @@ nav_order: 6
     <p> BETA-CAE Systems </p>
   </div>
 </div>
-
+\
+\
+\
+\
+\
 
 <div class="organizer">
   <img class="photo" alt="Oriol Lehmkuhl" src="{{ site.baseurl }}/assets/img/people/oriol.jpeg">
@@ -113,7 +149,11 @@ nav_order: 6
     <p> Barcelona Supercomputing Center </p>
   </div>
 </div>
-
+\
+\
+\
+\
+\
 
 <div class="organizer">
   <img class="photo" alt="Charles Ribes" src="{{ site.baseurl }}/assets/img/people/ribes.jpeg">

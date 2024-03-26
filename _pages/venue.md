@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+  <img class="photo" alt="Hall" src="{{ site.baseurl }}/assets/img/hall.jpg">
+
 The conference will be held in Riddle Hall which is located 1.5 miles (2.4km) south of Belfast City Centre.
 
 **DIRECTIONS**
@@ -34,3 +36,5 @@ Belfast is easily accessed by sea with crossings from both Scotland and England.
 **BY RAIL**
 
 The Enterprise service runs 8 times daily (5 times on Sunday) from Dublin to Belfast. The journey time is approximately 2 hours. Enterprise tickets and seat reservations +44 (0)28 9089 9409 www.translink.co.uk Transport links for Queen’s University Belfast can be found here.
+
+<img class="photo" alt="Hall" src="{{ site.baseurl }}/assets/img/belfast.jpg">
