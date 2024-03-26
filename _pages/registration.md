@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<p>You can register via this external link [here](https://ecommerce.apps.qub.ac.uk/osacfd4/catalog/index.php)</p>
+You can register via this external link [here](https://ecommerce.apps.qub.ac.uk/osacfd4/catalog/index.php)
 
 <h3>Fees</h3>
 
