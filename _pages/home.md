@@ -8,6 +8,11 @@ page_subtitle: September 26th/27th 2024, Queens University Belfast
 news: true # includes a list of news items
 ---
 
+<iframe data-w-token="45cda9059213c0870327" data-w-type="pop-in" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://xkgki.mjt.lu/wgt/xkgki/vki/form?c=859c0789" width="100%" style="height: 0;"></iframe>
+<iframe data-w-token="45cda9059213c0870327" data-w-type="trigger" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://xkgki.mjt.lu/wgt/xkgki/vki/trigger?c=d6c34be5" width="100%" style="height: 0;"></iframe>
+
+<script type="text/javascript" src="https://app.mailjet.com/pas-nc-pop-in-v1.js"></script>
+
 <h3>Aims & Scope</h3>
 
 Following the success of the previous three workshops (Oxford, 2019, Berlin, 2021 and Barcelona, 2022), we’re proud to announce that the 4th Automotive CFD Prediction Workshop (AutoCFD 4) will be held in 2024, in person, on Sept 26th/27th at Queen's University Belfast.
@@ -44,3 +49,4 @@ Our data policy can be found [here](https://autocfdv3.s3.eu-west-1.amazonaws.com
 * Oriol Lehmkuhl (Barcelona Supercomputing Center) 
 * Herbert Owen (Barcelona Supercomputing Center)
 * Charles Ribes (Stellantis)
+
