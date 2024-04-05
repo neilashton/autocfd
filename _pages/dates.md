@@ -17,8 +17,8 @@ Due to the large number of registered contributors and the limited number of spe
 For those who are not selected to speak, there will be an opportunity to record a video that will be made available on the workshop website.
 Please submit these abstracts to the TFG leads:
 
-[Meshing TFG](meshing@autocfd.org) - Vangelis Skaperdas (BETA-CAE Systems) \
-[Noise Factors TFG](noise@autocfd.org) - Burkhard Hupertz (Ford) \
-[AI/ML TFG](aiml@autocfd.org) - Neil Ashton (AWS) and Astrid Walle (Siemens Energy) \
-[Scale Resolving Simulations (SRS) TFG](srs@autocfd.org) - Charles Mockett and Marian Fuchs (Upstream CFD) \
-[HPC TFG](hpc@autocfd.org) - Hebert Owen and Oriol Lehmkuhl (Barcelona Supercomputing Center) 
+[Meshing TFG](mailto:meshing@autocfd.org) - Vangelis Skaperdas (BETA-CAE Systems) \
+[Noise Factors TFG](mailto:noise@autocfd.org) - Burkhard Hupertz (Ford) \
+[AI/ML TFG](mailto:aiml@autocfd.org) - Neil Ashton (AWS) and Astrid Walle (Siemens Energy) \
+[Scale Resolving Simulations (SRS) TFG](mailto:srs@autocfd.org) - Charles Mockett and Marian Fuchs (Upstream CFD) \
+[HPC TFG](mailto:hpc@autocfd.org) - Hebert Owen and Oriol Lehmkuhl (Barcelona Supercomputing Center) 
