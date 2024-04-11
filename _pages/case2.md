@@ -19,7 +19,7 @@ Case 2 is the notchback version of the DrivAer and is the same as used in the 3r
 Given the test-cases have remained the same from [AutoCFD3](https://autocfd.org/autocfd3), you can look at the interactive results [dashboard](https://auto-cfd-workshop-3.cfdsolutions.net) to assess the work done during AutoCFD3.
  
 <h3>Grids</h3>
-    
+ | Case 2a/b CAD (updated April 2024) | [Baseline Drivaer Geometry link](https://www.epc.ed.tum.de/en/aer/research-groups/automotive/drivaer/download/) | [Additional STEP parts](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/autocfd4case2additionalgeo.zip)|   
  | Case 2a Surface grids (updated April 2024) | [STL](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/AutoCFD4_Case2a.stl.gz) |
  | Case 2b Surface grids (updated April 2024) | [STL](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/AutoCFD4_Case2b.stl.gz) |
 | Case 2a Volume Grids (updated March 2024) | [CGNS](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/AutoCFD4_Case2.1.cgns.gz)|[CFD++](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/AutoCFD4_Case2.1_CFD_PP.tar.gz)|[Fluent](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/AutoCFD4_Case2.1.msh.gz)|[OpenFOAM](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/AutoCFD4_Case2.1_OF.tar.gz)|
