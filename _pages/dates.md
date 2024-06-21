@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 <b>Deadline for abstract*</b> : 14th June 2024 (extended) \
-<b>Notice of acceptance</b> : 21st June 2024 (updated date) \
+<b>Notice of acceptance</b> : 1st July 2024 (extended) \
 <b>Deadline for data submission</b> : 9th August 2024 \
 <b>Workshop</b> : September 26th/27th 2024 
 <br/><br/>
