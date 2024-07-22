@@ -13,9 +13,8 @@ Case 1 is the Windsor Squareback body at 2.5 degrees yaw and is the same test-ca
 
 <h3>Documents</h3>
 
-| [Test-case description (April 2024)](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case1/Gary+Page+-+Case1AutoCFD4Description.pdf) |
+| [Test-case description and submission guidelines (April 2024)](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case1/Gary+Page+-+Case1AutoCFD4Description.pdf) |
 | [Example submission form (v5 - May 2024)](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case1/AutoCFD4_Windsor_Case1_Result_Template_v5.xlsm) |
-| [Submission guidelines (April 2024)](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case1/Gary+Page+-+Case1AutoCFD4Submission.pdf) |
 
 <h3> Results Dashboard </h3>
 Given the test-cases have remained the same from [AutoCFD3](https://autocfd.org/autocfd3), you can look at the interactive results [dashboard](https://auto-cfd-workshop-3.cfdsolutions.net) to assess the work done during AutoCFD3.
