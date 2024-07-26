@@ -14,7 +14,9 @@ You can register via this external link [here](https://ecommerce.apps.qub.ac.uk/
 * Standard £275
 * Student £225
 * Late (post 1st August) £325
-* Extra Banquet £75 
+* Additional Banquet ticket £75 
+
+Please note that registration includes lunch, morning and afternoon teas and one ticket for the banquet dinner.
 
 <h3>Visa Details</h3>
 All attendees at your event must ensure that they have obtained any visa that may be required to visit the United Kingdom before travelling.  It is strongly recommended that those attending events at Queen’s University travel to a UK port of entry.  If they intend to visit the Republic of Ireland during their stay or to transit through the Republic of Ireland en route to Belfast, they may require two visas, one for the United Kingdom and one for the Republic of Ireland.
