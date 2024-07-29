@@ -13,6 +13,6 @@ nav_order: 6
 * Mini-workshop [video recording](https://autocfd4.s3.eu-west-1.amazonaws.com/autocfd4-miniworkshop-video.mp4)
 
 <h4>Main workshop</h4>
-These will be made available after the workshop
 
+* Workshop [booklet](https://autocfd4.s3.eu-west-1.amazonaws.com/AutoCFD4Bookletv1.3.pdf) (including presentation titles)
 
