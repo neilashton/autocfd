@@ -13,7 +13,7 @@ You can register via this external link [here](https://ecommerce.apps.qub.ac.uk/
 
 * Standard £275
 * Student £225
-* Late (post 1st August) £325
+* Late (post 16th August (extended from 2nd August)) £325
 * Additional Banquet ticket £75 
 
 Please note that registration includes lunch, morning and afternoon teas and one ticket for the banquet dinner.
