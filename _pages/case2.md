@@ -19,7 +19,7 @@ Case 2 is the notchback version of the DrivAer and is the same as used in the 3r
 Given the test-cases have remained the same from [AutoCFD3](https://autocfd.org/autocfd3), you can look at the interactive results [dashboard](https://auto-cfd-workshop-3.cfdsolutions.net) to assess the work done during AutoCFD3.
 
 <h3> Submission </h3>
-Please note that submissions should be uploaded to https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi and an email sent to admin@autocfd.org to inform the organizers. If your organization has restricted access to cloud upload services then please contact the admin email so that we can use an alternative
+Please note that submissions should be uploaded to [dropbox](https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi) and an email sent to admin@autocfd.org to inform the organizers. If your organization has restricted access to cloud upload services then please contact the admin email so that we can use an alternative
  
 <h3>Grids (updated 04/24)</h3>
 
