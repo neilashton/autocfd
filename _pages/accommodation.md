@@ -12,9 +12,9 @@ There are many hotels, airbnbs and guest houses available in Belfast. The [Visit
 
 We have negotiated a 12% Discount for visiting delegates at both Clayton Hotel Belfast & Maldron Hotel Belfast City if you chose to stay there. To avail of the discount, attendees will need to enter the promo code “CONF12” in the promo box on the relevant website:
 
-[Clayton Hotel Belfast](www.claytonhotelbelfast.com) 
+[Clayton Hotel Belfast](http://www.claytonhotelbelfast.com) 
 
-[Maldron Belfast City](www.maldronhotelbelfastcity.com)
+[Maldron Belfast City](http://www.maldronhotelbelfastcity.com)
 
 
 <h3>Useful Links</h3>
