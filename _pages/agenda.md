@@ -8,6 +8,6 @@ nav_order: 5
 ---
 
 
-[Preliminary detailed Agenda (v2.0 - Sept 2024)](https://autocfd4.s3.eu-west-1.amazonaws.com/AutoCFD4DraftDetailedAgendav2.0.pdf)
+[Final detailed Agenda (v2.0 - Sept 2024)](https://autocfd4.s3.eu-west-1.amazonaws.com/AutoCFD4DraftDetailedAgendav2.0.pdf)
 
-Workshop [booklet](https://autocfd4.s3.eu-west-1.amazonaws.com/AutoCFD4Booklet-v1.8.pdf) (including presentation titles)
+Workshop [booklet](https://autocfd4.s3.eu-west-1.amazonaws.com/4th+Automotive+CFD+Prediction+Workshop.pdf) (including presentation titles)

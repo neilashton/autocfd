@@ -14,5 +14,4 @@ nav_order: 6
 
 <h4>Main workshop</h4>
 
-* Workshop [booklet](https://autocfd4.s3.eu-west-1.amazonaws.com/AutoCFD4Booklet-v1.8.pdf) (including presentation titles)
-
+* Workshop [booklet](https://autocfd4.s3.eu-west-1.amazonaws.com/4th+Automotive+CFD+Prediction+Workshop.pdf) (including presentation titles)
