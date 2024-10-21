@@ -23,7 +23,9 @@ nav_order: 6
 |Test Case 2 Summary  - Burkhard Hupertz (Ford) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/ThursdayMorningIntros-Website/AutoCFD4_Case2_Intro_Results_240918.pdf) [Video](https://youtu.be/u4HFI2aie4w)|
 
 <h5>Day 1 - Meshing TFG</h5>
+
 |Meshing TFG Summary  - Vangelis Skaperdas (BETA-CAE Systems) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Skaperdas_Meshing.pdf) [Video](https://youtu.be/HvNXoBCKuPM)|
+
 <h5>Day 1 - SRS TFG</h5>
 
 <h5>Day 1 - HPC TFG</h5>
@@ -32,5 +34,10 @@ nav_order: 6
 
 <h5>Day 2 - AIML TFG</h5>
 
+|AI/ML TFG Summary - Neil Ashton (AWS), Astrid Walle (Siemens Energy) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/AIML-Website/AIML_TFG_Summary.pdf) [Video](https://youtu.be/2TnowaQo6FA)|
+
 <h5>Day 2 - TFG Leader \& Automotive OEM panel discussions</h5>
+
+|Automotive OEM Panel Discussion - Charles Ribes (Stellantis), Burkhard Hupertz (Ford), Vilem Skarolek (Skoda), Karthik (JLR), Ananda Kannan (Volvo) [Video](https://youtu.be/91HLjjP3MEA)|
+|TFG Leader Panel Discussion - Burkhard Hupertz (Ford), Gary Page (Loughborough University), Neil Ashton (AWS), Astrid Walle (Siemens Energy), Herbert Owen (BSC), Vangelis Skaperdas (BETA-CAE Systems) [Video](https://youtu.be/pNU5IBAwX5Q)|
 
