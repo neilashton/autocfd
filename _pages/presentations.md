@@ -36,6 +36,8 @@ nav_order: 6
 
 <h5>Day 2 - Noise Factors TFG</h5>
 
+|Noise Factors TFG Summary  - Burkhard Hupertz (Ford) [Video](https://youtu.be/fQ6ZR4MPnKg)|
+
 <h5>Day 2 - AIML TFG</h5>
 
 |AI/ML TFG Summary - Neil Ashton (AWS), Astrid Walle (Siemens Energy) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/AIML-Website/AIML_TFG_Summary.pdf) [Video](https://youtu.be/2TnowaQo6FA)|
