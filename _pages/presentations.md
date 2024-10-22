@@ -28,7 +28,11 @@ nav_order: 6
 
 <h5>Day 1 - SRS TFG</h5>
 
+|SRS TFG Summary  - Charles Mockett (Upstream CFD) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Mockett_SRS_AutoCFD4_TFG-SRS_Summary_UCFD_20240926.pdf) [Video](https://youtu.be/iW25bCsgzPE)|
+
 <h5>Day 1 - HPC TFG</h5>
+
+|HPC TFG Summary  - Herbert Owen (BSC) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/HPC-Owen.pdf) [Video](https://youtu.be/XYc41_Gk4uQ)|
 
 <h5>Day 2 - Noise Factors TFG</h5>
 
