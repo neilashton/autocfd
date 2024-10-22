@@ -37,8 +37,9 @@ nav_order: 6
 |AI/ML TFG Summary - Neil Ashton (AWS), Astrid Walle (Siemens Energy) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/AIML-Website/AIML_TFG_Summary.pdf) [Video](https://youtu.be/2TnowaQo6FA)|
 |Neil Ashton (AWS) AI/ML TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/AIML-Website/Ashton_Neil_AWS_AIML.pdf) [Video](https://youtu.be/UgLYXtiJ84o)|
 |Astrid Walle (Siemens Energy) AI/ML TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/AIML-Website/Astrid_Walle_Walle_AIML.pdf) [Video](https://youtu.be/5lDvZu7z_es)|
+|Chao Xia (Chalmers University) AI/ML TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/AIML-Website/Chao_Xia_Chao_AIML.pdf) [Video](https://youtu.be/H_mXw2aclxc)|
 
-<h5>Day 2 - TFG Leader \& Automotive OEM panel discussions</h5>
+<h5>Day 2 - TFG Leader & Automotive OEM panel discussions</h5>
 
 |Automotive OEM Panel Discussion - Charles Ribes (Stellantis), Burkhard Hupertz (Ford), Vilem Skarolek (Skoda), Karthik (JLR), Ananda Kannan (Volvo) [Video](https://youtu.be/91HLjjP3MEA)|
 |TFG Leader Panel Discussion - Burkhard Hupertz (Ford), Gary Page (Loughborough University), Neil Ashton (AWS), Astrid Walle (Siemens Energy), Herbert Owen (BSC), Vangelis Skaperdas (BETA-CAE Systems) [Video](https://youtu.be/pNU5IBAwX5Q)|
