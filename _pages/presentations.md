@@ -30,6 +30,8 @@ nav_order: 6
 <h5>Day 1 - SRS TFG</h5>
 
 |SRS TFG Summary  - Charles Mockett (Upstream CFD) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Mockett_SRS_AutoCFD4_TFG-SRS_Summary_UCFD_20240926.pdf) [Video](https://youtu.be/iW25bCsgzPE)|
+|Ananda Subramani Kannan (Volvo) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Ananda+Subramani_Kannan_Kannan_ScaleResolvingSimulation_24w38.pdf) [Video](https://youtu.be/ahYylotefjQ)|
+|Louis Fliessbach (UpstreamCFD) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Louis_Fliessbach_FliessbachEtAl_ScaleResolvingSimulation.pdf) [Video](https://youtu.be/JhAg7cKOAZA)|
 
 <h5>Day 1 - HPC TFG</h5>
 
