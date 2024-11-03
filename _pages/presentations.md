@@ -36,6 +36,7 @@ nav_order: 6
 |David Flad (Ansys) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/David_Flad_DavidFlad_SRS_ANSYS_DrivAer+Notch+Back.pdf) [Video](https://youtu.be/FgKcRYUxqnQ)|
 |Z J Wang (University of Kansas) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Z.J.+_Wang_Wang_ScaleResolvingSimulation.pdf) [Video](https://youtu.be/EsbNIk83Atk)|
 |Dania Ahmed (University of Manchester) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Dania_Ahmed_AutoCFD4-Dania-Ahmed.pdf) [Video](https://youtu.be/o5DAGTj7gA4)|
+|Jordan Angel (Volcano Platforms) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Jordan_Angel_JordanAngel_VolcanoScaLES_AutoCFD4.pdf) [Video](https://youtu.be/lgZ6A2ipkHg)|
 
 <h5>Day 1 - HPC TFG</h5>
 
