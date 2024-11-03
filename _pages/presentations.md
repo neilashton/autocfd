@@ -34,7 +34,8 @@ nav_order: 6
 |Louis Fliessbach (UpstreamCFD) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Louis_Fliessbach_FliessbachEtAl_ScaleResolvingSimulation.pdf) [Video](https://youtu.be/JhAg7cKOAZA)|
 |Emmanuel Guilmineau (CNRS) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Emmanuel_GUILMINEAU_Guilmineau_SRS_v2.pdf) [Video](https://youtu.be/S0OMjhVxuec)|
 |David Flad (Ansys) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/David_Flad_DavidFlad_SRS_ANSYS_DrivAer+Notch+Back.pdf) [Video](https://youtu.be/FgKcRYUxqnQ)|
-
+|Z J Wang (University of Kansas) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Z.J.+_Wang_Wang_ScaleResolvingSimulation.pdf) [Video](https://youtu.be/EsbNIk83Atk)|
+|Dania Ahmed (University of Manchester) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Dania_Ahmed_AutoCFD4-Dania-Ahmed.pdf) [Video](https://youtu.be/o5DAGTj7gA4)|
 
 <h5>Day 1 - HPC TFG</h5>
 
