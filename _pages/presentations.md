@@ -41,6 +41,8 @@ nav_order: 6
 <h5>Day 1 - HPC TFG</h5>
 
 |HPC TFG Summary  - Herbert Owen (BSC) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/HPC-Owen.pdf) [Video](https://youtu.be/XYc41_Gk4uQ)|
+|Eugen Riegel (Numeric Systems) - HPC TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Riegel_HPC.pdf) [Video](https://youtu.be/XRhHPUFh_ug)|
+|Benet Eiximeno (BSC) - HPC TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Benet_Eiximeno_EiximenoFranch_Benet.pdf) [Video](https://youtu.be/pnL4f8z04u0)|
 
 <h5>Day 2 - Noise Factors TFG</h5>
 
