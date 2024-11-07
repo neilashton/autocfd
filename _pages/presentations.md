@@ -37,12 +37,17 @@ nav_order: 6
 |Z J Wang (University of Kansas) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Z.J.+_Wang_Wang_ScaleResolvingSimulation.pdf) [Video](https://youtu.be/EsbNIk83Atk)|
 |Dania Ahmed (University of Manchester) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Dania_Ahmed_AutoCFD4-Dania-Ahmed.pdf) [Video](https://youtu.be/o5DAGTj7gA4)|
 |Jordan Angel (Volcano Platforms) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Jordan_Angel_JordanAngel_VolcanoScaLES_AutoCFD4.pdf) [Video](https://youtu.be/lgZ6A2ipkHg)|
+|CJ Doolittle (Flexcompute) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/CJ_Doolittle_Doolittle_SRS_Flexcompute.pdf) [Video](https://youtu.be/tzy8bphs8Eg)|
+|F. Schwertfirm (KM Turbulenz GmbH) - SRS TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Schwertfirm_SRS.pdf) [Video](https://youtu.be/E9G_c5fXCdU)|
 
 <h5>Day 1 - HPC TFG</h5>
 
 |HPC TFG Summary  - Herbert Owen (BSC) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/HPC-Owen.pdf) [Video](https://youtu.be/XYc41_Gk4uQ)|
 |Eugen Riegel (Numeric Systems) - HPC TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Riegel_HPC.pdf) [Video](https://youtu.be/XRhHPUFh_ug)|
 |Benet Eiximeno (BSC) - HPC TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Benet_Eiximeno_EiximenoFranch_Benet.pdf) [Video](https://youtu.be/pnL4f8z04u0)|
+|Olivier Thiry (Cadence) - HPC TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Olivier_Thiry_2024-09-26_AutoCFD4_Cadence_Olivier_thiry.pdf) [Video](https://youtu.be/Yq7zGVuxpnc)|
+|Guido Parenti (Dassault Systemes) - HPC TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Guido_Parenti_Parenti_HPC_PowerFLOW_Uncertainty_Quantification_using_DrivAer.pdf) [Video](https://youtu.be/1f0tcpVKe78)|
+|Thomas D. Economon (Luminary Cloud) - HPC TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Thomas_Economon_Economon-SRS.pdf) [Video](https://youtu.be/lR2UIWex5cM)|
 
 <h5>Day 2 - Noise Factors TFG</h5>
 
