@@ -52,12 +52,12 @@ nav_order: 6
 <h5>Day 2 - Noise Factors TFG</h5>
 
 |Noise Factors TFG Summary  - Burkhard Hupertz (Ford) [Video](https://youtu.be/fQ6ZR4MPnKg)|
-|Dassault Systemes - Noise Factors TFG [Video](https://youtu.be/rmtJsF_ECgM)|
-|Ohio State University - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Matthew_Aultman_Aultman_NoiseFactors.pdf) [Video](https://youtu.be/pAso0Nab-_Q)|
-|Siemens - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Grzegorz_Borowiec_Borowiec_noiseFactors.pdf) [Video](https://youtu.be/LIpN1A1ll24)|
-|Ford Motor Company - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Norman_Sowemimo_Thome_AutoCFD4.pdf) [Video](https://youtu.be/M_VKTtUnffY)|
-|Skoda - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Ondrej_Cavoj_CavojViochna_Noise+1.pdf) [Video](https://youtu.be/TMblzkBgZ3Q)|
-|BrambleCFD - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Matheus_Marques_Marques_NoiseFactor.pdf) [Video](https://youtu.be/Os3SgNthbPY)|
+|Guido Parenti (Dassault Systemes) - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Guido_Parenti_Parenti_HPC_PowerFLOW_Uncertainty_Quantification_using_DrivAer.pdf) [Video](https://youtu.be/rmtJsF_ECgM)|
+|Matthew Aultman (Ohio State University) - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Matthew_Aultman_Aultman_NoiseFactors.pdf) [Video](https://youtu.be/pAso0Nab-_Q)|
+|Grzegorz Borowiec (Siemens) - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Grzegorz_Borowiec_Borowiec_noiseFactors.pdf) [Video](https://youtu.be/LIpN1A1ll24)|
+|Paul Norman (Ford Motor Company) - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Norman_Sowemimo_Thome_AutoCFD4.pdf) [Video](https://youtu.be/M_VKTtUnffY)|
+|Ondřej Čavoj and Pavel Viochna (Skoda) - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Ondrej_Cavoj_CavojViochna_Noise+1.pdf) [Video](https://youtu.be/TMblzkBgZ3Q)|
+|Matheus Marques (BrambleCFD) - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Matheus_Marques_Marques_NoiseFactor.pdf) [Video](https://youtu.be/Os3SgNthbPY)|
 
 <h5>Day 2 - AIML TFG</h5>
 
