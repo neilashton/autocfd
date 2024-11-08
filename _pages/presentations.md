@@ -20,12 +20,17 @@ nav_order: 6
 <h5>Day 1 - Opening</h5>
 
 |Workshop opening talk  - Prof. Ben Thornber (Queens University), Dr Neil Ashton (AWS) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/ThursdayMorningIntros-Website/OpeningCeremony.pdf) [Video](https://youtu.be/hntbFeLmvUA)|
-|Test Case 1 Summary  - Gary Page (Loughborough University) [Video](https://youtu.be/sOcbbEDgQPU)|
+|Test Case 1 Summary  - Gary Page (Loughborough University) [slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/ThursdayMorningIntros-Website/Case1AutoCFD4Workshop.pdf) [Video](https://youtu.be/sOcbbEDgQPU)|
 |Test Case 2 Summary  - Burkhard Hupertz (Ford) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/ThursdayMorningIntros-Website/AutoCFD4_Case2_Intro_Results_240918.pdf) [Video](https://youtu.be/u4HFI2aie4w)|
 
 <h5>Day 1 - Meshing TFG</h5>
 
 |Meshing TFG Summary  - Vangelis Skaperdas (BETA-CAE Systems) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Skaperdas_Meshing.pdf) [Video](https://youtu.be/HvNXoBCKuPM)|
+|Maurice Nayman (Multimatic) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Maurice_Nayman_Nayman_Meshing.pdf)|
+|David Egan (Ennova Technologies) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/David_Egan_Ennova_Introduction_v12.pdf)|
+|Burkhard Hupertz (Ford) and Nils Thome (AVL Schrick) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Nils_Thome%CC%81_20240920_AutoCFD4_mesh_analysis_BetaFord.pdf)|
+|Liang Yu (University of Sydney) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/SydneyQueensBelfastMQ.pdf)|
+
 
 <h5>Day 1 - SRS TFG</h5>
 
