@@ -73,6 +73,6 @@ nav_order: 6
 
 <h5>Day 2 - TFG Leader & Automotive OEM panel discussions</h5>
 
-|Automotive OEM Panel Discussion - Charles Ribes (Stellantis), Burkhard Hupertz (Ford), Vilem Skarolek (Skoda), Karthik (JLR), Ananda Kannan (Volvo) [Video](https://youtu.be/91HLjjP3MEA)|
+|Automotive OEM Panel Discussion - Charles Ribes (Stellantis), Burkhard Hupertz (Ford), Vilem Skarolek (Skoda), Karthik Thandayutham (JLR), Ananda Kannan (Volvo) [Video](https://youtu.be/91HLjjP3MEA)|
 |TFG Leader Panel Discussion - Burkhard Hupertz (Ford), Gary Page (Loughborough University), Neil Ashton (AWS), Astrid Walle (Siemens Energy), Herbert Owen (BSC), Vangelis Skaperdas (BETA-CAE Systems) [Video](https://youtu.be/pNU5IBAwX5Q)|
 
