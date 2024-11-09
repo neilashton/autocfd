@@ -26,10 +26,10 @@ nav_order: 6
 <h5>Day 1 - Meshing TFG</h5>
 
 |Meshing TFG Summary  - Vangelis Skaperdas (BETA-CAE Systems) [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Skaperdas_Meshing.pdf) [Video](https://youtu.be/HvNXoBCKuPM)|
-|Maurice Nayman (Multimatic) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Maurice_Nayman_Nayman_Meshing.pdf)|
-|David Egan (Ennova Technologies) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/David_Egan_Ennova_Introduction_v12.pdf)|
-|Burkhard Hupertz (Ford) and Nils Thome (AVL Schrick) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Nils_Thome%CC%81_20240920_AutoCFD4_mesh_analysis_BetaFord.pdf)|
-|Liang Yu (University of Sydney) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/SydneyQueensBelfastMQ.pdf)|
+|Maurice Nayman (Multimatic) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Maurice_Nayman_Nayman_Meshing.pdf) [Video](https://youtu.be/XrBA3VSzToc)| 
+|David Egan (Ennova Technologies) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/David_Egan_Ennova_Introduction_v12.pdf) [Video](https://youtu.be/om9pPazB1Is)| 
+|Burkhard Hupertz (Ford) and Nils Thome (AVL Schrick) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Nils_Thome%CC%81_20240920_AutoCFD4_mesh_analysis_BetaFord.pdf) [Video](https://youtu.be/pH_1SyMH__o)|
+|Liang Yu (University of Sydney) - Meshing TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/SydneyQueensBelfastMQ.pdf) [Video](https://youtu.be/SAAai6ywtcs)|
 
 
 <h5>Day 1 - SRS TFG</h5>
@@ -56,7 +56,7 @@ nav_order: 6
 
 <h5>Day 2 - Noise Factors TFG</h5>
 
-|Noise Factors TFG Summary  - Burkhard Hupertz (Ford) [Video](https://youtu.be/fQ6ZR4MPnKg)|
+|Noise Factors TFG Summary  - Burkhard Hupertz (Ford) [slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Hupertz_Noise_Factors_Intro.pdf) [Video](https://youtu.be/fQ6ZR4MPnKg)|
 |Guido Parenti (Dassault Systemes) - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Guido_Parenti_Parenti_HPC_PowerFLOW_Uncertainty_Quantification_using_DrivAer.pdf) [Video](https://youtu.be/rmtJsF_ECgM)|
 |Matthew Aultman (Ohio State University) - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Matthew_Aultman_Aultman_NoiseFactors.pdf) [Video](https://youtu.be/pAso0Nab-_Q)|
 |Grzegorz Borowiec (Siemens) - Noise Factors TFG [Slides](https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Grzegorz_Borowiec_Borowiec_noiseFactors.pdf) [Video](https://youtu.be/LIpN1A1ll24)|
