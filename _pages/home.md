@@ -28,7 +28,7 @@ For this workshop we will continue to use the Technology Focus Group (TFG) model
 
 [Meshing TFG](mailto:meshing@autocfd.org) - Vangelis Skaperdas (BETA-CAE Systems) \
 [Noise Factors TFG](mailto:noise@autocfd.org) - Burkhard Hupertz (Ford) \
-[AI/ML TFG](mailto:aiml@autocfd.org) - Neil Ashton (AWS) and Astrid Walle (Siemens Energy) \
+[AI/ML TFG](mailto:aiml@autocfd.org) - Neil Ashton (NVIDIA) and Astrid Walle (Siemens Energy) \
 [Scale Resolving Simulations (SRS) TFG](mailto:srs@autocfd.org) - Charles Mockett and Marian Fuchs (Upstream CFD) \
 [HPC TFG](mailto:hpc@autocfd.org) - Hebert Owen and Oriol Lehmkuhl (Barcelona Supercomputing Center) 
 
