@@ -13,4 +13,7 @@ children:
   - title: divider
   - title: autocfd3
     permalink: /autocfd3/
+  - title: divider
+  - title: autocfd4
+    permalink: /autocfd4/
 ---

@@ -3,6 +3,7 @@ AhmedML: High-Fidelity Computational Fluid Dynamics dataset for incompressible, 
 
 version history:
 ---------------
+12/11/2024 - added validation folder that contains the full output from all four mesh levels that were used to validate the methodology used.
 04/08/2024 - updates to the file description and arxiv paper
 05/06/2024 - global forces/geo added for all runs
 01/05/2024 - force/moments corrected (prior version had incorrect Cs data)
@@ -10,7 +11,11 @@ version history:
 
 contact: 
 ----------
-Neil Ashton - neashton@amazon.com
+Neil Ashton (who can pass messages to the contributors) - contact@caemldatasets.org
+
+website:
+----------
+Visit https://caemldatasets.org for the latest information on the datasets
 
 Summary:
 -------
@@ -52,6 +57,7 @@ stl : folder containing stl files that were used as inputs
 to the OpenFOAM process
 openfoam-casesetup.tgz : complete OpenFOAM setup that can be used to
 extend or reproduce the dataset
+validation : folder containing full outputs from all four mesh levels that were used to validate the methodology
 
 How to download:
 ----------------

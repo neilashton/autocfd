@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: AutoCFD4 # the website title (if blank, full name will be used instead)
+title: AutoCFD5 # the website title (if blank, full name will be used instead)
 email: admin@autocfd.org
 description: Automotive CFD Prediction Workshop
 footer_text: >

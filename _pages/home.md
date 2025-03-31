@@ -2,8 +2,8 @@
 layout: home
 title: home
 permalink: /
-page_title: "4th Automotive CFD Prediction Workshop"
-page_subtitle: September 26th/27th 2024, Queens University Belfast
+page_title: "5th Automotive CFD Prediction Workshop"
+page_subtitle: September/October 2026, Location TBC
 
 news: true # includes a list of news items
 ---
@@ -15,16 +15,16 @@ news: true # includes a list of news items
 
 <h3>Aims & Scope</h3>
 
-Following the success of the previous three workshops (Oxford, 2019, Berlin, 2021 and Barcelona, 2022), we’re proud to announce that the 4th Automotive CFD Prediction Workshop (AutoCFD 4) will be held in 2024, in person, on Sept 26th/27th at Queen's University Belfast.
+AutoCFD5 will be taking place September/October 2026, following the success of the previous four workshops (Oxford, 2019, Berlin, 2021, Barcelona, 2022 and Belfast, 2024). 
+The location will be announced later this year.
 
-
-The main objective of the 4th Automotive CFD Prediction Workshop is to assess the predictive capability of CFD codes for road-cars geometries. Through mandatory geometry, boundary conditions and computational grids the aim is to provide practical modelling guidelines to the automotive community e.g best-practice turbulence modelling, meshing, numerical schemes. In addition we want to bring the automotive CFD community (both academia and industry) together to discuss future directions. The test-cases for the 4th workshop remain the same as per the 3rd workshop to enable participants to continue their research and progress on the existing cases that still have many unresolved challenges.
+The main objective of the 5th Automotive CFD Prediction Workshop will be to continue the community effort to assess the predictive capability of CFD codes for road-cars geometries. Through mandatory geometry, boundary conditions and computational grids the aim is to provide practical modelling guidelines to the automotive community e.g best-practice turbulence modelling, meshing, numerical schemes. In addition we want to bring the automotive CFD community (both academia and industry) together to discuss future directions. The test-cases for AutoCFD5 will be confirmed in Q1 2025.
 
 Computing the test-cases is not required to attend the workshop but we strongly encourage everyone to consider submitting results.
 
 <h3>Technology Focus Groups</h3>
 
-For this workshop we will use a Technology Focus Group (TFG) model (inspired by the 4th AIAA high-lift CFD prediction workshop) where each particpant is requested to join a TFG which covers 5 core areas. These groups will meet every 4-5 weeks and colloboratively share findings and results as we move towards the workshop. The purpose is to encourage deeper discussions over a longer period, compared to only seeing other results and having a discussion during the 2 days of the workshop. The TFG leaders and contacts details are below. Please reach out to them to be included in the monthly meetings.
+For this workshop we will continue to use the Technology Focus Group (TFG) model where each particpant is requested to join a TFG which covers 5 core areas. These groups will meet every 4-5 weeks and colloboratively share findings and results as we move towards the workshop. The purpose is to encourage deeper discussions over a longer period, compared to only seeing other results and having a discussion during the 2 days of the workshop. The TFG leaders and contacts details are below. Please reach out to them to be included in the monthly meetings. They will be restarting in April/May 2025.
 
 [Meshing TFG](mailto:meshing@autocfd.org) - Vangelis Skaperdas (BETA-CAE Systems) \
 [Noise Factors TFG](mailto:noise@autocfd.org) - Burkhard Hupertz (Ford) \
@@ -39,14 +39,13 @@ Our data policy can be found [here](https://autocfdv3.s3.eu-west-1.amazonaws.com
 
 <h3> Organizers</h3>
 
-* Ben Thornber (Queens University Belfast) - **Local Organiser**
-* Neil Ashton (Amazon Web Services)
+* Neil Ashton (NVIDIA)
 * Burkhard Hupertz (Ford)
 * Gary Page (Loughborough University)
 * Charles Mockett (Upstream CFD)
 * Astrid Walle (Siemens Energy)
 * Vangelis Skaperdas (BETA-CAE Systems)
-* Oriol Lehmkuhl (Barcelona Supercomputing Center) 
+* Ben Thornber (Queens University Belfast)
 * Herbert Owen (Barcelona Supercomputing Center)
 * Charles Ribes (Stellantis)
 
