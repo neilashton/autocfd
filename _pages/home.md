@@ -26,7 +26,7 @@ Computing the test-cases is not required to attend the workshop but we strongly 
 
 For this workshop we will continue to use the Technology Focus Group (TFG) model where each particpant is requested to join a TFG which covers 5 core areas. These groups will meet every 4-5 weeks and colloboratively share findings and results as we move towards the workshop. The purpose is to encourage deeper discussions over a longer period, compared to only seeing other results and having a discussion during the 2 days of the workshop. The TFG leaders and contacts details are below. Please reach out to them to be included in the monthly meetings. They will be restarting in April/May 2025.
 
-[Meshing TFG](mailto:meshing@autocfd.org) - Vangelis Skaperdas (BETA-CAE Systems) \
+[Meshing TFG](mailto:vangelis@cadence.com) - Vangelis Skaperdas (Cadence / BETA-CAE Systems) \
 [Noise Factors TFG](mailto:noise@autocfd.org) - Burkhard Hupertz (Ford) \
 [AI/ML TFG](mailto:aiml@autocfd.org) - Neil Ashton (NVIDIA) and Astrid Walle (Siemens Energy) \
 [Scale Resolving Simulations (SRS) TFG](mailto:srs@autocfd.org) - Charles Mockett and Marian Fuchs (Upstream CFD) \
