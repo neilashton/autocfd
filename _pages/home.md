@@ -3,7 +3,7 @@ layout: home
 title: home
 permalink: /
 page_title: "5th Automotive CFD Prediction Workshop"
-page_subtitle: September/October 2026, Location TBC
+page_subtitle: October 8th-9th 2026, Dama Technopolo. Bologna, Italy
 
 news: true # includes a list of news items
 ---
@@ -15,8 +15,7 @@ news: true # includes a list of news items
 
 <h3>Aims & Scope</h3>
 
-AutoCFD5 will be taking place September/October 2026, following the success of the previous four workshops (Oxford, 2019, Berlin, 2021, Barcelona, 2022 and Belfast, 2024). 
-The location will be announced later this year.
+AutoCFD5 will be taking place October 8th-9th 2026 near Bologna, Italy following the success of the previous four workshops (Oxford, 2019, Berlin, 2021, Barcelona, 2022 and Belfast, 2024). 
 
 The main objective of the 5th Automotive CFD Prediction Workshop will be to continue the community effort to assess the predictive capability of CFD codes for road-cars geometries. Through mandatory geometry, boundary conditions and computational grids the aim is to provide practical modelling guidelines to the automotive community e.g best-practice turbulence modelling, meshing, numerical schemes. In addition we want to bring the automotive CFD community (both academia and industry) together to discuss future directions. The test-cases for AutoCFD5 will be confirmed in Q1 2025.
 
@@ -39,6 +38,7 @@ Our data policy can be found [here](https://autocfdv3.s3.eu-west-1.amazonaws.com
 
 <h3> Organizers</h3>
 
+* Simone Bra (CINECA) - local organiser
 * Neil Ashton (NVIDIA)
 * Burkhard Hupertz (Ford)
 * Gary Page (Loughborough University)
