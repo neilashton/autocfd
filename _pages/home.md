@@ -3,7 +3,7 @@ layout: home
 title: home
 permalink: /
 page_title: "5th Automotive CFD Prediction Workshop"
-page_subtitle: October 8th-9th 2026, Dama Technopolo. Bologna, Italy
+page_subtitle: October 8th-9th 2026, Dama Technopolo, Bologna, Italy
 
 news: true # includes a list of news items
 ---
@@ -15,15 +15,15 @@ news: true # includes a list of news items
 
 <h3>Aims & Scope</h3>
 
-AutoCFD5 will be taking place October 8th-9th 2026 near Bologna, Italy following the success of the previous four workshops (Oxford, 2019, Berlin, 2021, Barcelona, 2022 and Belfast, 2024). 
+AutoCFD5 will be taking place October 8th-9th 2026 at Dama Technopolo near Bologna, Italy with CINECA and UpstreamCFD as local co-organisers. This follows the success of the previous four workshops (Oxford, 2019, Berlin, 2021, Barcelona, 2022 and Belfast, 2024). 
 
-The main objective of the 5th Automotive CFD Prediction Workshop will be to continue the community effort to assess the predictive capability of CFD codes for road-cars geometries. Through mandatory geometry, boundary conditions and computational grids the aim is to provide practical modelling guidelines to the automotive community e.g best-practice turbulence modelling, meshing, numerical schemes. In addition we want to bring the automotive CFD community (both academia and industry) together to discuss future directions. The test-cases for AutoCFD5 will be confirmed in Q1 2025.
+The main objective of the 5th Automotive CFD Prediction Workshop will be to continue the community effort to assess the predictive capability of CFD codes for road-cars geometries. Through mandatory geometry, boundary conditions and computational grids the aim is to provide practical modelling guidelines to the automotive community e.g best-practice turbulence modelling, meshing, numerical schemes. In addition we want to bring the automotive CFD community (both academia and industry) together to discuss future directions. The test-cases for AutoCFD5 are the same as AutoCFD4.
 
 Computing the test-cases is not required to attend the workshop but we strongly encourage everyone to consider submitting results.
 
 <h3>Technology Focus Groups</h3>
 
-For this workshop we will continue to use the Technology Focus Group (TFG) model where each particpant is requested to join a TFG which covers 5 core areas. These groups will meet every 4-5 weeks and colloboratively share findings and results as we move towards the workshop. The purpose is to encourage deeper discussions over a longer period, compared to only seeing other results and having a discussion during the 2 days of the workshop. The TFG leaders and contacts details are below. Please reach out to them to be included in the monthly meetings. They will be restarting in April/May 2025.
+Based upon positive feedback from AutoCFD4, this workshop we will continue to use the Technology Focus Group (TFG) model where each particpant is requested to join a TFG which covers 5 core areas. These groups will meet every 4-5 weeks and colloboratively share findings and results as we move towards the workshop. The purpose is to encourage deeper discussions over a longer period, compared to only seeing other results and having a discussion during the 2 days of the workshop. The TFG leaders and contacts details are below. Please reach out to them to be included in the monthly meetings which started during the middle of 2025.
 
 [Meshing TFG](mailto:vangelis@cadence.com) - Vangelis Skaperdas (Cadence / BETA-CAE Systems) \
 [Noise Factors TFG](mailto:noise@autocfd.org) - Burkhard Hupertz (Ford) \
