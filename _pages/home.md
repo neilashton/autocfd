@@ -26,10 +26,10 @@ Computing the test-cases is not required to attend the workshop but we strongly 
 Based upon positive feedback from AutoCFD4, this workshop we will continue to use the Technology Focus Group (TFG) model where each particpant is requested to join a TFG which covers 5 core areas. These groups will meet every 4-5 weeks and colloboratively share findings and results as we move towards the workshop. The purpose is to encourage deeper discussions over a longer period, compared to only seeing other results and having a discussion during the 2 days of the workshop. The TFG leaders and contacts details are below. Please reach out to them to be included in the monthly meetings which started during the middle of 2025.
 
 [Meshing TFG](mailto:vangelis@cadence.com) - Vangelis Skaperdas (Cadence / BETA-CAE Systems) \
-[Noise Factors TFG](mailto:noise@autocfd.org) - Burkhard Hupertz (Ford) \
-[AI/ML TFG](mailto:aiml@autocfd.org) - Neil Ashton (NVIDIA) and Astrid Walle (Siemens Energy) \
-[Scale Resolving Simulations (SRS) TFG](mailto:srs@autocfd.org) - Charles Mockett and Marian Fuchs (Upstream CFD) \
-[HPC TFG](mailto:hpc@autocfd.org) - Hebert Owen and Oriol Lehmkuhl (Barcelona Supercomputing Center) 
+[Noise Factors TFG](mailto:bhupertz@ford.com) - Burkhard Hupertz (Ford) \
+[AI/ML TFG](mailto:nashton@nvidia.com) - Neil Ashton (NVIDIA) and Astrid Walle (Siemens Energy) \
+[Scale Resolving Simulations (SRS) TFG](mailto:charles.mockett@upstream-cfd.com) - Charles Mockett and Marian Fuchs (Upstream CFD) \
+[HPC TFG](mailto:herbert.owen@bsc.es) - Hebert Owen and Oriol Lehmkuhl (Barcelona Supercomputing Center) 
 
 
 A description of the scope and goals of each TFG can be found [here](https://autocfd4.s3.eu-west-1.amazonaws.com/AutoCFD_TFG_overall.pdf).
