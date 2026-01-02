@@ -3,7 +3,7 @@ layout: page
 permalink: /venue/
 title: venue
 description: 
-nav: false
+nav: true
 nav_order: 4
 ---
 
