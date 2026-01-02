@@ -3,7 +3,7 @@ layout: page
 permalink: /registration/
 title: registration
 description: 
-nav: false
+nav: true
 nav_order: 3
 ---
 

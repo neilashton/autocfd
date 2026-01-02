@@ -3,7 +3,7 @@ layout: page
 permalink: /agenda/
 title: agenda
 description: 
-nav: false
+nav: true
 nav_order: 5
 ---
 
