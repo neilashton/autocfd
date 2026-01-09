@@ -15,7 +15,7 @@ news: true # includes a list of news items
 
 <h3>Aims & Scope</h3>
 
-AutoCFD5 will be taking place October 8th-9th 2026 at Dama Technopolo near Bologna, Italy with CINECA and UpstreamCFD as local co-organisers. This follows the success of the previous four workshops (Oxford, 2019, Berlin, 2021, Barcelona, 2022 and Belfast, 2024). 
+AutoCFD5 will be taking place October 8th-9th 2026 at Dama Technopolo near Bologna, Italy with CINECA and Upstream CFD as local co-organisers. This follows the success of the previous four workshops (Oxford, 2019, Berlin, 2021, Barcelona, 2022 and Belfast, 2024). 
 
 The main objective of the 5th Automotive CFD Prediction Workshop will be to continue the community effort to assess the predictive capability of CFD codes for road-cars geometries. Through mandatory geometry, boundary conditions and computational grids the aim is to provide practical modelling guidelines to the automotive community e.g best-practice turbulence modelling, meshing, numerical schemes. In addition we want to bring the automotive CFD community (both academia and industry) together to discuss future directions. The test-cases for AutoCFD5 are the same as AutoCFD4 with the addition of the estate variant of the DrivAer. For the AI/ML portion, the open-source [DrivAerML](https://huggingface.co/datasets/neashton/drivaerml) dataset will be standard training dataset to assess model architectures.
 
@@ -29,7 +29,7 @@ Based upon positive feedback from AutoCFD4, this workshop we will continue to us
 [Noise Factors TFG](mailto:bhupertz@ford.com) - Burkhard Hupertz (Ford) \
 [AI/ML TFG](mailto:nashton@nvidia.com) - Neil Ashton (NVIDIA) and Astrid Walle (Siemens Energy) \
 [Scale Resolving Simulations (SRS) TFG](mailto:charles.mockett@upstream-cfd.com) - Charles Mockett and Marian Fuchs (Upstream CFD) \
-[HPC TFG](mailto:herbert.owen@bsc.es) - Hebert Owen and Oriol Lehmkuhl (Barcelona Supercomputing Center) 
+[HPC TFG](mailto:herbert.owen@bsc.es) - Herbert Owen and Oriol Lehmkuhl (Barcelona Supercomputing Center) 
 
 
 A description of the scope and goals of each TFG can be found [here](https://autocfd4.s3.eu-west-1.amazonaws.com/AutoCFD_TFG_overall.pdf).

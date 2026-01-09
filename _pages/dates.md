@@ -7,9 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-<b>Deadline for abstract*</b> : TBC \
-<b>Notice of acceptance</b> : TBC \
-<b>Deadline for data submission</b> : TBC \
+<b>Deadline for abstract*</b> : June 8th \
+<b>Notice of acceptance</b> : July 1st \
+<b>Deadline for data submission</b> : August 21st \
 <b>Workshop</b> : October 8th-9th 2026 
 <br/><br/>
 
