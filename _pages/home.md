@@ -43,7 +43,7 @@ Our data policy can be found [here](https://autocfdv3.s3.eu-west-1.amazonaws.com
 * Burkhard Hupertz (Ford)
 * Gary Page (Loughborough University)
 * Charles Mockett (Upstream CFD)
-* Astrid Walle (Siemens Energy)
+* Astrid Walle (Pasteur Labs)
 * Vangelis Skaperdas (BETA-CAE Systems)
 * Ben Thornber (Queens University Belfast)
 * Herbert Owen (Barcelona Supercomputing Center)
