@@ -18,16 +18,16 @@ Case 2 is the notchback version of the DrivAer and is the same as used in the 4t
 <h3> Submission </h3>
 Please note that submissions should be uploaded to [dropbox](https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi) and an email sent to admin@autocfd.org to inform the organizers. If your organization has restricted access to cloud upload services then please contact the admin email so that we can use an alternative
 
-<h3> Grids & Geometry (updated 05/03)
+<h3> Grids & Geometry (updated 05/03) </h3>
 
-<h4> Geometry & Surface Meshes
+<h4> Geometry & Surface Meshes </h4>
 
 | Case | CAD Data | Surface Mesh (STL) | Refinement Zones (STL) |
 | :--- | :--- | :--- | :--- |
 | **Case 2a** (Baseline) | [TUM](https://www.epc.ed.tum.de/en/aer/research-groups/automotive/drivaer/download/) / [STEP](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/autocfd4case2additionalgeo.zip) | [STL](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_Notchback_baseline_geometry.stl.gz) | [STL](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_Notchback_baseline_Refinement_Zones.stl.gz) |
 | **Case 2b** (Deflector) | [TUM](https://www.epc.ed.tum.de/en/aer/research-groups/automotive/drivaer/download/) / [STEP](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/autocfd4case2additionalgeo.zip) | [STL](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_front_wheel_deflectors_geometry.stl.gz) | [STL](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_front_wheel_deflectors_Refinement_Zone.stl.gz) |
 
-<h4> Volume Meshes
+<h4> Volume Meshes </h4>
 
 | Case | Mesh Resolution | CGNS | Fluent | OpenFOAM |
 | :--- | :--- | :--- | :--- | :--- |
