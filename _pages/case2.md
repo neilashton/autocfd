@@ -29,7 +29,7 @@ Please note that submissions should be uploaded to [dropbox](https://www.dropbox
 
 <h4> Volume Meshes </h4>
 
-| Case | Mesh Resolution | CGNS | Fluent | OpenFOAM |
+| | | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | **Case 2a** | **Coarse** | [CGNS](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline_COARSE.cgns.gz) | [Fluent](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline_COARSE.msh.gz) | [OpenFOAM](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline_COARSE_OF.tar.gz) |
 | (Baseline) | **Medium** | [CGNS](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline.cgns.gz) | [Fluent](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline.msh.gz) | [OpenFOAM](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline.tar.gz) |
