@@ -20,9 +20,22 @@ Case 2 is the notchback version of the DrivAer and is the same as used in the 4t
 <h3> Submission </h3>
 Please note that submissions should be uploaded to [dropbox](https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi) and an email sent to admin@autocfd.org to inform the organizers. If your organization has restricted access to cloud upload services then please contact the admin email so that we can use an alternative
 
-<h3>Grids (updated 02/26)</h3>
-| Case 2 CAD | [Baseline DrivAer](https://www.epc.ed.tum.de/en/aer/research-groups/automotive/drivaer/download/) | [Additional STEP](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/autocfd4case2additionalgeo.zip) |
-| Case 2a Surface | [STL](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_Notchback_baseline_geometry.stl.gz) | [STL (refinement zones) ](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_Notchback_baseline_Refinement_Zones.stl.gz)
-| Case 2b Surface  | [STL](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_front_wheel_deflectors_geometry.stl.gz) | [STL (refinement zones)](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_front_wheel_deflectors_Refinement_Zone.stl.gz)
-| Case 2a Volume | [CGNS](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline.cgns.gz) | [Fluent](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline.msh.gz) | [OpenFOAM](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline.tar.gz) |
-| Case 2b Volume | [CGNS](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2b_DrivAer_Notchback_deflectors.cgns.gz) | [Fluent](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2b_DrivAer_Notchback_deflectors.msh.gz) | [OpenFOAM](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2b_DrivAet_Notchback_deflectors.tar.gz) |
+### Grids & Geometry (updated 02/26)
+
+#### 1. Geometry & Surface Meshes
+| Case | CAD Data | Surface Mesh (STL) | Refinement Zones (STL) |
+| :--- | :--- | :--- | :--- |
+| **Case 2a** (Baseline) | [TUM Link](https://www.epc.ed.tum.de/en/aer/research-groups/automotive/drivaer/download/) / [STEP](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/autocfd4case2additionalgeo.zip) | [Download](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_Notchback_baseline_geometry.stl.gz) | [Download](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_Notchback_baseline_Refinement_Zones.stl.gz) |
+| **Case 2b** (Deflector) | [TUM Link](https://www.epc.ed.tum.de/en/aer/research-groups/automotive/drivaer/download/) / [STEP](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/meshes/autocfd4case2additionalgeo.zip) | [Download](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_front_wheel_deflectors_geometry.stl.gz) | [Download](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/DrivAer_front_wheel_deflectors_Refinement_Zone.stl.gz) |
+
+#### 2. Volume Meshes
+| Format | Case | Coarse | Medium (Baseline) | Fine |
+| :--- | :--- | :--- | :--- | :--- |
+| **CGNS** | 2a | [Link](#) | [Download](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline.cgns.gz) | [Link](#) |
+| | 2b | [Link](#) | [Download](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2b_DrivAer_Notchback_deflectors.cgns.gz) | [Link](#) |
+| **Fluent** | 2a | [Link](#) | [Download](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline.msh.gz) | [Link](#) |
+| | 2b | [Link](#) | [Download](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2b_DrivAer_Notchback_deflectors.msh.gz) | [Link](#) |
+| **OpenFOAM**| 2a | [Link](#) | [Download](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2a_DrivAer_Notchback_baseline.tar.gz) | [Link](#) |
+| | 2b | [Link](#) | [Download](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/Case_2b_DrivAet_Notchback_deflectors.tar.gz) | [Link](#) |
+
+
