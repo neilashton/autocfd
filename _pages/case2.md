@@ -13,7 +13,7 @@ Case 2 is the notchback version of the DrivAer and is the same as used in the 4t
 | [Test-case description (updated May24)](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/AutoCFD4_Case2_Intro_240409.pdf) |
 | [Submission template (updated May24)](https://autocfd4.s3.eu-west-1.amazonaws.com/test-cases/case2/AutoCFD4_DrivAer_Result_Template_v6s-2.xlsm) |
 | [Flowfield mapping (ANSA and NASTRAN formats)](https://autocfd2.s3-eu-west-1.amazonaws.com/test-cases/case2/AutoCFD2.zip) |
-| [Updated 2026 mesh details](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/AutoCFD5_new_Case_2_commitee_meshesv2.pdf) |
+| [Updated 2026 mesh details (May 2026)](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/20260318_AutoCFD5_new_commitee_meshes.pdf) |
 
 <h3> Submission </h3>
 Please note that submissions should be uploaded to [dropbox](https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi) and an email sent to admin@autocfd.org to inform the organizers. If your organization has restricted access to cloud upload services then please contact the admin email so that we can use an alternative
