@@ -36,20 +36,63 @@ From **Bologna Central Station**, take bus **Line 25** and get off at the "Cason
 
 *Dalla Stazione Centrale di Bologna prendere l'autobus Linea 25, fermata Casoni. Percorrere via Casoni fino all’incrocio con via Stalingrado, poi svoltare a sinistra in via Stalingrado.*
 
+<!-- Public Transport Route: Bologna Central Station to Venue -->
+<iframe 
+  src="https://maps.google.com/maps?saddr=Stazione+Centrale,+Bologna,+Italy&daddr=Via+Stalingrado,+84/3,+40128+Bologna&dirflg=r&output=embed" 
+  width="100%" 
+  height="300" 
+  style="border:0; margin-top: 10px; margin-bottom: 30px;" 
+  allowfullscreen="" 
+  loading="lazy">
+</iframe>
+
 ### By Car
 
 **From the Northern Ring Road (Tangenziale Nord)** Take Exit 7/7bis towards Bologna/Via Stalingrado.
 
-**From the Highway (Autostrada)** * **Coming from the North:** On the A13, take the Arcoveggio exit towards Bologna / Arcoveggio / Tangenziale / Bologna Centro / Aeroporto Bologna / FICO Eataly World. Then, take the Tangenziale ramp towards Ancona / Fiera-CAAB-FICO Eataly World / S. Lazzaro di Savena.
+**From the Highway (Autostrada)** 
+
+* **Coming from the North:** On the A13, take the Arcoveggio exit towards Bologna / Arcoveggio / Tangenziale / Bologna Centro / Aeroporto Bologna / FICO Eataly World. Then, take the Tangenziale ramp towards Ancona / Fiera-CAAB-FICO Eataly World / S. Lazzaro di Savena.
+
+<!-- Driving Route: A13 Arcoveggio to Venue -->
+<iframe 
+  src="https://maps.google.com/maps?saddr=Casello+Bologna+Arcoveggio&daddr=Via+Stalingrado,+84/3,+40128+Bologna&dirflg=d&output=embed" 
+  width="100%" 
+  height="300" 
+  style="border:0; margin-top: 10px; margin-bottom: 30px;" 
+  allowfullscreen="" 
+  loading="lazy">
+</iframe>
+
 * **Coming from the East:** On the E45, take the Bologna - S. Lazzaro exit toward Tangenziale / Bologna Center / Bologna Airport. Take the Northern ring road (Tangenziale Nord) and then exit at 7 bis, toward Bologna/Via Stalingrado.
+
+<!-- Driving Route: S. Lazzaro to Venue -->
+<iframe 
+  src="https://maps.google.com/maps?saddr=Casello+Bologna+San+Lazzaro&daddr=Via+Stalingrado,+84/3,+40128+Bologna&dirflg=d&output=embed" 
+  width="100%" 
+  height="300" 
+  style="border:0; margin-top: 10px; margin-bottom: 30px;" 
+  allowfullscreen="" 
+  loading="lazy">
+</iframe>
+
 * **Coming from the West:** On the E45, take the Bologna - B. Panigale exit toward Bologna / Borgo Panigale / Tangenziale / Bologna Center / Bologna Airport. Take the ramp for Tangenziale/Airport and enter Tangenziale Nord. Continue on Exit 3 -13 (directions for Padua / Ancona / Bologna Fair Airport / S. Lazzaro di Savena) and then exit at 7 bis, toward Bologna/Via Stalingrado.
+
+<!-- Driving Route: Borgo Panigale to Venue -->
+<iframe 
+  src="https://maps.google.com/maps?saddr=Casello+Bologna+Borgo+Panigale&daddr=Via+Stalingrado,+84/3,+40128+Bologna&dirflg=d&output=embed" 
+  width="100%" 
+  height="300" 
+  style="border:0; margin-top: 10px; margin-bottom: 30px;" 
+  allowfullscreen="" 
+  loading="lazy">
+</iframe>
 
 ### By Taxi
 
-Alternatively, you can reach the Technopole by taxi. A free smartphone app allows you to order taxis quickly, safely, and easily from wherever you are. 
+Alternatively, you can reach the Technopole by taxi. A free smartphone app allows you to order taxis quickly, safely, and easily from wherever you are.
 
 [Find more information on the Cotabo App here](https://www.cotabo.it/servizi/taxi-click/?lang=en).
-
 ## Local Organisers
 
 <!-- Logo container using flexbox to keep them side-by-side and responsive -->
