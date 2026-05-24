@@ -25,8 +25,7 @@ The event will be held at the **Dama Technopole**.
 
 ### Venue Photos
 
-<img class="photo" alt="Windsor Body" src="{{ site.baseurl }}/assets/img/venue.jpeg">
-
+<img class="photo" alt="Windsor Body" src="{{ site.baseurl }}/assets/img/venue.jpeg" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto 20px;">
 ---
 
 ## How to Get There
