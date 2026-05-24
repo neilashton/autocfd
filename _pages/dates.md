@@ -13,5 +13,5 @@ nav_order: 5
 <b>Workshop</b> : October 8th-9th 2026 
 <br/><br/>
 
-**Please e-mail admin@autocfd.org with your expression to participate so you can be assigned an ID.
+* Due to the large number of registered contributors and the limited number of speaking slots during the two days, all participants who are submitting results will also be asked to submit a 250 word abstract (PDF) describing their preliminary findings and methodology (([template](https://autocfd5.s3.eu-west-1.amazonaws.com/autocfd5-abstract-template.docx))). This will go through a light peer-review by the organising committee to select speaking slots. As part of the abstract process you'll be assigned an ID to handle your submissions and will be used when doing cross plotting. Please e-mail your abstract to admin@autocfd.org
 

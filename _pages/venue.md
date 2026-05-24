@@ -30,6 +30,26 @@ The event will be held at the **Dama Technopole**.
 
 ## How to Get There
 
+### By Air
+
+**Bologna Guglielmo Marconi Airport (BLQ)**
+The closest and most convenient airport is **Bologna Guglielmo Marconi Airport (BLQ)**. It is situated just 6 km from the city center. 
+
+To reach the city from the airport, the fastest option is the **Marconi Express** monorail. It runs every 7–15 minutes and connects the airport directly to Bologna Central Station in exactly 7 minutes. From the central station, you can follow the "By Public Transport" instructions to reach the venue.
+
+**Routes from Major European Cities**
+Bologna is exceptionally well-connected across Europe. You can find direct daily flights from major international hubs, including:
+* **London** (LHR, LGW, STN) via British Airways, Ryanair, and easyJet.
+* **Paris** (CDG, ORY, BVA) via Air France and Ryanair.
+* **Frankfurt & Munich** (FRA, MUC) via Lufthansa.
+* **Amsterdam** (AMS) via KLM.
+* **Madrid & Barcelona** (MAD, BCN) via Iberia, Vueling, and Ryanair.
+
+**Routes from the US & Intercontinental**
+While there are limited direct flights from the US to Bologna, arriving is still very straightforward. We recommend two main options for intercontinental travelers:
+* **Connecting via a European Hub:** The easiest route is to fly from the US to a major European hub (such as London LHR, Paris CDG, Frankfurt FRA, Munich MUC, or Amsterdam AMS) and take a short, direct connecting flight into Bologna (BLQ).
+* **Flying into Milan Malpensa (MXP):** Many major US cities (including New York, Chicago, Miami, and Atlanta) offer direct flights into Milan Malpensa. From Malpensa Airport, you can take the *Malpensa Express* train to Milano Centrale station, and then transfer to a high-speed train (*Frecciarossa* or *Italo*) down to Bologna Central Station. The entire train journey from Milan's airport to Bologna takes approximately 2 hours and 15 minutes.
+
 ### By Public Transport
 
 From **Bologna Central Station**, take bus **Line 25** and get off at the "Casoni" stop. Walk along Via Casoni until you reach the intersection with Via Stalingrado, then turn left onto Via Stalingrado.
