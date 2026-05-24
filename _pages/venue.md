@@ -50,3 +50,17 @@ From **Bologna Central Station**, take bus **Line 25** and get off at the "Cason
 Alternatively, you can reach the Technopole by taxi. A free smartphone app allows you to order taxis quickly, safely, and easily from wherever you are. 
 
 [Find more information on the Cotabo App here](https://www.cotabo.it/servizi/taxi-click/?lang=en).
+
+## Local Organisers
+
+<!-- Logo container using flexbox to keep them side-by-side and responsive -->
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
+  
+  <!-- Replace src with your actual logo paths -->
+  <img src="assets/img/cineca-logo.png" alt="Cineca Logo" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
+  
+  <img src="assets/img/upstreamcfdlogo.png" alt="upstreamCFD Logo" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
+  
+  <img src="assets/img/evcmlogo.png" alt="EVCM Logo" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
+
+</div>
