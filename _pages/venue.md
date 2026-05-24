@@ -55,12 +55,11 @@ Alternatively, you can reach the Technopole by taxi. A free smartphone app allow
 
 <!-- Logo container using flexbox to keep them side-by-side and responsive -->
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
-  
-  <!-- Replace src with your actual logo paths -->
-  <img src="assets/img/cineca-logo.png" alt="Cineca Logo" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
-  
-  <img src="assets/img/upstreamcfdlogo.png" alt="upstreamCFD Logo" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
-  
-  <img src="assets/img/evcmlogo.png" alt="EVCM Logo" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
+
+  <img class="photo" alt="Cineca Logo" src="{{ site.baseurl }}/assets/img/cineca-logo.png" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
+
+  <img class="photo" alt="upstreamCFD Logo" src="{{ site.baseurl }}/assets/img/upstreamcfdlogo.png" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
+
+  <img class="photo" alt="EVCM Logo" src="{{ site.baseurl }}/assets/img/evcmlogo.png" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
 
 </div>
