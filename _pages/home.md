@@ -38,7 +38,7 @@ Our data policy can be found [here](https://autocfdv3.s3.eu-west-1.amazonaws.com
 
 <h3> Organizers</h3>
 
-* Simone Bra (CINECA) - local organiser
+* Simone Bn&agrave (CINECA) - local organiser
 * Neil Ashton (NVIDIA)
 * Burkhard Hupertz (Ford)
 * Gary Page (Loughborough University)
