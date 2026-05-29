@@ -468,10 +468,12 @@ nav_order: 5
 
 </div>
 
+<!-- ================= SOCIAL PROGRAMME VENUES ================= -->
 <h2 style="margin-top: 40px; font-weight: 700; color: #212529;">Social Programme Venues</h2>
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px; font-family: system-ui, -apple-system, sans-serif; margin-bottom: 40px;">
 
+  <!-- Museo Enzo Ferrari Card -->
   <div style="flex: 1; min-width: 280px; border: 1px solid #e9ecef; border-radius: 8px; overflow: hidden; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: flex; flex-direction: column;">
     <img src="{{ site.baseurl }}/assets/img/01_Ferrari_SF90_03.jpeg" alt="Ferrari SF90" style="width: 100%; height: 180px; object-fit: cover;">
     <div style="padding: 15px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
@@ -483,14 +485,17 @@ nav_order: 5
     </div>
   </div>
 
+  <!-- Enoteca al Duomo Card -->
   <div style="flex: 1; min-width: 280px; border: 1px solid #e9ecef; border-radius: 8px; overflow: hidden; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: flex; flex-direction: column;">
-    <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80" alt="Enoteca al Duomo Modena" style="width: 100%; height: 180px; object-fit: cover;">
+    <img src="{{ site.baseurl }}/assets/img/restaurant.jpg" alt="Enoteca al Duomo Modena" style="width: 100%; height: 180px; object-fit: cover;">
     <div style="padding: 15px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <h4 style="margin: 0 0 8px 0; color: #212529; font-size: 1.1rem; font-weight: 600;">Enoteca al Duomo</h4>
         <p style="font-size: 0.9rem; color: #6c757d; margin: 0 0 15px 0; line-height: 1.4;">Enjoy a traditional dinner and regional Emilian wines situated in the historical heart of Modena's city center.</p>
       </div>
-      <a href="https://www.facebook.com/EnotecaAlDuomoModena/" target="_blank" style="display: inline-block; align-self: flex-start; padding: 6px 14px; background-color: #3b5998; color: #fff; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Visit Facebook Page</a>
+      <div>
+        <a href="https://share.google/0wP7jDpZufWl2Bq63" target="_blank" style="display: inline-block; align-self: flex-start; padding: 6px 14px; background-color: #ea4335; color: #fff; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 600; box-shadow: 0 1px 2px rgba(0,0,0,0.1);">View on Google Maps</a>
+      </div>
     </div>
   </div>
 
