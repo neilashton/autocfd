@@ -2,7 +2,7 @@
 layout: page
 permalink: /agenda/
 title: agenda
-description: Draft schedule for the 5th Automotive CFD Prediction Workshop
+description: Detailed schedule for the 5th Automotive CFD Prediction Workshop
 nav: true
 nav_order: 5
 ---
@@ -59,6 +59,10 @@ nav_order: 5
     background-color: #fbfcfe;
     border-left: 3px dashed #ced4da;
   }
+  .tfg-item {
+    background-color: #fdfdfe;
+    border-left: 3px solid #17a2b8;
+  }
   .social-item {
     background-color: #fffdf5;
     border-left: 3px solid #ffc107;
@@ -96,302 +100,372 @@ nav_order: 5
 <div class="agenda-container">
 
   <!-- ================= DAY 1 ================= -->
-  <div class="day-header">Thursday 8th October 2026</div>[cite: 3]
+  <div class="day-header">Thursday 8th October 2026[cite: 3]</div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>08:30 - 09:00</div>[cite: 3]
-      <div class="agenda-duration">30 min</div>[cite: 3]
+      <div>08:30 - 09:00</div>
+      <div class="agenda-duration">30 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Registration at the welcome desk</div>[cite: 3]
+      <div class="agenda-title">Registration at the welcome desk[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>09:00 - 09:10</div>[cite: 3]
-      <div class="agenda-duration">10 min</div>[cite: 3]
+      <div>09:00 - 09:10</div>
+      <div class="agenda-duration">10 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Opening remarks and workshop statistics</div>[cite: 3]
-      <div class="agenda-speaker">Simone Bnà & Neil Ashton</div>[cite: 3]
+      <div class="agenda-title">Opening remarks and workshop statistics[cite: 3]</div>
+      <div class="agenda-speaker">Simone Bnà & Neil Ashton[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>09:10 - 09:55</div>[cite: 3]
-      <div class="agenda-duration">45 min</div>[cite: 3]
+      <div>09:10 - 09:55</div>
+      <div class="agenda-duration">45 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Summary of Workshop Series and Introduction to AutoCFD5 Case 1 and 2</div>[cite: 3]
-      <div class="agenda-speaker">Gary Page & Burkhard Hupertz</div>[cite: 3]
+      <div class="agenda-title">Summary of Workshop Series and Introduction to AutoCFD5 Case 1 and 2[cite: 3]</div>
+      <div class="agenda-speaker">Gary Page & Burkhard Hupertz[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>09:55 - 10:15</div>[cite: 3]
-      <div class="agenda-duration">20 min</div>[cite: 3]
+      <div>09:55 - 10:15</div>
+      <div class="agenda-duration">20 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Meshing TFG Context and Summary</div>[cite: 3]
-      <div class="agenda-speaker">Chair: Vangelis Skaperdas</div>[cite: 3]
+      <div class="agenda-title">Meshing TFG Context and Summary[cite: 3]</div>
+      <div class="agenda-speaker">Chair: Vangelis Skaperdas[cite: 3]</div>
+    </div>
+  </div>
+
+  <div class="agenda-item tfg-item">
+    <div class="agenda-time-meta">
+      <div>10:15 - 11:15</div>
+      <div class="agenda-duration">1h 00m</div>
+    </div>
+    <div class="agenda-content">
+      <div class="agenda-title">TFG talks[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item break-item">
     <div class="agenda-time-meta">
-      <div>10:15 - 10:30</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>11:15 - 11:45</div>
+      <div class="agenda-duration">30 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Coffee Break</div>[cite: 3]
+      <div class="agenda-title">Coffee Break[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>10:30 - 10:45</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>11:45 - 12:15</div>
+      <div class="agenda-duration">30 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Scale Resolving Simulation TFG Context and Summary</div>[cite: 3]
-      <div class="agenda-speaker">Chair: Charlie Mockett</div>[cite: 3]
+      <div class="agenda-title">Scale Resolving Simulation TFG Context and Summary[cite: 3]</div>
+      <div class="agenda-speaker">Chair: Charlie Mockett[cite: 3]</div>
+    </div>
+  </div>
+
+  <div class="agenda-item tfg-item">
+    <div class="agenda-time-meta">
+      <div>12:15 - 12:45</div>
+      <div class="agenda-duration">30 min</div>
+    </div>
+    <div class="agenda-content">
+      <div class="agenda-title">TFG talks[cite: 3]</div>
+    </div>
+  </div>
+
+  <div class="agenda-item">
+    <div class="agenda-time-meta">
+      <div>12:45 - 13:00</div>
+      <div class="agenda-duration">15 min</div>
+    </div>
+    <div class="agenda-content">
+      <div class="agenda-title">TFG Summary[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item break-item">
     <div class="agenda-time-meta">
-      <div>10:45 - 11:15</div>[cite: 3]
-      <div class="agenda-duration">30 min</div>[cite: 3]
+      <div>13:00 - 14:30</div>
+      <div class="agenda-duration">1h 30m</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Coffee Break</div>[cite: 3]
+      <div class="agenda-title">Lunch Break[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>11:15 - 11:45</div>[cite: 3]
-      <div class="agenda-duration">30 min</div>[cite: 3]
+      <div>14:30 - 14:45</div>
+      <div class="agenda-duration">15 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">HPC TFG Context and Summary</div>[cite: 3]
-      <div class="agenda-speaker">Chair: Herbert Owen</div>[cite: 3]
+      <div class="agenda-title">HPC TFG Context and Summary[cite: 3]</div>
+      <div class="agenda-speaker">Chair: Herbert Owen[cite: 3]</div>
     </div>
   </div>
 
-  <div class="agenda-item">
+  <div class="agenda-item tfg-item">
     <div class="agenda-time-meta">
-      <div>11:45 - 12:15</div>[cite: 3]
-      <div class="agenda-duration">30 min</div>[cite: 3]
+      <div>14:45 - 15:30</div>
+      <div class="agenda-duration">45 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">TFG Summary</div>[cite: 3]
+      <div class="agenda-title">TFG talks[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item break-item">
     <div class="agenda-time-meta">
-      <div>12:15 - 14:30</div>[cite: 3]
-      <div class="agenda-duration">2h 15m</div>[cite: 3]
+      <div>15:30 - 16:00</div>
+      <div class="agenda-duration">30 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Lunch Break</div>[cite: 3]
+      <div class="agenda-title">Coffee Break[cite: 3]</div>
+    </div>
+  </div>
+
+  <div class="agenda-item tfg-item">
+    <div class="agenda-time-meta">
+      <div>16:00 - 16:50</div>
+      <div class="agenda-duration">50 min</div>
+    </div>
+    <div class="agenda-content">
+      <div class="agenda-title">TFG talks[cite: 3]</div>
+    </div>
+  </div>
+
+  <div class="agenda-item">
+    <div class="agenda-time-meta">
+      <div>16:50 - 17:00</div>
+      <div class="agenda-duration">10 min</div>
+    </div>
+    <div class="agenda-content">
+      <div class="agenda-title">TFG Summary[cite: 3]</div>
     </div>
   </div>
 
   <!-- Social Programme -->
-  <div class="day-header" style="border-left-color: #ffc107; background-color: #fffdf5;">Social Programme</div>
+  <div class="day-header" style="border-left-color: #ffc107; background-color: #fffdf5;">Social Programme[cite: 3]</div>
 
   <div class="agenda-item social-item">
     <div class="agenda-time-meta">
-      <div>14:30 - 16:00</div>[cite: 3]
-      <div class="agenda-duration">1h 30m</div>[cite: 3]
+      <div>17:00 - 18:00</div>
+      <div class="agenda-duration">1h 00m</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Travel with bus to Museum Enzo Ferrari Modena</div>[cite: 3]
+      <div class="agenda-title">Travel with bus to Museum Enzo Ferrari Modena[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item social-item">
     <div class="agenda-time-meta">
-      <div>16:00 - 18:00</div>[cite: 3]
-      <div class="agenda-duration">2h 00m</div>[cite: 3]
+      <div>18:00 - 19:00</div>
+      <div class="agenda-duration">1h 00m</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Museum Enzo Ferrari Modena visit with tour guides</div>[cite: 3]
-      <div class="agenda-speaker">(One guide per 20 participants)</div>[cite: 3]
+      <div class="agenda-title">Museum Enzo Ferrari Modena visit with tour guides[cite: 3]</div>
+      <div class="agenda-speaker">(One guide per 20 participants)[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item social-item">
     <div class="agenda-time-meta">
-      <div>18:00 - 19:00</div>[cite: 3]
-      <div class="agenda-duration">1h 00m</div>[cite: 3]
+      <div>19:00 - 19:30</div>
+      <div class="agenda-duration">30 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Travel to Restaurant "Enoteca al Duomo" in the city center of Modena</div>[cite: 3]
-      <div class="agenda-speaker">(20 minutes walking)</div>[cite: 3]
+      <div class="agenda-title">Travel to Restaurant "Enoteca al Duomo" in the city center of Modena[cite: 3]</div>
+      <div class="agenda-speaker">(20 minutes walking)[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item social-item">
     <div class="agenda-time-meta">
-      <div>19:00 - 19:30</div>[cite: 3]
-      <div class="agenda-duration">30 min</div>[cite: 3]
+      <div>19:30 - 20:00</div>
+      <div class="agenda-duration">30 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Aperitif in the main square</div>[cite: 3]
-      <div class="agenda-speaker">(Or in the loggia in case of rain)</div>[cite: 3]
+      <div class="agenda-title">Aperitif in the main square[cite: 3]</div>
+      <div class="agenda-speaker">(Or in the loggia in case of rain)[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item social-item">
     <div class="agenda-time-meta">
-      <div>19:30 - 22:00</div>[cite: 3]
-      <div class="agenda-duration">2h 30m</div>[cite: 3]
+      <div>20:00 - 22:00</div>
+      <div class="agenda-duration">2h 00m</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Dinner at the restaurant</div>[cite: 3]
+      <div class="agenda-title">Dinner at the restaurant[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item social-item">
     <div class="agenda-time-meta">
-      <div>22:00 - 23:00</div>[cite: 3]
-      <div class="agenda-duration">1h 00m</div>[cite: 3]
+      <div>22:00 - 23:00</div>
+      <div class="agenda-duration">1h 00m</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Travel back to Bologna main station</div>[cite: 3]
+      <div class="agenda-title">Travel back to Bologna main station[cite: 3]</div>
     </div>
   </div>
 
 
   <!-- ================= DAY 2 ================= -->
-  <div class="day-header">Friday 9th October 2026</div>[cite: 3]
+  <div class="day-header">Friday 9th October 2026[cite: 3]</div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>08:30 - 08:45</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>08:30 - 08:45</div>
+      <div class="agenda-duration">15 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Registration at the welcome desk</div>[cite: 3]
+      <div class="agenda-title">Registration at the welcome desk[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>08:45 - 09:00</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>08:45 - 09:00</div>
+      <div class="agenda-duration">15 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Day 1 recap and announcements</div>[cite: 3]
+      <div class="agenda-title">Day 1 recap and announcements[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>09:00 - 09:15</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>09:00 - 09:15</div>
+      <div class="agenda-duration">15 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Noise Factors TFG Context and Summary</div>[cite: 3]
-      <div class="agenda-speaker">Chair: Burkhard Hupertz</div>[cite: 3]
+      <div class="agenda-title">Noise Factors TFG Context and Summary[cite: 3]</div>
+      <div class="agenda-speaker">Chair: Burkhard Hupertz[cite: 3]</div>
+    </div>
+  </div>
+
+  <div class="agenda-item tfg-item">
+    <div class="agenda-time-meta">
+      <div>09:15 - 10:30</div>
+      <div class="agenda-duration">1h 15m</div>
+    </div>
+    <div class="agenda-content">
+      <div class="agenda-title">TFG talks[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>09:15 - 09:30</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>10:30 - 10:45</div>
+      <div class="agenda-duration">15 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">TFG Summary</div>[cite: 3]
+      <div class="agenda-title">TFG Summary[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item break-item">
     <div class="agenda-time-meta">
-      <div>09:30 - 09:45</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>10:45 - 11:15</div>
+      <div class="agenda-duration">30 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Coffee Break</div>[cite: 3]
+      <div class="agenda-title">Coffee Break[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>09:45 - 10:00</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>11:15 - 11:50</div>
+      <div class="agenda-duration">35 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">AI/ML TFG context, datasets and summary</div>[cite: 3]
-      <div class="agenda-speaker">Chairs: Neil Ashton & Astrid Walle</div>[cite: 3]
+      <div class="agenda-title">AI/ML TFG context, datasets and summary[cite: 3]</div>
+      <div class="agenda-speaker">Chairs: Neil Ashton & Astrid Walle[cite: 3]</div>
+    </div>
+  </div>
+
+  <div class="agenda-item tfg-item">
+    <div class="agenda-time-meta">
+      <div>11:50 - 12:35</div>
+      <div class="agenda-duration">45 min</div>
+    </div>
+    <div class="agenda-content">
+      <div class="agenda-title">TFG talks[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>10:00 - 10:15</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>12:35 - 12:45</div>
+      <div class="agenda-duration">10 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">TFG Summary</div>[cite: 3]
+      <div class="agenda-title">TFG Summary[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item break-item">
     <div class="agenda-time-meta">
-      <div>10:15 - 11:15</div>[cite: 3]
-      <div class="agenda-duration">1h 00m</div>[cite: 3]
+      <div>12:45 - 13:45</div>
+      <div class="agenda-duration">1h 00m</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Lunch Break</div>[cite: 3]
+      <div class="agenda-title">Lunch Break[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>11:15 - 11:50</div>[cite: 3]
-      <div class="agenda-duration">35 min</div>[cite: 3]
+      <div>13:45 - 15:00</div>
+      <div class="agenda-duration">1h 15m</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">OEM Panel Discussion</div>[cite: 3]
+      <div class="agenda-title">OEM Panel Discussion[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>11:50 - 12:05</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>15:00 - 15:45</div>
+      <div class="agenda-duration">45 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">TFG Lead Panel Discussion</div>[cite: 3]
+      <div class="agenda-title">TFG Lead Panel Discussion[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item">
     <div class="agenda-time-meta">
-      <div>12:05 - 12:20</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>15:45 - 16:00</div>
+      <div class="agenda-duration">15 min</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Summary, Close Remarks and Future Workshop Discussions</div>[cite: 3]
+      <div class="agenda-title">Summary, Close Remarks and Future Workshop Discussions[cite: 3]</div>
     </div>
   </div>
 
   <div class="agenda-item" style="border-bottom: 2px solid #6c757d;">
     <div class="agenda-time-meta">
-      <div>12:20 - 12:35</div>[cite: 3]
-      <div class="agenda-duration">15 min</div>[cite: 3]
+      <div>16:00</div>
+      <div class="agenda-duration">End</div>
     </div>
     <div class="agenda-content">
-      <div class="agenda-title">Close of Workshop</div>[cite: 3]
+      <div class="agenda-title">Close of Workshop[cite: 3]</div>
     </div>
   </div>
 
