@@ -473,7 +473,7 @@ nav_order: 5
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px; font-family: system-ui, -apple-system, sans-serif; margin-bottom: 40px;">
 
   <div style="flex: 1; min-width: 280px; border: 1px solid #e9ecef; border-radius: 8px; overflow: hidden; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: flex; flex-direction: column;">
-    <img src="https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=600&q=80" alt="Ferrari sports car close-up" style="width: 100%; height: 180px; object-fit: cover;">
+    <img src="{{ site.baseurl }}/assets/img/01_Ferrari_SF90_03.jpeg" alt="Ferrari SF90" style="width: 100%; height: 180px; object-fit: cover;">
     <div style="padding: 15px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <h4 style="margin: 0 0 8px 0; color: #212529; font-size: 1.1rem; font-weight: 600;">Museo Enzo Ferrari Modena</h4>
