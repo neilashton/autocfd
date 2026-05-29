@@ -467,3 +467,31 @@ nav_order: 5
   </div>
 
 </div>
+
+<h2 style="margin-top: 40px; font-weight: 700; color: #212529;">Social Programme Venues</h2>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px; font-family: system-ui, -apple-system, sans-serif; margin-bottom: 40px;">
+
+  <div style="flex: 1; min-width: 280px; border: 1px solid #e9ecef; border-radius: 8px; overflow: hidden; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: flex; flex-direction: column;">
+    <img src="https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=600&q=80" alt="Museo Enzo Ferrari Modena" style="width: 100%; height: 180px; object-fit: cover;">
+    <div style="padding: 15px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <h4 style="margin: 0 0 8px 0; color: #212529; font-size: 1.1rem; font-weight: 600;">Museo Enzo Ferrari Modena</h4>
+        <p style="font-size: 0.9rem; color: #6c757d; margin: 0 0 15px 0; line-height: 1.4;">Explore the spectacular futuristic pavilion dedicated to the life and sports cars of Enzo Ferrari in nearby Modena.</p>
+      </div>
+      <a href="https://www.ferrari.com/en-EN/museums/enzo-ferrari-modena" target="_blank" style="display: inline-block; align-self: flex-start; padding: 6px 14px; background-color: #ffc107; color: #212529; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 600;">Visit Official Website</a>
+    </div>
+  </div>
+
+  <div style="flex: 1; min-width: 280px; border: 1px solid #e9ecef; border-radius: 8px; overflow: hidden; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: flex; flex-direction: column;">
+    <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80" alt="Enoteca al Duomo Modena" style="width: 100%; height: 180px; object-fit: cover;">
+    <div style="padding: 15px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <h4 style="margin: 0 0 8px 0; color: #212529; font-size: 1.1rem; font-weight: 600;">Enoteca al Duomo</h4>
+        <p style="font-size: 0.9rem; color: #6c757d; margin: 0 0 15px 0; line-height: 1.4;">Enjoy a traditional dinner and regional Emilian wines situated in the historical heart of Modena's city center.</p>
+      </div>
+      <a href="https://www.facebook.com/EnotecaAlDuomoModena/" target="_blank" style="display: inline-block; align-self: flex-start; padding: 6px 14px; background-color: #3b5998; color: #fff; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Visit Facebook Page</a>
+    </div>
+  </div>
+
+</div>
