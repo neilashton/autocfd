@@ -21,8 +21,8 @@ news: true # includes a list of news items
 <p>
   <a class="btn btn-primary mb-2 mr-2" href="{{ '/registration/' | relative_url }}">Register for AutoCFD5</a>
   <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/agenda/' | relative_url }}">View the agenda</a>
-  <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/case1/' | relative_url }}">Case 1 downloads</a>
-  <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/case2/' | relative_url }}">Case 2 downloads</a>
+  <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/case1/' | relative_url }}">Case 1 details</a>
+  <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/case2/' | relative_url }}">Case 2 details</a>
   <a class="btn btn-outline-primary mb-2" href="https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi">Submit results</a>
 </p>
 
