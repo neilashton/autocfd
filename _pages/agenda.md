@@ -1,10 +1,12 @@
 ---
 layout: page
 permalink: /agenda/
-title: agenda
-description: Detailed schedule for the 5th Automotive CFD Prediction Workshop
+title: Agenda
+page_title: AutoCFD5 workshop agenda
+page_description: Two-day programme for AutoCFD5 in Bologna on 8–9 October 2026.
+description: View the two-day AutoCFD5 agenda for 8–9 October 2026, including test-case sessions, Technology Focus Groups and workshop discussions.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <style>
@@ -104,6 +106,8 @@ nav_order: 5
 ---
 
 <p class="agenda-note"><strong>DAMA Tecnopolo, Bologna, Italy</strong><br>All times are in Central European Summer Time (CEST).</p>
+
+Presentation files will be added to the [AutoCFD5 presentation materials page]({{ '/presentations/' | relative_url }}) after the workshop.
 
 <div class="agenda-container">
 
@@ -506,7 +510,7 @@ nav_order: 5
 
   <!-- Museo Enzo Ferrari Card -->
   <div style="flex: 1; min-width: 280px; border: 1px solid #e9ecef; border-radius: 8px; overflow: hidden; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: flex; flex-direction: column;">
-    <img src="{{ site.baseurl }}/assets/img/01_Ferrari_SF90_03.jpeg" alt="Ferrari SF90" style="width: 100%; height: 180px; object-fit: cover;">
+    <img src="{{ site.baseurl }}/assets/img/01_Ferrari_SF90_03.jpeg" alt="Ferrari SF90" width="1600" height="1200" loading="lazy" decoding="async" style="width: 100%; height: 180px; object-fit: cover;">
     <div style="padding: 15px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <h4 style="margin: 0 0 8px 0; color: #212529; font-size: 1.1rem; font-weight: 600;">Museo Enzo Ferrari Modena</h4>
@@ -518,7 +522,7 @@ nav_order: 5
 
   <!-- Enoteca al Duomo Card -->
   <div style="flex: 1; min-width: 280px; border: 1px solid #e9ecef; border-radius: 8px; overflow: hidden; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: flex; flex-direction: column;">
-    <img src="{{ site.baseurl }}/assets/img/restaurant.jpg" alt="Enoteca al Duomo Modena" style="width: 100%; height: 180px; object-fit: cover;">
+    <img src="{{ site.baseurl }}/assets/img/restaurant.jpg" alt="Enoteca al Duomo Modena" width="1360" height="907" loading="lazy" decoding="async" style="width: 100%; height: 180px; object-fit: cover;">
     <div style="padding: 15px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <h4 style="margin: 0 0 8px 0; color: #212529; font-size: 1.1rem; font-weight: 600;">Enoteca al Duomo</h4>

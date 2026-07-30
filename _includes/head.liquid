@@ -3,13 +3,18 @@
 
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
-<!-- <link rel="stylesheet" href="{{ '/assets/css/mdb.min.css' | relative_url | bust_file_cache }}"> -->
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/mdbootstrap@{{ site.mdb.version }}/css/mdb.min.css"
-  integrity="{{ site.mdb.integrity.css }}"
-  crossorigin="anonymous"
->
+{% assign load_mdb = false %}
+{% if page.mdb or page.layout == 'about' or page.layout == 'profiles' or page.layout == 'bib' or page.permalink == '/publications/' %}
+  {% assign load_mdb = true %}
+{% endif %}
+{% if load_mdb %}
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/mdbootstrap@{{ site.mdb.version }}/css/mdb.min.css"
+    integrity="{{ site.mdb.integrity.css }}"
+    crossorigin="anonymous"
+  >
+{% endif %}
 
 <!-- Bootstrap Table -->
 {% if page.pretty_table %}
@@ -17,26 +22,26 @@
 {% endif %}
 
 <!-- Fonts & Icons -->
-<link defer rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url | bust_file_cache }}">
-<link
-  defer
-  rel="stylesheet"
-  type="text/css"
-  href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
->
+{% if page.academicons or site.scholar_userid or site.semanticscholar_id or site.publons_id or site.orcid_id %}
+  <link rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url | bust_file_cache }}">
+{% endif %}
 
 <!-- Code Syntax Highlighting -->
-<link
-  defer
-  rel="stylesheet"
-  href="{{ '/assets/css/jekyll-pygments-themes-github.css' | relative_url | bust_file_cache }}"
-  media=""
-  id="highlight_theme_light"
->
+{% assign load_code_styles = false %}
+{% if page.code or page.code_diff or page.mermaid or page.chart or page.map or page.tikzjax or page.layout == 'post' or page.layout == 'distill' %}
+  {% assign load_code_styles = true %}
+{% endif %}
+{% if load_code_styles %}
+  <link
+    rel="stylesheet"
+    href="{{ '/assets/css/jekyll-pygments-themes-github.css' | relative_url | bust_file_cache }}"
+    id="highlight_theme_light"
+  >
+{% endif %}
 
 {% if page.toc and page.toc.sidebar %}
   <!-- Sidebar Table of Contents -->
-  <link defer href="{{ '/assets/css/bootstrap-toc.min.css' | relative_url | bust_file_cache }}" rel="stylesheet">
+  <link href="{{ '/assets/css/bootstrap-toc.min.css' | relative_url | bust_file_cache }}" rel="stylesheet">
 {% endif %}
 
 <!-- Styles -->
@@ -49,18 +54,18 @@
   <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache}}">
 {% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
 <!-- Dark Mode -->
 <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
 {% if site.enable_darkmode %}
-  <link
-    defer
-    rel="stylesheet"
-    href="{{ '/assets/css/jekyll-pygments-themes-native.css' | relative_url | bust_file_cache }}"
-    media="none"
-    id="highlight_theme_dark"
-  >
+  {% if load_code_styles %}
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/jekyll-pygments-themes-native.css' | relative_url | bust_file_cache }}"
+      media="none"
+      id="highlight_theme_dark"
+    >
+  {% endif %}
   <script>
     initTheme();
   </script>
@@ -69,7 +74,6 @@
 <!-- GeoJSON support via Leaflet -->
 {% if page.map %}
   <link
-    defer
     rel="stylesheet"
     href="https://unpkg.com/leaflet@{{ site.leaflet.version }}/dist/leaflet.css"
     integrity="{{ site.leaflet.integrity.css }}"
@@ -80,7 +84,6 @@
 <!-- diff2html -->
 {% if page.code_diff %}
   <link
-    defer
     rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/highlight.js@{{ site.highlightjs.version }}/styles/github.min.css"
     integrity="{{ site.highlightjs.integrity.css.light }}"
@@ -88,7 +91,6 @@
     media="screen and (prefers-color-scheme: light)"
   >
   <link
-    defer
     rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/highlight.js@{{ site.highlightjs.version }}/styles/github-dark.min.css"
     integrity="{{ site.highlightjs.integrity.css.dark }}"
@@ -96,7 +98,6 @@
     media="screen and (prefers-color-scheme: dark)"
   >
   <link
-    defer
     rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/diff2html@{{ site.diff2html.version }}/bundles/css/diff2html.min.css"
     integrity="{{ site.diff2html.integrity.css }}"
@@ -108,7 +109,6 @@
   <!-- Image comparison slider -->
   {% if page.images.compare %}
     <link
-      defer
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/img-comparison-slider@{{ site.img-comparison-slider.version }}/dist/styles.min.css"
     >
@@ -116,7 +116,6 @@
   <!-- Image slider -->
   {% if page.images.slider %}
     <link
-      defer
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/swiper@{{ site.swiper.version }}/swiper-bundle.min.css"
       integrity="{{ site.swiper.integrity.css }}"
@@ -126,5 +125,5 @@
 {% endif %}
 
 {% if page.tikzjax %}
-  <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
+  <link rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
 {% endif %}

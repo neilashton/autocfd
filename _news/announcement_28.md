@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The AutoCFD5 agenda has been updated. View the latest schedule [here](https://autocfd.org/agenda/).
+The AutoCFD5 agenda has been updated. View the [latest AutoCFD5 workshop schedule]({{ '/agenda/' | relative_url }}).

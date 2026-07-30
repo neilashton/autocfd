@@ -10,7 +10,7 @@
       {% else %}
         {% assign redirect = page.redirect | relative_url %}
       {% endif %}
-      <meta http-equiv="refresh" content="3; url={{ redirect }}">
+      <meta http-equiv="refresh" content="{{ page.redirect_delay | default: 3 }}; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
   </head>
@@ -19,7 +19,22 @@
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
     <!-- Header -->
     {% include header.liquid %}
-    <div class="header-background"><div class="img"></div></div>
+    <div class="site-hero" aria-hidden="true">
+      {% if site.imagemagick.enabled and jekyll.environment == 'production' %}
+        {% assign hero_image = '/assets/img/autocfd2-1400.webp' %}
+      {% else %}
+        {% assign hero_image = '/assets/img/autocfd2.png' %}
+      {% endif %}
+      <img
+        src="{{ hero_image | relative_url }}"
+        width="960"
+        height="171"
+        alt=""
+        loading="eager"
+        decoding="async"
+        fetchpriority="high"
+      >
+    </div>
     <!-- Content -->
     <div class="container mt-5" role="main">
       {% if page.toc and page.toc.sidebar %}

@@ -1,0 +1,20 @@
+default_image: /assets/img/og-autocfd5.jpg
+default_image_width: 1200
+default_image_height: 630
+default_image_type: image/jpeg
+
+organization:
+  name: AutoCFD
+
+event:
+  name: 5th Automotive CFD Prediction Workshop
+  start_date: "2026-10-08"
+  end_date: "2026-10-09"
+  registration_url: /registration/
+  location:
+    name: DAMA Tecnopolo, Bologna, Italy
+    street_address: Via Stalingrado, 84/3
+    address_locality: Bologna
+    address_region: BO
+    postal_code: "40128"
+    address_country: IT

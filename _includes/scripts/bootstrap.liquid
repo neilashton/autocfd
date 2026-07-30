@@ -1,8 +1,13 @@
 <!-- Bootsrap & MDB scripts -->
 <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
-<!-- <script src="{{ '/assets/js/mdb.min.js' | relative_url }}"></script> -->
-<script
-  src="https://cdn.jsdelivr.net/npm/mdbootstrap@{{ site.mdb.version }}/js/mdb.min.js"
-  integrity="{{ site.mdb.integrity.js }}"
-  crossorigin="anonymous"
-></script>
+{% assign load_mdb = false %}
+{% if page.mdb or page.layout == 'about' or page.layout == 'profiles' or page.layout == 'bib' or page.permalink == '/publications/' %}
+  {% assign load_mdb = true %}
+{% endif %}
+{% if load_mdb %}
+  <script
+    src="https://cdn.jsdelivr.net/npm/mdbootstrap@{{ site.mdb.version }}/js/mdb.min.js"
+    integrity="{{ site.mdb.integrity.js }}"
+    crossorigin="anonymous"
+  ></script>
+{% endif %}

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-AutoCFD5 will be happening September/October 2026. Further details will be announced shortly. 
+AutoCFD5 will be happening September/October 2026. Further details will be announced shortly.

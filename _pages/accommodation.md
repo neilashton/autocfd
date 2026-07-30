@@ -1,20 +1,26 @@
 ---
 layout: page
 permalink: /accommodation/
-title: accommodation
-description: Recommended hotels in Bologna
+title: Accommodation
+page_title: Accommodation in Bologna
+page_description: Suggested hotels for AutoCFD5 attendees travelling to Bologna.
+description: Find suggested hotels near Bologna Centrale for AutoCFD5, with addresses, booking links and directions to DAMA Tecnopolo, Bologna, Italy.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
-# Recommended Accommodation
+## Recommended accommodation
 
-For your convenience, we have compiled a list of recommended hotels. They are listed in order from nearest to farthest from the Bologna Central Station.
+For your convenience, we have compiled a list of suggested hotels. They are listed in order from nearest to farthest from Bologna Centrale railway station.
+
+See the [AutoCFD5 venue address and travel directions]({{ '/venue/' | relative_url }}) for routes from Bologna Centrale to DAMA Tecnopolo.
 
 ### 1. I Portici Hotel
+
 Located just a short walk from the station, offering a blend of modern design and historic architecture.
-* **Address:** Via Indipendenza 69, 40121 Bologna
-* **Website:** [iporticihotel.com](https://www.iporticihotel.com/)
+
+- **Address:** Via Indipendenza 69, 40121 Bologna
+- **Website:** [iporticihotel.com](https://www.iporticihotel.com/)
 
 <!-- Directions Map: I Portici to Venue -->
 <iframe 
@@ -27,9 +33,11 @@ Located just a short walk from the station, offering a blend of modern design an
 </iframe>
 
 ### 2. Monrif Hotels Bologna (Royal Hotel Carlton)
+
 This group includes the **Royal Hotel Carlton** and **Hotel Internazionale**, both offering excellent amenities near the station. Map shows directions from the Royal Hotel Carlton.
-* **Address (Royal Carlton):** Via Montebello 8, 40121 Bologna
-* **Website:** [monrifhotels.it](https://www.monrifhotels.it/)
+
+- **Address (Royal Carlton):** Via Montebello 8, 40121 Bologna
+- **Website:** [monrifhotels.it](https://www.monrifhotels.it/)
 
 <!-- Directions Map: Royal Hotel Carlton to Venue -->
 <iframe 
@@ -42,9 +50,11 @@ This group includes the **Royal Hotel Carlton** and **Hotel Internazionale**, bo
 </iframe>
 
 ### 3. Hotel Metropolitan
+
 A modern, sophisticated hotel with an oriental twist, situated on a quiet street near the city center.
-* **Address:** Via dell'Orso 6, 40121 Bologna
-* **Website:** [hotelmetropolitan.com](https://www.hotelmetropolitan.com/)
+
+- **Address:** Via dell'Orso 6, 40121 Bologna
+- **Website:** [hotelmetropolitan.com](https://www.hotelmetropolitan.com/)
 
 <!-- Directions Map: Hotel Metropolitan to Venue -->
 <iframe 
@@ -57,9 +67,11 @@ A modern, sophisticated hotel with an oriental twist, situated on a quiet street
 </iframe>
 
 ### 4. Hotel Accademia
+
 A comfortable and welcoming hotel located in the historic center, right in the university district.
-* **Address:** Via delle Belle Arti 6, 40126 Bologna
-* **Website:** [hotelaccademia.com](https://www.hotelaccademia.com/)
+
+- **Address:** Via delle Belle Arti 6, 40126 Bologna
+- **Website:** [hotelaccademia.com](https://www.hotelaccademia.com/)
 
 <!-- Directions Map: Hotel Accademia to Venue -->
 <iframe 

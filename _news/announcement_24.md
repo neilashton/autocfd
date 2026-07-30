@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Coarse and fine meshes added for case2.Please head to the [case2](https://autocfd.org/case2/) page to download them. 
+Coarse and fine meshes have been added for Case 2. Please head to the [Case 2 page]({{ '/case2/' | relative_url }}) to download them.

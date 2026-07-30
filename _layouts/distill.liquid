@@ -2,7 +2,7 @@
 <html>
   <head>
     {% include head.liquid %}
-    {% if site.enable_medium_zoom %}
+    {% if site.enable_medium_zoom and page.zoomable_images %}
       <!-- Medium Zoom JS -->
       <script
         defer
