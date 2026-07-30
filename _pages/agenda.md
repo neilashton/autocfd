@@ -7,112 +7,48 @@ page_description: Two-day programme for AutoCFD5 in Bologna on 8–9 October 202
 description: View the two-day AutoCFD5 agenda for 8–9 October 2026, including test-case sessions, Technology Focus Groups and workshop discussions.
 nav: true
 nav_order: 6
+content_class: agenda-page
 ---
 
-<style>
-  .agenda-container {
-    font-family: system-ui, -apple-system, sans-serif;
-    margin: 20px 0;
-  }
-  .agenda-note {
-    color: #495057;
-    margin: 0 0 20px 0;
-  }
-  .day-header {
-    background-color: #f8f9fa;
-    border-left: 5px solid #0056b3;
-    padding: 12px 15px;
-    margin: 30px 0 15px 0;
-    font-weight: bold;
-    font-size: 1.3rem;
-  }
-  .agenda-item {
-    display: flex;
-    flex-direction: column;
-    padding: 12px 15px;
-    border-bottom: 1px solid #e9ecef;
-    background: #fff;
-  }
-  .agenda-item:hover {
-    background-color: #fdfdfd;
-  }
-  .agenda-time-meta {
-    display: flex;
-    gap: 15px;
-    font-size: 0.9rem;
-    color: #6c757d;
-    margin-bottom: 4px;
-    font-weight: 500;
-  }
-  .agenda-duration {
-    background: #e9ecef;
-    padding: 1px 6px;
-    border-radius: 4px;
-    font-size: 0.8rem;
-  }
-  .agenda-title {
-    font-size: 1.05rem;
-    font-weight: 600;
-    color: #212529;
-  }
-  .agenda-speaker {
-    font-size: 0.95rem;
-    color: #495057;
-    margin-top: 2px;
-    font-style: italic;
-  }
-  .break-item {
-    background-color: #fbfcfe;
-    border-left: 3px dashed #ced4da;
-  }
-  .tfg-item {
-    background-color: #fdfdfe;
-    border-left: 3px solid #17a2b8;
-  }
-  .social-item {
-    background-color: #fffdf5;
-    border-left: 3px solid #ffc107;
-  }
-  .closing-item {
-    background-color: #fff7ed;
-    border-left: 3px solid #fd7e14;
-    border-bottom: 2px solid #6c757d;
-  }
+<div class="agenda-overview">
+  <div>
+    <span class="agenda-overview__label">Workshop programme</span>
+    <p class="agenda-note"><strong>DAMA Tecnopolo, Bologna, Italy</strong><br>All times are in Central European Summer Time (CEST).</p>
+  </div>
+  <a class="agenda-materials-link" href="{{ '/presentations/' | relative_url }}">Presentation materials</a>
+</div>
 
-  /* Desktop layout optimization */
-  @media (min-width: 768px) {
-    .agenda-item {
-      flex-direction: row;
-      align-items: center;
-      padding: 15px 20px;
-    }
-    .agenda-time-meta {
-      flex-direction: column;
-      gap: 2px;
-      min-width: 110px;
-      margin-bottom: 0;
-    }
-    .agenda-duration {
-      align-self: flex-start;
-      margin-top: 3px;
-    }
-    .agenda-content {
-      flex-grow: 1;
-      padding-left: 10px;
-    }
-  }
-</style>
+<p class="agenda-materials-note">Presentation files will be added to the <a href="{{ '/presentations/' | relative_url }}">AutoCFD5 presentation materials page</a> after the workshop.</p>
 
----
-
-<p class="agenda-note"><strong>DAMA Tecnopolo, Bologna, Italy</strong><br>All times are in Central European Summer Time (CEST).</p>
-
-Presentation files will be added to the [AutoCFD5 presentation materials page]({{ '/presentations/' | relative_url }}) after the workshop.
+<aside class="agenda-legend" aria-label="Agenda item types">
+  <span><i class="agenda-legend__marker" aria-hidden="true"></i>General workshop session</span>
+  <span><i class="agenda-legend__marker agenda-legend__marker--technical" aria-hidden="true"></i>Technical session</span>
+  <span><i class="agenda-legend__marker agenda-legend__marker--break" aria-hidden="true"></i>Break</span>
+  <span><i class="agenda-legend__marker agenda-legend__marker--social" aria-hidden="true"></i>Social programme</span>
+  <span><i class="agenda-legend__marker agenda-legend__marker--closing" aria-hidden="true"></i>Discussion and closing</span>
+</aside>
 
 <div class="agenda-container">
 
   <!-- ================= DAY 1 ================= -->
-  <div class="day-header">Thursday 8th October 2026</div>
+  <details class="agenda-day" open>
+    <summary class="agenda-day__summary">
+      <h2 class="agenda-day__heading">
+        <span class="agenda-day__label">Day 1</span>
+        <span class="agenda-day__date">Thursday 8 October 2026</span>
+        <span class="agenda-day__meta">08:30–23:00</span>
+      </h2>
+    </summary>
+    <div class="agenda-day__body">
+      <details class="agenda-period" open>
+        <summary class="agenda-period__summary">
+          <h3 class="agenda-period__heading">
+            <span>Morning programme</span>
+            <span class="agenda-period__meta">08:30–12:40 · 14 entries</span>
+          </h3>
+        </summary>
+        <div class="agenda-period__body">
+          <h4 class="agenda-group-label">Welcome and workshop introduction</h4>
 
   <div class="agenda-item">
     <div class="agenda-time-meta"><div>08:30 - 09:00</div><div class="agenda-duration">30 min</div></div>
@@ -134,6 +70,8 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
       <div class="agenda-speaker">Gary Page &amp; Burkhard Hupertz</div>
     </div>
   </div>
+
+  <h4 class="agenda-group-label">Meshing Technology Focus Group</h4>
 
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>09:40 - 09:55</div><div class="agenda-duration">15 min</div></div>
@@ -171,6 +109,8 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
     <div class="agenda-time-meta"><div>10:40 - 11:10</div><div class="agenda-duration">30 min</div></div>
     <div class="agenda-content"><div class="agenda-title">Coffee</div></div>
   </div>
+
+  <h4 class="agenda-group-label">Scale Resolving Simulation Technology Focus Group</h4>
 
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>11:10 - 11:25</div><div class="agenda-duration">15 min</div></div>
@@ -220,10 +160,25 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
     </div>
   </div>
 
-  <div class="agenda-item break-item">
-    <div class="agenda-time-meta"><div>12:40 - 14:10</div><div class="agenda-duration">1h 30m</div></div>
-    <div class="agenda-content"><div class="agenda-title">Lunch</div></div>
-  </div>
+        </div>
+      </details>
+
+      <div class="agenda-day-divider">
+        <div class="agenda-item break-item">
+          <div class="agenda-time-meta"><div>12:40 - 14:10</div><div class="agenda-duration">1h 30m</div></div>
+          <div class="agenda-content"><div class="agenda-title">Lunch</div></div>
+        </div>
+      </div>
+
+      <details class="agenda-period">
+        <summary class="agenda-period__summary">
+          <h3 class="agenda-period__heading">
+            <span>Afternoon programme</span>
+            <span class="agenda-period__meta">14:10–17:00 · 10 entries</span>
+          </h3>
+        </summary>
+        <div class="agenda-period__body">
+          <h4 class="agenda-group-label">Scale Resolving Simulation presentations</h4>
 
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>14:10 - 14:25</div><div class="agenda-duration">15 min</div></div>
@@ -260,7 +215,7 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>15:10 - 15:25</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Scale-resolving OpenFOAM simulations of the DriveAer case 2 using a novel family of dynamic RANS closures</div>
+      <div class="agenda-title">Scale-resolving OpenFOAM simulations of the DrivAer case 2 using a novel family of dynamic RANS closures</div>
       <div class="agenda-speaker">University of Modena and Reggio Emilia</div>
     </div>
   </div>
@@ -269,6 +224,8 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
     <div class="agenda-time-meta"><div>15:25 - 16:00</div><div class="agenda-duration">35 min</div></div>
     <div class="agenda-content"><div class="agenda-title">Coffee</div></div>
   </div>
+
+  <h4 class="agenda-group-label">High Performance Computing Technology Focus Group</h4>
 
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>16:00 - 16:15</div><div class="agenda-duration">15 min</div></div>
@@ -302,8 +259,18 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
     </div>
   </div>
 
-  <!-- Social Programme -->
-  <div class="day-header" style="border-left-color: #ffc107; background-color: #fffdf5;">Social Programme</div>
+        </div>
+      </details>
+
+      <!-- Social Programme -->
+      <details class="agenda-period agenda-period--social">
+        <summary class="agenda-period__summary">
+          <h3 class="agenda-period__heading">
+            <span>Social programme</span>
+            <span class="agenda-period__meta">17:00–23:00 · 6 activities</span>
+          </h3>
+        </summary>
+        <div class="agenda-period__body">
 
   <div class="agenda-item social-item">
     <div class="agenda-time-meta"><div>17:00 - 18:00</div><div class="agenda-duration">1h 00m</div></div>
@@ -338,8 +305,31 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
     <div class="agenda-content"><div class="agenda-title">Travel back to Bologna main station</div></div>
   </div>
 
+        </div>
+      </details>
+    </div>
+
+  </details>
+
   <!-- ================= DAY 2 ================= -->
-  <div class="day-header">Friday 9th October 2026</div>
+  <details class="agenda-day">
+    <summary class="agenda-day__summary">
+      <h2 class="agenda-day__heading">
+        <span class="agenda-day__label">Day 2</span>
+        <span class="agenda-day__date">Friday 9 October 2026</span>
+        <span class="agenda-day__meta">08:30–18:00</span>
+      </h2>
+    </summary>
+    <div class="agenda-day__body">
+      <details class="agenda-period" open>
+        <summary class="agenda-period__summary">
+          <h3 class="agenda-period__heading">
+            <span>Morning programme</span>
+            <span class="agenda-period__meta">08:30–12:45 · 16 entries</span>
+          </h3>
+        </summary>
+        <div class="agenda-period__body">
+          <h4 class="agenda-group-label">Welcome back and announcements</h4>
 
   <div class="agenda-item">
     <div class="agenda-time-meta"><div>08:30 - 08:45</div><div class="agenda-duration">15 min</div></div>
@@ -350,6 +340,8 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
     <div class="agenda-time-meta"><div>08:45 - 09:00</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content"><div class="agenda-title">Day 1 recap and announcements</div></div>
   </div>
+
+  <h4 class="agenda-group-label">Noise Factors Technology Focus Group</h4>
 
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>09:00 - 09:15</div><div class="agenda-duration">15 min</div></div>
@@ -386,7 +378,7 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>10:00 - 10:15</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Pacefish‘ LBM-based GPU-native CFD</div>
+      <div class="agenda-title">Pacefish's LBM-based GPU-native CFD</div>
       <div class="agenda-speaker">Numeric Systems</div>
     </div>
   </div>
@@ -411,6 +403,8 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
     <div class="agenda-time-meta"><div>10:45 - 11:15</div><div class="agenda-duration">30 min</div></div>
     <div class="agenda-content"><div class="agenda-title">Coffee</div></div>
   </div>
+
+  <h4 class="agenda-group-label">AI/ML Technology Focus Group</h4>
 
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>11:15 - 11:30</div><div class="agenda-duration">15 min</div></div>
@@ -460,10 +454,25 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
     </div>
   </div>
 
-  <div class="agenda-item break-item">
-    <div class="agenda-time-meta"><div>12:45 - 13:45</div><div class="agenda-duration">1h 00m</div></div>
-    <div class="agenda-content"><div class="agenda-title">Lunch</div></div>
-  </div>
+        </div>
+      </details>
+
+      <div class="agenda-day-divider">
+        <div class="agenda-item break-item">
+          <div class="agenda-time-meta"><div>12:45 - 13:45</div><div class="agenda-duration">1h 00m</div></div>
+          <div class="agenda-content"><div class="agenda-title">Lunch</div></div>
+        </div>
+      </div>
+
+      <details class="agenda-period">
+        <summary class="agenda-period__summary">
+          <h3 class="agenda-period__heading">
+            <span>Afternoon programme and close</span>
+            <span class="agenda-period__meta">13:45–18:00 · 6 entries</span>
+          </h3>
+        </summary>
+        <div class="agenda-period__body">
+          <h4 class="agenda-group-label">AI/ML presentations</h4>
 
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>13:45 - 14:00</div><div class="agenda-duration">15 min</div></div>
@@ -481,19 +490,22 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
     </div>
   </div>
 
-  <div class="agenda-item">
-    <div class="agenda-time-meta"><div>14:15 - 15:00</div><div class="agenda-duration">45 min</div></div>
-    <div class="agenda-content"><div class="agenda-title">OEM Panel Discussion</div></div>
-  </div>
+  <h4 class="agenda-group-label">Panel discussions and workshop close</h4>
 
-  <div class="agenda-item">
-    <div class="agenda-time-meta"><div>15:00 - 15:45</div><div class="agenda-duration">45 min</div></div>
-    <div class="agenda-content"><div class="agenda-title">TFG Lead Panel Discussion</div></div>
-  </div>
+          <div class="agenda-item closing-item">
+            <div class="agenda-time-meta"><div>14:15 - 15:00</div><div class="agenda-duration">45 min</div></div>
+            <div class="agenda-content"><div class="agenda-title">OEM Panel Discussion</div></div>
+          </div>
 
-  <div class="agenda-item">
-    <div class="agenda-time-meta"><div>15:45 - 16:00</div><div class="agenda-duration">15 min</div></div>
-    <div class="agenda-content"><div class="agenda-title">Summary, Closing Remarks and Future Workshop Discussions</div></div>
+          <div class="agenda-item closing-item">
+            <div class="agenda-time-meta"><div>15:00 - 15:45</div><div class="agenda-duration">45 min</div></div>
+            <div class="agenda-content"><div class="agenda-title">TFG Lead Panel Discussion</div></div>
+          </div>
+
+          <div class="agenda-item closing-item">
+            <div class="agenda-time-meta"><div>15:45 - 16:00</div><div class="agenda-duration">15 min</div></div>
+            <div class="agenda-content"><div class="agenda-title">Summary, Closing Remarks and Future Workshop Discussions</div></div>
+
   </div>
 
   <div class="agenda-item closing-item">
@@ -501,37 +513,44 @@ Presentation files will be added to the [AutoCFD5 presentation materials page]({
     <div class="agenda-content"><div class="agenda-title">Close of Workshop, optional networking event</div></div>
   </div>
 
+        </div>
+      </details>
+    </div>
+
+  </details>
 </div>
 
 <!-- ================= SOCIAL PROGRAMME VENUES ================= -->
-<h2 style="margin-top: 40px; font-weight: 700; color: #212529;">Social Programme Venues</h2>
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px; font-family: system-ui, -apple-system, sans-serif; margin-bottom: 40px;">
-
-  <!-- Museo Enzo Ferrari Card -->
-  <div style="flex: 1; min-width: 280px; border: 1px solid #e9ecef; border-radius: 8px; overflow: hidden; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: flex; flex-direction: column;">
-    <img src="{{ site.baseurl }}/assets/img/01_Ferrari_SF90_03.jpeg" alt="Ferrari SF90" width="1600" height="1200" loading="lazy" decoding="async" style="width: 100%; height: 180px; object-fit: cover;">
-    <div style="padding: 15px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <h4 style="margin: 0 0 8px 0; color: #212529; font-size: 1.1rem; font-weight: 600;">Museo Enzo Ferrari Modena</h4>
-        <p style="font-size: 0.9rem; color: #6c757d; margin: 0 0 15px 0; line-height: 1.4;">Explore the spectacular futuristic pavilion dedicated to the life and sports cars of Enzo Ferrari in nearby Modena.</p>
-      </div>
-      <a href="https://www.ferrari.com/en-EN/museums/enzo-ferrari-modena" target="_blank" style="display: inline-block; align-self: flex-start; padding: 6px 14px; background-color: #ffc107; color: #212529; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 600;">Visit Official Website</a>
-    </div>
+<section class="agenda-venues" aria-labelledby="social-venues">
+  <div class="agenda-section-heading">
+    <span class="agenda-overview__label">Evening programme</span>
+    <h2 id="social-venues">Social programme venues</h2>
   </div>
 
-  <!-- Enoteca al Duomo Card -->
-  <div style="flex: 1; min-width: 280px; border: 1px solid #e9ecef; border-radius: 8px; overflow: hidden; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: flex; flex-direction: column;">
-    <img src="{{ site.baseurl }}/assets/img/restaurant.jpg" alt="Enoteca al Duomo Modena" width="1360" height="907" loading="lazy" decoding="async" style="width: 100%; height: 180px; object-fit: cover;">
-    <div style="padding: 15px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-      <div>
-        <h4 style="margin: 0 0 8px 0; color: #212529; font-size: 1.1rem; font-weight: 600;">Enoteca al Duomo</h4>
-        <p style="font-size: 0.9rem; color: #6c757d; margin: 0 0 15px 0; line-height: 1.4;">Enjoy a traditional dinner and regional Emilian wines situated in the historical heart of Modena's city center.</p>
+  <div class="agenda-venue-grid">
+    <!-- Museo Enzo Ferrari Card -->
+    <article class="agenda-venue-card">
+      <img class="agenda-venue-card__image" src="{{ site.baseurl }}/assets/img/01_Ferrari_SF90_03.jpeg" alt="Ferrari SF90" width="1600" height="1200" loading="lazy" decoding="async">
+      <div class="agenda-venue-card__body">
+        <div>
+          <h3>Museo Enzo Ferrari Modena</h3>
+          <p>Explore the spectacular futuristic pavilion dedicated to the life and sports cars of Enzo Ferrari in nearby Modena.</p>
+        </div>
+        <a class="agenda-venue-card__link agenda-venue-card__link--museum" href="https://www.ferrari.com/en-EN/museums/enzo-ferrari-modena" target="_blank">Visit official website</a>
       </div>
-      <div>
-        <a href="https://share.google/0wP7jDpZufWl2Bq63" target="_blank" style="display: inline-block; align-self: flex-start; padding: 6px 14px; background-color: #ea4335; color: #fff; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 600; box-shadow: 0 1px 2px rgba(0,0,0,0.1);">View on Google Maps</a>
-      </div>
-    </div>
-  </div>
+    </article>
 
-</div>
+    <!-- Enoteca al Duomo Card -->
+    <article class="agenda-venue-card">
+      <img class="agenda-venue-card__image" src="{{ site.baseurl }}/assets/img/restaurant.jpg" alt="Enoteca al Duomo Modena" width="1360" height="907" loading="lazy" decoding="async">
+      <div class="agenda-venue-card__body">
+        <div>
+          <h3>Enoteca al Duomo</h3>
+          <p>Enjoy a traditional dinner and regional Emilian wines situated in the historical heart of Modena's city center.</p>
+        </div>
+        <a class="agenda-venue-card__link agenda-venue-card__link--maps" href="https://share.google/0wP7jDpZufWl2Bq63" target="_blank">View on Google Maps</a>
+      </div>
+    </article>
+
+  </div>
+</section>
