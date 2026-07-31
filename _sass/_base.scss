@@ -1057,44 +1057,178 @@ nav[data-toggle="toc"] {
     top: 0;
   }
 }
-// Organizer
+// Organisers page
 
-.organizer {
-  width: 100%;
+.organizers-page {
+  .organizer-section {
+    margin-top: 2.5rem;
 
-  .photo {
-    margin-right: 1rem;
-    width: 100%;
-  }
-
-  .p {
-    font-style: monospace;
-    font-size: 0.75em;
-    margin-top: 10px;
-    margin-left: 230px;
-  }
-}
-@media (min-width: 576px) {
-  .organizer {
-    margin-bottom: 35px;
-
-    .photo {
-      width: 25%;
-      float: left;
-      object-fit: cover;
-      border-radius: 8px;
+    &:first-of-type {
+      margin-top: 2rem;
     }
 
-    .info {
-      p {
-        font-size: 1em;
+    > h2 {
+      margin-bottom: 1.1rem;
+      padding-bottom: 0.65rem;
+      border-bottom: 2px solid var(--global-divider-color);
+      font-size: 1.35rem;
+    }
+  }
+
+  .organizer-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+  }
+
+  .organizer-grid--local {
+    grid-template-columns: minmax(0, 31rem);
+  }
+
+  .organizer-card {
+    display: flex;
+    min-width: 0;
+    min-height: 9.25rem;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.85rem;
+    background: var(--global-card-bg-color);
+    box-shadow: 0 0.2rem 0.8rem var(--global-divider-color);
+  }
+
+  .organizer-card--local {
+    border-left: 5px solid var(--global-theme-color);
+    background: linear-gradient(115deg, var(--global-card-bg-color), var(--global-code-bg-color));
+  }
+
+  .organizer-card__portrait {
+    display: grid;
+    width: 7rem;
+    height: 7rem;
+    flex: 0 0 7rem;
+    place-items: center;
+    overflow: hidden;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.75rem;
+    background: var(--global-code-bg-color);
+  }
+
+  .organizer-card__portrait--inset {
+    padding: 0.45rem;
+
+    .organizer-card__photo {
+      border-radius: 0.45rem;
+    }
+  }
+
+  .organizer-card__photo {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    margin: 0;
+    object-fit: cover;
+    object-position: 50% 50%;
+  }
+
+  .organizer-card__photo--portrait {
+    object-position: 50% 23%;
+  }
+
+  .organizer-card__info {
+    min-width: 0;
+    flex: 1;
+
+    h3 {
+      margin: 0 0 0.3rem;
+      font-size: 1.02rem;
+      line-height: 1.3;
+    }
+  }
+
+  .organizer-card__affiliation {
+    margin: 0;
+    color: var(--global-text-color);
+    font-size: 0.86rem;
+    line-height: 1.45;
+  }
+
+  .organizer-card__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.75rem;
+
+    a {
+      display: inline-flex;
+      width: 2.15rem;
+      height: 2.15rem;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid var(--global-divider-color);
+      border-radius: 50%;
+      background: var(--global-code-bg-color);
+      color: var(--global-theme-color);
+      text-decoration: none;
+
+      &:hover {
+        border-color: var(--global-theme-color);
+        background: var(--global-theme-color);
+        color: var(--global-hover-text-color);
+        text-decoration: none;
+      }
+
+      &:focus-visible {
+        outline: 3px solid var(--global-theme-color);
+        outline-offset: 3px;
       }
     }
+  }
+}
 
-    .bio {
-      font-size: 0.75em;
-      margin-top: 10px;
-      margin-left: 230px;
+@media (max-width: 760px) {
+  .organizers-page {
+    .organizer-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .organizer-grid--local {
+      max-width: 31rem;
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  .organizers-page {
+    .organizer-section {
+      margin-top: 2rem;
+    }
+
+    .organizer-card {
+      min-height: 7.4rem;
+      gap: 0.85rem;
+      padding: 0.85rem;
+    }
+
+    .organizer-card__portrait {
+      width: 5.5rem;
+      height: 5.5rem;
+      flex-basis: 5.5rem;
+    }
+
+    .organizer-card__portrait--inset {
+      padding: 0.35rem;
+    }
+  }
+}
+
+@media print {
+  .organizers-page {
+    .organizer-card {
+      break-inside: avoid;
+      box-shadow: none;
     }
   }
 }
