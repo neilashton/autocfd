@@ -3,22 +3,22 @@ layout: page
 permalink: /venue/
 title: Venue
 page_title: AutoCFD5 venue and travel
-page_description: Venue details and travel information for AutoCFD5 at DAMA Tecnopolo, Bologna, Italy.
-description: Find the AutoCFD5 venue address, airport, public transport, driving and taxi information for DAMA Tecnopolo, Bologna, Italy.
+page_description: Venue details and travel information for AutoCFD5 at DAMA Technopole, Bologna, Italy.
+description: Find the AutoCFD5 venue address, airport, public transport, driving and taxi information for DAMA Technopole, Bologna, Italy.
 nav: true
 nav_order: 4
 ---
 
 ## Venue location
 
-AutoCFD5 will be held at **DAMA Tecnopolo, Bologna, Italy**.
+AutoCFD5 will be held at **DAMA Technopole, Bologna, Italy**.
 
 **Address:** Via Stalingrado 84/3, 40128 Bologna BO, Italy
 
 Attendees can also review the [recommended accommodation near Bologna Centrale]({{ '/accommodation/' | relative_url }}) when planning their visit.
 
 <iframe 
-  src="https://maps.google.com/maps?q=DAMA%20Tecnopolo,%20Bologna,%20Italy&t=&z=15&ie=UTF8&iwloc=&output=embed"
+  src="https://maps.google.com/maps?q=DAMA%20Technopole,%20Bologna,%20Italy&t=&z=15&ie=UTF8&iwloc=&output=embed"
   width="100%" 
   height="450" 
   style="border:0; margin-bottom: 20px;" 
@@ -29,7 +29,7 @@ Attendees can also review the [recommended accommodation near Bologna Centrale](
 
 ### Venue Photos
 
-<img class="photo" alt="DAMA Tecnopolo, Bologna, Italy workshop venue" src="{{ site.baseurl }}/assets/img/venue.jpeg" width="1200" height="800" loading="lazy" decoding="async" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto 20px;">
+<img class="photo" alt="DAMA Technopole, Bologna, Italy workshop venue" src="{{ site.baseurl }}/assets/img/venue.jpeg" width="1200" height="800" loading="lazy" decoding="async" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 0 auto 20px;">
 
 ## How to Get There
 
@@ -115,7 +115,7 @@ _Dalla Stazione Centrale di Bologna prendere l'autobus Linea 25, fermata Casoni.
 
 ### By Taxi
 
-Alternatively, you can reach DAMA Tecnopolo, Bologna, Italy, by taxi. A free smartphone app allows you to order taxis quickly, safely, and easily from wherever you are.
+Alternatively, you can reach DAMA Technopole, Bologna, Italy, by taxi. A free smartphone app allows you to order taxis quickly, safely, and easily from wherever you are.
 
 [Find more information on the Cotabo App here](https://www.cotabo.it/servizi/taxi-click/?lang=en).
 

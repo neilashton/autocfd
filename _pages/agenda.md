@@ -13,7 +13,7 @@ content_class: agenda-page
 <div class="agenda-overview">
   <div>
     <span class="agenda-overview__label">Workshop programme</span>
-    <p class="agenda-note"><strong>DAMA Tecnopolo, Bologna, Italy</strong><br>All times are in Central European Summer Time (CEST).</p>
+    <p class="agenda-note"><strong>DAMA Technopole, Bologna, Italy</strong><br>All times are in Central European Summer Time (CEST).</p>
   </div>
   <a class="agenda-materials-link" href="{{ '/presentations/' | relative_url }}">Presentation materials</a>
 </div>

@@ -3,7 +3,7 @@ layout: home
 title: Home
 permalink: /
 page_title: "5th Automotive CFD Prediction Workshop"
-page_subtitle: 8–9 October 2026 · DAMA Tecnopolo, Bologna, Italy
+page_subtitle: 8–9 October 2026 · DAMA Technopole, Bologna, Italy
 description: Join AutoCFD5 in Bologna on 8–9 October 2026 to compare automotive CFD predictions, benchmark methods and share practical modelling guidance.
 
 news: true # includes a list of news items
@@ -28,7 +28,7 @@ news: true # includes a list of news items
 
 ## Aims and scope
 
-AutoCFD5 will take place on 8–9 October 2026 at **DAMA Tecnopolo, Bologna, Italy**, with CINECA and Upstream CFD as local co-organisers. This follows the success of the previous four workshops: [AutoCFD1 in Oxford (2019)]({{ '/autocfd1/' | relative_url }}), [AutoCFD2 in Berlin (2021)]({{ '/autocfd2/' | relative_url }}), [AutoCFD3 in Barcelona (2022)]({{ '/autocfd3/' | relative_url }}) and [AutoCFD4 in Belfast (2024)]({{ '/autocfd4/' | relative_url }}).
+AutoCFD5 will take place on 8–9 October 2026 at **DAMA Technopole, Bologna, Italy**, with CINECA and Upstream CFD as local co-organisers. This follows the success of the previous four workshops: [AutoCFD1 in Oxford (2019)]({{ '/autocfd1/' | relative_url }}), [AutoCFD2 in Berlin (2021)]({{ '/autocfd2/' | relative_url }}), [AutoCFD3 in Barcelona (2022)]({{ '/autocfd3/' | relative_url }}) and [AutoCFD4 in Belfast (2024)]({{ '/autocfd4/' | relative_url }}).
 
 The main objective of the 5th Automotive CFD Prediction Workshop is to continue the community effort to assess the predictive capability of CFD codes for road-car geometries. Using prescribed geometry, boundary conditions and computational grids, the workshop aims to provide practical modelling guidance for the automotive community, including best practice for turbulence modelling, meshing and numerical schemes. It also brings together automotive CFD researchers and practitioners from academia and industry to discuss future directions. The AutoCFD5 test cases build on the benchmark configurations used for AutoCFD4. For the AI/ML activity, the open-source [DrivAerML dataset](https://huggingface.co/datasets/neashton/drivaerml) is the standard training dataset used to assess model architectures.
 

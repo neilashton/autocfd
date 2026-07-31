@@ -19,7 +19,7 @@ content_class: dates-page
   <div class="dates-summary__card dates-summary__card--workshop">
     <span class="dates-summary__label">Workshop</span>
     <strong class="dates-summary__date">8–9 October 2026</strong>
-    <span class="dates-summary__detail">DAMA Tecnopolo, Bologna, Italy</span>
+    <span class="dates-summary__detail">DAMA Technopole, Bologna, Italy</span>
   </div>
 </div>
 
@@ -92,7 +92,7 @@ content_class: dates-page
         </time>
         <div class="dates-milestone__content">
           <h3>AutoCFD5 workshop</h3>
-          <p>Two days of test-case results and technical discussion at DAMA Tecnopolo, Bologna, Italy.</p>
+          <p>Two days of test-case results and technical discussion at DAMA Technopole, Bologna, Italy.</p>
         </div>
         <span class="dates-status">Upcoming</span>
       </article>

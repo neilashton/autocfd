@@ -4,7 +4,7 @@
 
 title: AutoCFD5 # the website title (if blank, full name will be used instead)
 email: admin@autocfd.org
-description: 5th Automotive CFD Prediction Workshop, 8–9 October 2026 at DAMA Tecnopolo, Bologna, Italy.
+description: 5th Automotive CFD Prediction Workshop, 8–9 October 2026 at DAMA Technopole, Bologna, Italy.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>

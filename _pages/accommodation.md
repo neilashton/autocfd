@@ -4,7 +4,7 @@ permalink: /accommodation/
 title: Accommodation
 page_title: Accommodation in Bologna
 page_description: Suggested hotels for AutoCFD5 attendees travelling to Bologna.
-description: Find suggested hotels near Bologna Centrale for AutoCFD5, with addresses, booking links and directions to DAMA Tecnopolo, Bologna, Italy.
+description: Find suggested hotels near Bologna Centrale for AutoCFD5, with addresses, booking links and directions to DAMA Technopole, Bologna, Italy.
 nav: true
 nav_order: 7
 ---
@@ -13,7 +13,7 @@ nav_order: 7
 
 For your convenience, we have compiled a list of suggested hotels. They are listed in order from nearest to farthest from Bologna Centrale railway station.
 
-See the [AutoCFD5 venue address and travel directions]({{ '/venue/' | relative_url }}) for routes from Bologna Centrale to DAMA Tecnopolo.
+See the [AutoCFD5 venue address and travel directions]({{ '/venue/' | relative_url }}) for routes from Bologna Centrale to DAMA Technopole.
 
 ### 1. I Portici Hotel
 
