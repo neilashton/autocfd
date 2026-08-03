@@ -30,6 +30,9 @@
 <!-- Load Common JS -->
 <script src="{{ '/assets/js/no_defer.js' | relative_url | bust_file_cache }}"></script>
 <script defer src="{{ '/assets/js/common.js' | relative_url | bust_file_cache }}"></script>
+{% if page.youtube_gallery %}
+  <script defer src="{{ '/assets/js/youtube-gallery.js' | relative_url | bust_file_cache }}"></script>
+{% endif %}
 
 {% if page.code or page.code_diff or page.mermaid or page.chart or page.map or page.tikzjax or page.layout == 'post' %}
   <script defer src="{{ '/assets/js/copy_code.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
