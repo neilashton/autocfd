@@ -1,177 +1,185 @@
-channel_url: https://www.youtube.com/@autocfd-v2o/videos
+channel_url: https://www.youtube.com/@autocfdworkshop/videos
+master_playlist_url: https://www.youtube.com/playlist?list=PL2736-nldZY46PyCyGOsq3TxGp4Xx5ohj
 video_count: 37
 total_duration: "10:56:03"
 sessions:
   - title: Day 1 — Opening and test cases
     duration: "53:31"
+    playlist_url: https://www.youtube.com/playlist?list=PLJ5Ty--Rgdtw
     videos:
-      - title: Workshop opening talk - Prof. Ben Thornber (Queens University), Dr Neil Ashton (AWS)
+      - title: "AutoCFD4 Workshop Opening — Ben Thornber & Neil Ashton"
         video_id: hntbFeLmvUA
         duration: "9:54"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/ThursdayMorningIntros-Website/OpeningCeremony.pdf
-      - title: Test Case 1 Summary - Gary Page (Loughborough University)
+      - title: "Windsor Squareback Case 1 Results — Gary Page | AutoCFD4"
         video_id: sOcbbEDgQPU
         duration: "23:10"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/ThursdayMorningIntros-Website/Case1AutoCFD4Workshop.pdf
-      - title: Test Case 2 Summary - Burkhard Hupertz (Ford)
+      - title: "DrivAer Test Case 2a/2b Results — Burkhard Hupertz | AutoCFD4"
         video_id: u4HFI2aie4w
         duration: "20:27"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/ThursdayMorningIntros-Website/AutoCFD4_Case2_Intro_Results_240918.pdf
 
   - title: Day 1 — Meshing TFG
     duration: "1:06:33"
+    playlist_url: https://www.youtube.com/playlist?list=PLfFqff9MFuUA
     videos:
-      - title: Meshing TFG Summary - Vangelis Skaperdas (BETA-CAE Systems)
+      - title: "Meshing TFG Summary — Vangelis Skaperdas | AutoCFD4"
         video_id: HvNXoBCKuPM
         duration: "14:20"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Skaperdas_Meshing.pdf
-      - title: Maurice Nayman (Multimatic) - Meshing TFG
+      - title: "Solution-Adapted Grid Refinement — Maurice Nayman | AutoCFD4"
         video_id: XrBA3VSzToc
         duration: "12:55"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Maurice_Nayman_Nayman_Meshing.pdf
-      - title: David Egan (Ennova Technologies) - Meshing TFG
+      - title: "Introduction to Ennova Technologies — David Egan | AutoCFD4"
         video_id: om9pPazB1Is
         duration: "10:43"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/David_Egan_Ennova_Introduction_v12.pdf
-      - title: Burkhard Hupertz (Ford) and Nils Thome (AVL Schrick) - Meshing TFG
+      - title: "AutoCFD4 vs AutoCFD2 Mesh Impact — Burkhard Hupertz & Nils Thomé"
         video_id: pH_1SyMH__o
         duration: "12:08"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/Nils_Thome%CC%81_20240920_AutoCFD4_mesh_analysis_BetaFord.pdf
-      - title: Liang Yu (University of Sydney) - Meshing TFG
+      - title: "Workshop vs In-House DrivAer Meshes — Liang Yu | AutoCFD4"
         video_id: SAAai6ywtcs
         duration: "16:27"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Meshing-Website/SydneyQueensBelfastMQ.pdf
 
   - title: Day 1 — Scale-Resolving Simulation TFG
     duration: "2:29:24"
+    playlist_url: https://www.youtube.com/playlist?list=PLeWABNbPczgQ
     videos:
-      - title: SRS TFG Summary - Charles Mockett (Upstream CFD)
+      - title: "Scale-Resolving Simulation TFG Summary — Charles Mockett | AutoCFD4"
         video_id: iW25bCsgzPE
         duration: "25:58"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Mockett_SRS_AutoCFD4_TFG-SRS_Summary_UCFD_20240926.pdf
-      - title: Ananda Subramani Kannan (Volvo) - SRS TFG
+      - title: "DrivAer SRS Model and Tuning Sensitivity — Ananda Kannan | AutoCFD4"
         video_id: ahYylotefjQ
         duration: "12:43"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Ananda+Subramani_Kannan_Kannan_ScaleResolvingSimulation_24w38.pdf
-      - title: Louis Fliessbach (UpstreamCFD) - SRS TFG
+      - title: "Turbulence and Numerics in Automotive SRS — Louis Fliessbach | AutoCFD4"
         video_id: JhAg7cKOAZA
         duration: "12:57"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Louis_Fliessbach_FliessbachEtAl_ScaleResolvingSimulation.pdf
-      - title: Emmanuel Guilmineau (CNRS) - SRS TFG
+      - title: "Windsor at Yaw: Grid Refinement & Turbulence Models — Emmanuel Guilmineau"
         video_id: S0OMjhVxuec
         duration: "13:19"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Emmanuel_GUILMINEAU_Guilmineau_SRS_v2.pdf
-      - title: David Flad (Ansys) - SRS TFG
+      - title: "GPU-Accelerated WFLES and SBES for DrivAer — David Flad | AutoCFD4"
         video_id: FgKcRYUxqnQ
         duration: "16:24"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/David_Flad_DavidFlad_SRS_ANSYS_DrivAer+Notch+Back.pdf
-      - title: Z J Wang (University of Kansas) - SRS TFG
+      - title: "High-Order Wall-Modeled LES of DrivAer — Z. J. Wang | AutoCFD4"
         video_id: EsbNIk83Atk
         duration: "11:31"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Z.J.+_Wang_Wang_ScaleResolvingSimulation.pdf
-      - title: Dania Ahmed (University of Manchester) - SRS TFG
+      - title: "Synthetic Turbulence with DDES for Windsor Flow — Dania Ahmed | AutoCFD4"
         video_id: o5DAGTj7gA4
         duration: "17:32"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Dania_Ahmed_AutoCFD4-Dania-Ahmed.pdf
-      - title: Jordan Angel (Volcano Platforms) - SRS TFG
+      - title: "AutoCFD4 Results with Volcano ScaLES — Jordan B. Angel"
         video_id: lgZ6A2ipkHg
         duration: "10:54"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Jordan_Angel_JordanAngel_VolcanoScaLES_AutoCFD4.pdf
-      - title: CJ Doolittle (Flexcompute) - SRS TFG
+      - title: "GPU-Native Flow360 Solutions — CJ Doolittle | AutoCFD4"
         video_id: tzy8bphs8Eg
         duration: "13:53"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/CJ_Doolittle_Doolittle_SRS_Flexcompute.pdf
-      - title: F. Schwertfirm (KM Turbulenz GmbH) - SRS TFG
+      - title: "Non-Equilibrium Wall Functions for DrivAer — F. Schwertfirm | AutoCFD4"
         video_id: E9G_c5fXCdU
         duration: "14:13"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Schwertfirm_SRS.pdf
 
   - title: Day 1 — High-Performance Computing TFG
     duration: "1:27:50"
+    playlist_url: https://www.youtube.com/playlist?list=PLfJsL1XumLj4
     videos:
-      - title: HPC TFG Summary - Herbert Owen (BSC)
+      - title: "High-Performance Computing TFG Summary — Herbert Owen | AutoCFD4"
         video_id: XYc41_Gk4uQ
         duration: "17:05"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/HPC-Owen.pdf
-      - title: Eugen Riegel (Numeric Systems) - HPC TFG
+      - title: "Pacefish: GPU-Accelerated LBM CFD — Eugen Riegel | AutoCFD4"
         video_id: XRhHPUFh_ug
         duration: "14:05"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Riegel_HPC.pdf
-      - title: Benet Eiximeno (BSC) - HPC TFG
+      - title: "Wall-Resolved Simulation of the Windsor Body — Benet Eiximeno | AutoCFD4"
         video_id: pnL4f8z04u0
         duration: "12:23"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Benet_Eiximeno_EiximenoFranch_Benet.pdf
-      - title: Olivier Thiry (Cadence) - HPC TFG
+      - title: "RANS, DDES and LES for AutoCFD4 Cases 1 and 2 — Olivier Thiry"
         video_id: Yq7zGVuxpnc
         duration: "13:26"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Olivier_Thiry_2024-09-26_AutoCFD4_Cadence_Olivier_thiry.pdf
-      - title: Guido Parenti (Dassault Systemes) - HPC TFG
+      - title: "PowerFLOW DrivAer Uncertainty — Guido Parenti | AutoCFD4 HPC"
         video_id: 1f0tcpVKe78
         duration: "15:08"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Guido_Parenti_Parenti_HPC_PowerFLOW_Uncertainty_Quantification_using_DrivAer.pdf
-      - title: Thomas D. Economon (Luminary Cloud) - HPC TFG
+      - title: "GPU-Native DDES of DrivAer Case 2 — Thomas D. Economon | AutoCFD4"
         video_id: lR2UIWex5cM
         duration: "15:43"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Thomas_Economon_Economon-SRS.pdf
 
   - title: Day 2 — Noise Factors TFG
     duration: "1:41:23"
+    playlist_url: https://www.youtube.com/playlist?list=PLaot_35PhEO4
     videos:
-      - title: Noise Factors TFG Summary - Burkhard Hupertz (Ford)
+      - title: "Noise Factors TFG Overview — Burkhard Hupertz | AutoCFD4"
         video_id: fQ6ZR4MPnKg
         duration: "14:27"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Hupertz_Noise_Factors_Intro.pdf
-      - title: Guido Parenti (Dassault Systemes) - Noise Factors TFG
+      - title: "PowerFLOW DrivAer Uncertainty — Guido Parenti | AutoCFD4 Noise"
         video_id: rmtJsF_ECgM
         duration: "8:12"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/HPC-Website/Guido_Parenti_Parenti_HPC_PowerFLOW_Uncertainty_Quantification_using_DrivAer.pdf
-      - title: Matthew Aultman (Ohio State University) - Noise Factors TFG
+      - title: "Time-Step Sensitivity and DrivAer Uncertainty — Matthew Aultman | AutoCFD4"
         video_id: pAso0Nab-_Q
         duration: "12:13"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Matthew_Aultman_Aultman_NoiseFactors.pdf
-      - title: Grzegorz Borowiec (Siemens) - Noise Factors TFG
+      - title: "Multi-Fidelity DrivAer Analysis with STAR-CCM+ — Grzegorz Borowiec"
         video_id: LIpN1A1ll24
         duration: "16:16"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Grzegorz_Borowiec_Borowiec_noiseFactors.pdf
-      - title: Paul Norman (Ford Motor Company) - Noise Factors TFG
+      - title: "DrivAer Initialization Sensitivity — Paul Norman | AutoCFD4"
         video_id: M_VKTtUnffY
         duration: "14:26"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Norman_Sowemimo_Thome_AutoCFD4.pdf
-      - title: Ondřej Čavoj and Pavel Viochna (Skoda) - Noise Factors TFG
+      - title: "Noise Factors with STAR-CCM+ and iconCFD — Ondřej Čavoj & Pavel Viochna"
         video_id: TMblzkBgZ3Q
         duration: "23:00"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Ondrej_Cavoj_CavojViochna_Noise+1.pdf
-      - title: Matheus Marques (BrambleCFD) - Noise Factors TFG
+      - title: "DrivAer Noise: Initialization, Geometry & Run Time — Matheus Marques | AutoCFD4"
         video_id: Os3SgNthbPY
         duration: "12:49"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/Noise-Website/Matheus_Marques_Marques_NoiseFactor.pdf
 
   - title: Day 2 — AI/ML TFG
     duration: "1:22:47"
+    playlist_url: https://www.youtube.com/playlist?list=PLDdtv0439Fcg
     videos:
-      - title: AI/ML TFG Summary - Neil Ashton (AWS), Astrid Walle (Siemens Energy)
+      - title: "AI/ML TFG: Context, Datasets & Summary — Neil Ashton & Astrid Walle"
         video_id: 2TnowaQo6FA
         duration: "28:01"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/AIML-Website/AIML_TFG_Summary.pdf
-      - title: Neil Ashton (AWS) AI/ML TFG
+      - title: "WindsorML and DrivAerML Initial Results — Neil Ashton | AutoCFD4"
         video_id: UgLYXtiJ84o
         duration: "16:17"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/AIML-Website/Ashton_Neil_AWS_AIML.pdf
-      - title: Astrid Walle (Siemens Energy) AI/ML TFG
+      - title: "ML Surrogate Models for Windsor and DrivAer CFD — Astrid Walle | AutoCFD4"
         video_id: 5lDvZu7z_es
         duration: "23:56"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/AIML-Website/Astrid_Walle_Walle_AIML.pdf
-      - title: Chao Xia (Chalmers University) AI/ML TFG
+      - title: "RANS Augmentation with Field Inversion & ML — Chao Xia | AutoCFD4"
         video_id: H_mXw2aclxc
         duration: "14:33"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/AIML-Website/Chao_Xia_Chao_AIML.pdf
 
   - title: Day 2 — Panel discussions
     duration: "1:54:35"
+    playlist_url: https://www.youtube.com/playlist?list=PLEymXh08kh94
     videos:
-      - title: Automotive OEM Panel Discussion - Charles Ribes (Stellantis), Burkhard Hupertz (Ford), Vilem Skarolek (Skoda), Karthik Thandayutham (JLR), Ananda Kannan (Volvo)
+      - title: "Automotive OEM Panel Discussion | AutoCFD4"
         video_id: 91HLjjP3MEA
         duration: "50:48"
-      - title: TFG Leader Panel Discussion - Burkhard Hupertz (Ford), Gary Page (Loughborough University), Neil Ashton (AWS), Astrid Walle (Siemens Energy), Herbert Owen (BSC), Vangelis Skaperdas (BETA-CAE Systems)
+      - title: "Technology Focus Group Leaders Panel | AutoCFD4"
         video_id: pNU5IBAwX5Q
         duration: "1:03:47"
