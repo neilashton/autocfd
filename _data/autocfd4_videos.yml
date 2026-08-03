@@ -85,7 +85,7 @@ sessions:
         video_id: tzy8bphs8Eg
         duration: "13:53"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/CJ_Doolittle_Doolittle_SRS_Flexcompute.pdf
-      - title: "Non-Equilibrium Wall Functions for DrivAer — F. Schwertfirm | AutoCFD4"
+      - title: "Non-Equilibrium Wall Functions for DrivAer — Florian Schwertfirm | AutoCFD4"
         video_id: E9G_c5fXCdU
         duration: "14:13"
         slides_url: https://autocfd4.s3.eu-west-1.amazonaws.com/presentations/SRS-Website/Schwertfirm_SRS.pdf
