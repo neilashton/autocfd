@@ -132,9 +132,9 @@ Workshop [booklet](https://autocfd4.s3.eu-west-1.amazonaws.com/4th+Automotive+CF
     <div>
       <span class="autocfd4-video-overview__label">Video archive</span>
       <h4 id="autocfd4-video-library-title">Watch the AutoCFD4 presentations</h4>
-      <p>Browse every workshop recording by programme session. Select a thumbnail to play a recording here, or open it directly on YouTube.</p>
+      <p>Browse every workshop recording by programme session. Select a thumbnail to play a recording here, open it directly on YouTube, or watch the <a href="{{ site.data.autocfd4_videos.master_playlist_url }}" target="_blank" rel="noopener noreferrer">complete AutoCFD4 workshop playlist</a>.</p>
     </div>
-    <a class="autocfd4-video-channel" href="{{ site.data.autocfd4_videos.channel_url }}" target="_blank" rel="noopener noreferrer">View the AutoCFD YouTube channel</a>
+    <a class="autocfd4-video-channel" href="{{ site.data.autocfd4_videos.channel_url }}" target="_blank" rel="noopener noreferrer">Visit @autocfdworkshop on YouTube</a>
   </div>
 
   <ul class="autocfd4-video-stats" aria-label="Video archive summary">
@@ -151,6 +151,9 @@ Workshop [booklet](https://autocfd4.s3.eu-west-1.amazonaws.com/4th+Automotive+CF
           <h5 id="{{ session_id }}">{{ session.title }}</h5>
           <span>{{ session.videos | size }} recordings · {{ session.duration }}</span>
         </summary>
+        <p class="mx-3 mt-3 mb-0">
+          <a class="btn btn-sm btn-outline-primary" href="{{ session.playlist_url }}" target="_blank" rel="noopener noreferrer">Watch the {{ session.title }} playlist on YouTube</a>
+        </p>
         <div class="autocfd4-video-grid">
           {% for video in session.videos %}
             <article class="autocfd4-video-card">
