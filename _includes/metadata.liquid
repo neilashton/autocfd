@@ -1,11 +1,11 @@
-{% assign seo_site_name = site.title | default: 'AutoCFD' | strip %}
+{% assign seo_site_name = page.seo_site_name | default: site.title | default: 'AutoCFD' | strip %}
 {% assign seo_organization_name = site.data.seo.organization.name | default: seo_site_name | strip %}
 {% assign seo_page_path = page.url | default: '/' | replace: 'index.html', '' %}
 {% if seo_page_path == blank %}
   {% assign seo_page_path = '/' %}
 {% endif %}
 
-{% assign seo_page_name = page.page_title | default: page.title | default: seo_site_name %}
+{% assign seo_page_name = page.seo_title | default: page.page_title | default: page.title | default: seo_site_name %}
 {% assign seo_page_name = seo_page_name | strip_html | strip_newlines | strip %}
 {% if seo_page_name == 'blank' %}
   {% assign seo_page_name = seo_site_name %}
