@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-07-29 12:00:00+0100
+date: 2026-08-14 12:00:00+0100
 inline: true
 related_posts: false
 ---
 
-Abstract submissions are now closed. AutoCFD5 results data are due by **21 August 2026**, and early-bird registration ends **28 August 2026**. See all [key dates]({{ '/dates/' | relative_url }}).
+The AutoCFD5 results data submission deadline has been extended from 21 August to **4 September 2026**, giving participants more time to complete and upload their spreadsheets. Submit through the [result-submission form](https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi) and see all [key dates]({{ '/dates/' | relative_url }}).

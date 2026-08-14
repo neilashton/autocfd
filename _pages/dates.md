@@ -12,9 +12,9 @@ content_class: dates-page
 
 <div class="dates-summary" aria-label="Upcoming AutoCFD5 dates">
   <div class="dates-summary__card dates-summary__card--next">
-    <span class="dates-summary__label">Next participant deadline</span>
-    <strong class="dates-summary__date">21 August 2026</strong>
-    <span class="dates-summary__detail">Results data submission</span>
+    <span class="dates-summary__label">Extended results deadline</span>
+    <strong class="dates-summary__date">4 September 2026</strong>
+    <span class="dates-summary__detail">Data submission · previously 21 August</span>
   </div>
   <div class="dates-summary__card dates-summary__card--workshop">
     <span class="dates-summary__label">Workshop</span>
@@ -60,19 +60,6 @@ content_class: dates-page
     </li>
     <li class="dates-milestone is-upcoming is-next">
       <article class="dates-milestone__card">
-        <time class="dates-milestone__date" datetime="2026-08-21">
-          <strong>21 August</strong>
-          <span>2026</span>
-        </time>
-        <div class="dates-milestone__content">
-          <h3>Results data submission deadline</h3>
-          <p>Upload completed result spreadsheets for inclusion in the workshop comparisons.</p>
-        </div>
-        <span class="dates-status">Upcoming · next</span>
-      </article>
-    </li>
-    <li class="dates-milestone is-upcoming">
-      <article class="dates-milestone__card">
         <time class="dates-milestone__date" datetime="2026-08-28">
           <strong>28 August</strong>
           <span>2026</span>
@@ -81,7 +68,20 @@ content_class: dates-page
           <h3>Early-bird registration deadline</h3>
           <p>Register by this date to receive the early-bird rate.</p>
         </div>
-        <span class="dates-status">Upcoming</span>
+        <span class="dates-status">Upcoming · next</span>
+      </article>
+    </li>
+    <li class="dates-milestone is-upcoming">
+      <article class="dates-milestone__card">
+        <time class="dates-milestone__date" datetime="2026-09-04">
+          <strong>4 September</strong>
+          <span>2026 · extended</span>
+        </time>
+        <div class="dates-milestone__content">
+          <h3>Results data submission deadline</h3>
+          <p>The deadline has been extended from 21 August to give participants more time to complete and upload their result spreadsheets.</p>
+        </div>
+        <span class="dates-status">Upcoming · extended</span>
       </article>
     </li>
     <li class="dates-milestone is-upcoming is-workshop">
@@ -117,7 +117,7 @@ content_class: dates-page
     <article class="dates-action-card">
       <span class="dates-action-card__step" aria-hidden="true">02</span>
       <h3>Submit results</h3>
-      <p>Upload completed spreadsheets through the <a href="https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi">AutoCFD result-submission form</a> by <strong>21 August 2026</strong>.</p>
+      <p>Upload completed spreadsheets through the <a href="https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi">AutoCFD result-submission form</a> by the extended deadline of <strong>4 September 2026</strong>.</p>
     </article>
     <article class="dates-action-card">
       <span class="dates-action-card__step" aria-hidden="true">03</span>
