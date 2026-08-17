@@ -40,16 +40,17 @@ content_class: case-study
 
 <div class="case-table-wrap case-table-wrap--compact" role="region" aria-label="Case 1 documents" tabindex="0" markdown="1">
 
-| Resource                                        | Revision                  | Download                                                                                                                     |
-| :---------------------------------------------- | :------------------------ | :--------------------------------------------------------------------------------------------------------------------------- |
-| Test-case description and submission guidelines | Version 0.7, 17 July 2026 | [Download PDF](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case1/Case1AutoCFD5Description.pdf)                    |
-| Example result-submission form                  | Version 5, May 2024       | [Download XLSM](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case1/AutoCFD5_Windsor_Case1_Result_Template_v5.xlsm) |
+| Resource                                               | Revision                                        | Download                                                                                                                     |
+| :----------------------------------------------------- | :---------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| Test-case description and submission guidelines        | Version 0.7, 17 July 2026                       | [Download PDF](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case1/Case1AutoCFD5Description.pdf)                    |
+| Example result-submission form                         | Version 5, May 2024                             | [Download XLSM](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case1/AutoCFD5_Windsor_Case1_Result_Template_v5.xlsm) |
+| Meancalc usage guide and settings for data submissions | Version 1, 23 Oct 2023 (unchanged for AutoCFD5) | [Download PDF](https://autocfd5.s3.eu-west-1.amazonaws.com/AutoCFD_Meancalc_BPGs_UCFD_20231023.pdf)                          |
 
 </div>
 
 ## Submit results
 
-> Upload completed submissions through the [AutoCFD result-upload form](https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi), then email [admin@autocfd.org](mailto:admin@autocfd.org) to notify the organisers. If your organisation restricts access to cloud upload services, contact the same address to arrange an alternative.
+> [Sign in to the AutoCFD5 results dashboard](https://autocfd5.cfdsolutions.net/File_Upload) to upload completed submissions. The upload page includes submission instructions and a Dropbox link for auxiliary files.
 > {: .case-submit}
 
 ## Grids

@@ -23,8 +23,10 @@ news: true # includes a list of news items
   <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/agenda/' | relative_url }}">View the agenda</a>
   <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/case1/' | relative_url }}">Case 1 details</a>
   <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/case2/' | relative_url }}">Case 2 details</a>
-  <a class="btn btn-outline-primary mb-2" href="https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi">Submit results</a>
+  <a class="btn btn-outline-primary mb-2" href="https://autocfd5.cfdsolutions.net/File_Upload">Submit results</a>
 </p>
+
+The results dashboard requires sign-in and includes submission instructions and a Dropbox link for auxiliary files.
 
 ## Aims and scope
 

@@ -117,7 +117,7 @@ content_class: dates-page
     <article class="dates-action-card">
       <span class="dates-action-card__step" aria-hidden="true">02</span>
       <h3>Submit results</h3>
-      <p>Upload completed spreadsheets through the <a href="https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi">AutoCFD result-submission form</a> by the extended deadline of <strong>4 September 2026</strong>.</p>
+      <p>Sign in to the <a href="https://autocfd5.cfdsolutions.net/File_Upload">AutoCFD5 results dashboard</a> to upload completed spreadsheets by the extended deadline of <strong>4 September 2026</strong>. The upload page includes submission instructions and a Dropbox link for auxiliary files.</p>
     </article>
     <article class="dates-action-card">
       <span class="dates-action-card__step" aria-hidden="true">03</span>
