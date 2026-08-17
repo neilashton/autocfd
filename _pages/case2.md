@@ -36,18 +36,19 @@ content_class: case-study
 
 <div class="case-table-wrap case-table-wrap--compact" role="region" aria-label="Case 2 documents" tabindex="0" markdown="1">
 
-| Resource                                       | Revision          | Download                                                                                                               |
-| :--------------------------------------------- | :---------------- | :--------------------------------------------------------------------------------------------------------------------- |
-| Test-case description                          | 23 February 2026  | [Download PDF](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/AutoCFD5_Case2_Intro_260223.pdf)           |
-| Result-submission template                     | Version 8         | [Download XLSM](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/AutoCFD5_DrivAer_Result_Template_v8.xlsm) |
-| Flow-field mapping in ANSA and NASTRAN formats | AutoCFD2 resource | [Download ZIP](https://autocfd2.s3-eu-west-1.amazonaws.com/test-cases/case2/AutoCFD2.zip)                              |
-| AutoCFD5 mesh details                          | May 2026          | [Download PDF](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/20260318_AutoCFD5_new_commitee_meshes.pdf) |
+| Resource                                               | Revision                                        | Download                                                                                                               |
+| :----------------------------------------------------- | :---------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
+| Test-case description                                  | 23 February 2026                                | [Download PDF](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/AutoCFD5_Case2_Intro_260223.pdf)           |
+| Result-submission template                             | Version 8                                       | [Download XLSM](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/AutoCFD5_DrivAer_Result_Template_v8.xlsm) |
+| Flow-field mapping in ANSA and NASTRAN formats         | AutoCFD2 resource                               | [Download ZIP](https://autocfd2.s3-eu-west-1.amazonaws.com/test-cases/case2/AutoCFD2.zip)                              |
+| AutoCFD5 mesh details                                  | May 2026                                        | [Download PDF](https://autocfd5.s3.eu-west-1.amazonaws.com/test-cases/case2/20260318_AutoCFD5_new_commitee_meshes.pdf) |
+| Meancalc usage guide and settings for data submissions | Version 1, 23 Oct 2023 (unchanged for AutoCFD5) | [Download PDF](https://autocfd5.s3.eu-west-1.amazonaws.com/AutoCFD_Meancalc_BPGs_UCFD_20231023.pdf)                    |
 
 </div>
 
 ## Submit results
 
-> Upload completed submissions through the [AutoCFD result-upload form](https://www.dropbox.com/request/A6cJNTT9egFtYiFICjAi), then email [admin@autocfd.org](mailto:admin@autocfd.org) to notify the organisers. If your organisation restricts access to cloud upload services, contact the same address to arrange an alternative.
+> [Sign in to the AutoCFD5 results dashboard](https://autocfd5.cfdsolutions.net/File_Upload) to upload completed submissions. The upload page includes submission instructions and a Dropbox link for auxiliary files.
 > {: .case-submit}
 
 ## Grids and geometry
