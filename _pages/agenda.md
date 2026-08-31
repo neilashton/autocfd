@@ -230,13 +230,21 @@ content_class: agenda-page
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>16:00 - 16:15</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
+      <div class="agenda-title">Volcano ScaLES Results for AutoCFD5 Cases</div>
+      <div class="agenda-speaker">Volcano Platforms</div>
+    </div>
+  </div>
+
+  <div class="agenda-item tfg-item">
+    <div class="agenda-time-meta"><div>16:15 - 16:30</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-content">
       <div class="agenda-title">HPC TFG Context and Summary</div>
       <div class="agenda-speaker">Chair: Herbert Owen</div>
     </div>
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>16:15 - 16:30</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>16:30 - 16:45</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">GPU-Accelerated Scale Resolving Simulations for AutoCFD5 on Fixed and Adaptive Octrees</div>
       <div class="agenda-speaker">Institute for Advanced Study, Beijing Normal-Hong Kong Baptist University</div>
@@ -244,18 +252,10 @@ content_class: agenda-page
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>16:30 - 16:45</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>16:45 - 17:00</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">Detailed comparison of performance and quality between GPU and CPU simulations with OpenFOAM</div>
       <div class="agenda-speaker">Upstream CFD</div>
-    </div>
-  </div>
-
-  <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>16:45 - 17:00</div><div class="agenda-duration">15 min</div></div>
-    <div class="agenda-content">
-      <div class="agenda-title">Volcano ScaLES Results for AutoCFD5 Cases</div>
-      <div class="agenda-speaker">Volcano Platforms</div>
     </div>
   </div>
 
@@ -354,8 +354,8 @@ content_class: agenda-page
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>09:15 - 09:30</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Quantification of uncertainties from mesh approaches and hardware architecture using PowerFLOW and DrivAer model</div>
-      <div class="agenda-speaker">Dassault Systèmes</div>
+      <div class="agenda-title">Pacefish's LBM-based GPU-native CFD</div>
+      <div class="agenda-speaker">Numeric Systems</div>
     </div>
   </div>
 
@@ -378,8 +378,8 @@ content_class: agenda-page
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>10:00 - 10:15</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Pacefish's LBM-based GPU-native CFD</div>
-      <div class="agenda-speaker">Numeric Systems</div>
+      <div class="agenda-title">Quantification of uncertainties from mesh approaches and hardware architecture using PowerFLOW and DrivAer model</div>
+      <div class="agenda-speaker">Dassault Systèmes</div>
     </div>
   </div>
 
