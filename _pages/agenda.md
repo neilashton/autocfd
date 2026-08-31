@@ -147,7 +147,7 @@ content_class: agenda-page
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>12:10 - 12:25</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Flexcompute contribution - SRS and Meshing Group</div>
+      <div class="agenda-title">Towards Fast and Accurate DrivAer Simulations</div>
       <div class="agenda-speaker">Flexcompute</div>
     </div>
   </div>
