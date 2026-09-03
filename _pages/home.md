@@ -16,7 +16,7 @@ news: true # includes a list of news items
 
 ## Key dates and next steps
 
-**Current status:** Abstract submissions closed on 15 June 2026. Early-bird registration ends **28 August 2026**, the results data submission deadline has been extended to **4 September 2026**, and the workshop takes place **8–9 October 2026**.
+**Current status:** Abstract submissions and early-bird registration are now closed. The results data submission deadline has been extended to **4 September 2026**, final registration closes on **1 October 2026**, and the workshop takes place **8–9 October 2026**.
 
 <p>
   <a class="btn btn-primary mb-2 mr-2" href="{{ '/registration/' | relative_url }}">Register for AutoCFD5</a>

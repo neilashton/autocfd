@@ -4,7 +4,7 @@ permalink: /registration/
 title: Registration
 page_title: Register for AutoCFD5
 page_description: Registration fees and booking link for AutoCFD5 in Bologna on 8–9 October 2026.
-description: Register for the 5th Automotive CFD Prediction Workshop in Bologna. Early-bird pricing is available until 28 August 2026.
+description: Register for the 5th Automotive CFD Prediction Workshop in Bologna by the final registration deadline on 1 October 2026.
 nav: true
 nav_order: 3
 ---
@@ -16,6 +16,8 @@ Before booking, you can [review the two-day workshop agenda]({{ '/agenda/' | rel
 <div style="background-color: #007bff; color: white; text-align: center; padding: 15px; font-size: 1.25rem; font-weight: bold; border-radius: 5px; margin-bottom: 30px;">
     <a href="https://auto-cfd.sharevent.app/" style="color: white; text-decoration: none; display: block; width: 100%;">Register for AutoCFD5</a>
 </div>
+
+Registration closes on **1 October 2026**, one week before the workshop. Early-bird pricing ended on 28 August; regular registration rates now apply.
 
 ## Registration Fees
 
