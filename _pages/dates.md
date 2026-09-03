@@ -58,7 +58,7 @@ content_class: dates-page
         <span class="dates-status">Complete</span>
       </article>
     </li>
-    <li class="dates-milestone is-upcoming is-next">
+    <li class="dates-milestone is-closed">
       <article class="dates-milestone__card">
         <time class="dates-milestone__date" datetime="2026-08-28">
           <strong>28 August</strong>
@@ -66,12 +66,12 @@ content_class: dates-page
         </time>
         <div class="dates-milestone__content">
           <h3>Early-bird registration deadline</h3>
-          <p>Register by this date to receive the early-bird rate.</p>
+          <p>The early-bird registration period has now ended.</p>
         </div>
-        <span class="dates-status">Upcoming · next</span>
+        <span class="dates-status">Closed</span>
       </article>
     </li>
-    <li class="dates-milestone is-upcoming">
+    <li class="dates-milestone is-upcoming is-next">
       <article class="dates-milestone__card">
         <time class="dates-milestone__date" datetime="2026-09-04">
           <strong>4 September</strong>
@@ -81,7 +81,20 @@ content_class: dates-page
           <h3>Results data submission deadline</h3>
           <p>The deadline has been extended from 21 August to give participants more time to complete and upload their result spreadsheets.</p>
         </div>
-        <span class="dates-status">Upcoming · extended</span>
+        <span class="dates-status">Upcoming · next</span>
+      </article>
+    </li>
+    <li class="dates-milestone is-upcoming">
+      <article class="dates-milestone__card">
+        <time class="dates-milestone__date" datetime="2026-10-01">
+          <strong>1 October</strong>
+          <span>2026</span>
+        </time>
+        <div class="dates-milestone__content">
+          <h3>Final registration deadline</h3>
+          <p>Registration closes one week before the workshop so final attendance numbers and badges can be prepared.</p>
+        </div>
+        <span class="dates-status">Upcoming</span>
       </article>
     </li>
     <li class="dates-milestone is-upcoming is-workshop">
@@ -122,7 +135,7 @@ content_class: dates-page
     <article class="dates-action-card">
       <span class="dates-action-card__step" aria-hidden="true">03</span>
       <h3>Register</h3>
-      <p><a href="{{ '/registration/' | relative_url }}">Register for AutoCFD5</a> before the early-bird deadline on <strong>28 August 2026</strong>.</p>
+      <p><a href="{{ '/registration/' | relative_url }}">Register for AutoCFD5</a> by the final registration deadline on <strong>1 October 2026</strong>.</p>
     </article>
   </div>
 </section>
