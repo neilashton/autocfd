@@ -83,12 +83,15 @@ let applyTheme = () => {
 };
 
 let setHighlight = (theme) => {
-  if (theme == "dark") {
-    document.getElementById("highlight_theme_light").media = "none";
-    document.getElementById("highlight_theme_dark").media = "";
-  } else {
-    document.getElementById("highlight_theme_dark").media = "none";
-    document.getElementById("highlight_theme_light").media = "";
+  const lightTheme = document.getElementById("highlight_theme_light");
+  const darkTheme = document.getElementById("highlight_theme_dark");
+
+  // Pages without code examples do not load syntax-highlighting stylesheets.
+  if (lightTheme) {
+    lightTheme.media = theme == "dark" ? "none" : "";
+  }
+  if (darkTheme) {
+    darkTheme.media = theme == "dark" ? "" : "none";
   }
 };
 
