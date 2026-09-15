@@ -30,7 +30,7 @@ The results dashboard requires sign-in and includes submission instructions and 
 
 ## Aims and scope
 
-AutoCFD5 will take place on 8–9 October 2026 at **DAMA Technopole, Bologna, Italy**, with CINECA and Upstream CFD as local co-organisers. This follows the success of the previous four workshops: [AutoCFD1 in Oxford (2019)]({{ '/autocfd1/' | relative_url }}), [AutoCFD2 in Berlin (2021)]({{ '/autocfd2/' | relative_url }}), [AutoCFD3 in Barcelona (2022)]({{ '/autocfd3/' | relative_url }}) and [AutoCFD4 in Belfast (2024)]({{ '/autocfd4/' | relative_url }}).
+AutoCFD5 will take place on 8–9 October 2026 at **DAMA Technopole, Bologna, Italy**, with Upstream CFD as the main event organiser, CINECA providing the venue and local organisational support, and EVCM as financial administrator. This follows the success of the previous four workshops: [AutoCFD1 in Oxford (2019)]({{ '/autocfd1/' | relative_url }}), [AutoCFD2 in Berlin (2021)]({{ '/autocfd2/' | relative_url }}), [AutoCFD3 in Barcelona (2022)]({{ '/autocfd3/' | relative_url }}) and [AutoCFD4 in Belfast (2024)]({{ '/autocfd4/' | relative_url }}).
 
 The main objective of the 5th Automotive CFD Prediction Workshop is to continue the community effort to assess the predictive capability of CFD codes for road-car geometries. Using prescribed geometry, boundary conditions and computational grids, the workshop aims to provide practical modelling guidance for the automotive community, including best practice for turbulence modelling, meshing and numerical schemes. It also brings together automotive CFD researchers and practitioners from academia and industry to discuss future directions. The AutoCFD5 test cases build on the benchmark configurations used for AutoCFD4. For the AI/ML activity, the open-source [DrivAerML dataset](https://huggingface.co/datasets/neashton/drivaerml) is the standard training dataset used to assess model architectures.
 
@@ -50,17 +50,19 @@ Read the [Technology Focus Group scope and goals](https://autocfd4.s3.eu-west-1.
 
 Read the [AutoCFD data policy](https://autocfdv3.s3.eu-west-1.amazonaws.com/data-policy.pdf).
 
-## Organisers
+## AutoCFD Workshop Committee
 
-- Simone Bnà (CINECA) - local organiser
 - Neil Ashton (NVIDIA)
+- Simone Bnà (CINECA)
 - Burkhard Hupertz (Ford)
-- Gary Page (Loughborough University)
 - Charles Mockett (Upstream CFD)
-- Astrid Walle (Pasteur Labs)
+- Herbert Owen (Barcelona Supercomputing Center)
+- Gary Page (Loughborough University)
+- Charles Ribes (Stellantis)
 - Vangelis Skaperdas (BETA-CAE Systems)
 - Ben Thornber (Queens University Belfast)
-- Herbert Owen (Barcelona Supercomputing Center)
-- Charles Ribes (Stellantis)
+- Astrid Walle (Pasteur Labs)
 
-[Meet the AutoCFD5 organising committee]({{ '/organizers/' | relative_url }}) or email [admin@autocfd.org](mailto:admin@autocfd.org) with workshop questions.
+[Meet the AutoCFD Workshop Committee]({{ '/organizers/' | relative_url }}) or email [admin@autocfd.org](mailto:admin@autocfd.org) with workshop questions.
+
+{% include event_organisers.liquid %}
