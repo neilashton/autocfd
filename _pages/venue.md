@@ -119,21 +119,4 @@ Alternatively, you can reach DAMA Technopole, Bologna, Italy, by taxi. A free sm
 
 [Find more information on the Cotabo App here](https://www.cotabo.it/servizi/taxi-click/?lang=en).
 
-## Local Organisers
-
-<!-- Logo container using flexbox to keep them side-by-side and responsive -->
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
-
-  <a href="https://www.cineca.it/en" target="_blank" rel="noopener noreferrer">
-    <img class="photo" alt="Cineca Logo" src="{{ site.baseurl }}/assets/img/cineca-logo.png" width="3454" height="942" loading="lazy" decoding="async" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
-  </a>
-
-  <a href="https://www.upstream-cfd.com/" target="_blank" rel="noopener noreferrer">
-    <img class="photo" alt="upstreamCFD Logo" src="{{ site.baseurl }}/assets/img/upstreamcfdlogo.png" width="204" height="153" loading="lazy" decoding="async" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
-  </a>
-
-  <a href="https://evcm.it/" target="_blank" rel="noopener noreferrer">
-    <img class="photo" alt="EVCM Logo" src="{{ site.baseurl }}/assets/img/evcmlogo.png" width="423" height="82" loading="lazy" decoding="async" style="max-width: 200px; max-height: 100px; width: auto; height: auto;">
-  </a>
-
-</div>
+{% include event_organisers.liquid %}

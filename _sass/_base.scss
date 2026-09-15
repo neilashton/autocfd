@@ -1057,7 +1057,85 @@ nav[data-toggle="toc"] {
     top: 0;
   }
 }
-// Organisers page
+// Event organisers, shared by the homepage and venue page
+
+.event-organisers {
+  margin-top: 2.5rem;
+
+  &__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.5rem;
+    margin: 1.25rem 0 0;
+    text-align: center;
+  }
+
+  &__partner {
+    min-width: 0;
+
+    dd {
+      margin: 0.85rem 0 0;
+      font-size: 1rem;
+      line-height: 1.5;
+    }
+  }
+
+  &__logo {
+    display: flex;
+    min-height: 8rem;
+    align-items: center;
+    justify-content: center;
+    padding: 0.85rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.5rem;
+    background: #fff;
+
+    img {
+      display: block;
+      width: auto;
+      height: auto;
+      max-width: 100%;
+      max-height: 6.25rem;
+      object-fit: contain;
+    }
+
+    &:focus-visible {
+      outline: 3px solid var(--global-theme-color);
+      outline-offset: 3px;
+    }
+
+    &--collaborator {
+      width: 17rem;
+      max-width: 100%;
+      margin: 0 auto;
+
+      img {
+        max-height: none;
+      }
+    }
+  }
+
+  &__collaboration {
+    margin-top: 2rem;
+    text-align: center;
+
+    h3 {
+      margin-bottom: 1rem;
+      font-size: 1.15rem;
+    }
+  }
+
+  @media (max-width: 575px) {
+    &__grid {
+      grid-template-columns: minmax(0, 1fr);
+      max-width: 20rem;
+      margin-right: auto;
+      margin-left: auto;
+    }
+  }
+}
+
+// Workshop committee page
 
 .organizers-page {
   .organizer-section {
@@ -1081,10 +1159,6 @@ nav[data-toggle="toc"] {
     gap: 1rem;
   }
 
-  .organizer-grid--local {
-    grid-template-columns: minmax(0, 31rem);
-  }
-
   .organizer-card {
     display: flex;
     min-width: 0;
@@ -1096,11 +1170,6 @@ nav[data-toggle="toc"] {
     border-radius: 0.85rem;
     background: var(--global-card-bg-color);
     box-shadow: 0 0.2rem 0.8rem var(--global-divider-color);
-  }
-
-  .organizer-card--local {
-    border-left: 5px solid var(--global-theme-color);
-    background: linear-gradient(115deg, var(--global-card-bg-color), var(--global-code-bg-color));
   }
 
   .organizer-card__portrait {

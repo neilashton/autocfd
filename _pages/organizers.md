@@ -1,34 +1,19 @@
 ---
 layout: page
 permalink: /organizers/
-title: Organisers
-page_title: AutoCFD5 organising committee
-page_description: The academic and industry committee organising AutoCFD5 in Bologna.
-description: Meet the CINECA local organiser and the academic and industry committee behind the 5th Automotive CFD Prediction Workshop.
+title: Committee
+page_title: AutoCFD Workshop Committee
+page_description: The academic and industry committee behind the Automotive CFD Prediction Workshop.
+description: Meet the AutoCFD Workshop Committee, bringing together automotive CFD researchers and practitioners from academia and industry.
 nav: false
 nav_order: 6
 content_class: organizers-page
 ---
 
-AutoCFD5 is organised by a cross-industry and academic committee. For general workshop enquiries, email [admin@autocfd.org](mailto:admin@autocfd.org).
+The AutoCFD Workshop Committee brings together automotive CFD researchers and practitioners from academia and industry. For general workshop enquiries, email [admin@autocfd.org](mailto:admin@autocfd.org).
 
-<section class="organizer-section" aria-labelledby="local-organiser">
-  <h2 id="local-organiser">Local organiser</h2>
-  <div class="organizer-grid organizer-grid--local">
-    <article class="organizer-card organizer-card--local">
-      <div class="organizer-card__portrait">
-        <img class="organizer-card__photo" alt="Simone Bnà" src="{{ site.baseurl }}/assets/img/people/simone-bna.png" width="100" height="100" loading="eager" decoding="async">
-      </div>
-      <div class="organizer-card__info">
-        <h3>Simone Bnà</h3>
-        <p class="organizer-card__affiliation">CINECA</p>
-      </div>
-    </article>
-  </div>
-</section>
-
-<section class="organizer-section" aria-labelledby="organising-committee">
-  <h2 id="organising-committee">AutoCFD organising committee</h2>
+<section class="organizer-section" aria-labelledby="workshop-committee">
+  <h2 id="workshop-committee">Committee members</h2>
   <div class="organizer-grid">
     <article class="organizer-card">
       <div class="organizer-card__portrait">
@@ -46,6 +31,16 @@ AutoCFD5 is organised by a cross-industry and academic committee. For general wo
 
     <article class="organizer-card">
       <div class="organizer-card__portrait">
+        <img class="organizer-card__photo" alt="Simone Bnà" src="{{ site.baseurl }}/assets/img/people/simone-bna.png" width="100" height="100" loading="lazy" decoding="async">
+      </div>
+      <div class="organizer-card__info">
+        <h3>Simone Bnà</h3>
+        <p class="organizer-card__affiliation">CINECA</p>
+      </div>
+    </article>
+
+    <article class="organizer-card">
+      <div class="organizer-card__portrait">
         <img class="organizer-card__photo" alt="Burkhard Hupertz" src="{{ site.baseurl }}/assets/img/people/burkhard.jpeg" width="450" height="450" loading="lazy" decoding="async">
       </div>
       <div class="organizer-card__info">
@@ -53,6 +48,33 @@ AutoCFD5 is organised by a cross-industry and academic committee. For general wo
         <p class="organizer-card__affiliation">Ford</p>
         <div class="organizer-card__links" role="group" aria-label="Burkhard Hupertz contact">
           <a href="mailto:bhupertz@ford.com" title="Email Burkhard Hupertz" aria-label="Email Burkhard Hupertz"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+        </div>
+      </div>
+    </article>
+
+    <article class="organizer-card">
+      <div class="organizer-card__portrait">
+        <img class="organizer-card__photo" alt="Charles Mockett" src="{{ site.baseurl }}/assets/img/people/mockett.jpeg" width="500" height="500" loading="lazy" decoding="async">
+      </div>
+      <div class="organizer-card__info">
+        <h3>Charles Mockett</h3>
+        <p class="organizer-card__affiliation">Upstream CFD</p>
+        <div class="organizer-card__links" role="group" aria-label="Charles Mockett contact">
+          <a href="mailto:charles.mockett@upstream-cfd.com" title="Email Charles Mockett" aria-label="Email Charles Mockett"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+        </div>
+      </div>
+    </article>
+
+    <article class="organizer-card">
+      <div class="organizer-card__portrait organizer-card__portrait--inset">
+        <img class="organizer-card__photo" alt="Herbert Owen" src="{{ site.baseurl }}/assets/img/people/owen.jpeg" width="120" height="120" loading="lazy" decoding="async">
+      </div>
+      <div class="organizer-card__info">
+        <h3>Herbert Owen</h3>
+        <p class="organizer-card__affiliation">Barcelona Supercomputing Center</p>
+        <div class="organizer-card__links" role="group" aria-label="Herbert Owen contact and profiles">
+          <a href="mailto:herbert.owen@bsc.es" title="Email Herbert Owen" aria-label="Email Herbert Owen"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+          <a href="https://orcid.org/0000-0001-8543-303X" title="Herbert Owen ORCID profile" aria-label="Herbert Owen ORCID profile"><i class="fab fa-orcid" aria-hidden="true"></i></a>
         </div>
       </div>
     </article>
@@ -73,24 +95,14 @@ AutoCFD5 is organised by a cross-industry and academic committee. For general wo
 
     <article class="organizer-card">
       <div class="organizer-card__portrait">
-        <img class="organizer-card__photo" alt="Charles Mockett" src="{{ site.baseurl }}/assets/img/people/mockett.jpeg" width="500" height="500" loading="lazy" decoding="async">
+        <img class="organizer-card__photo" alt="Charles Ribes" src="{{ site.baseurl }}/assets/img/people/ribes.jpeg" width="800" height="800" loading="lazy" decoding="async">
       </div>
       <div class="organizer-card__info">
-        <h3>Charles Mockett</h3>
-        <p class="organizer-card__affiliation">Upstream CFD</p>
-        <div class="organizer-card__links" role="group" aria-label="Charles Mockett contact">
-          <a href="mailto:charles.mockett@upstream-cfd.com" title="Email Charles Mockett" aria-label="Email Charles Mockett"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+        <h3>Charles Ribes</h3>
+        <p class="organizer-card__affiliation">Stellantis</p>
+        <div class="organizer-card__links" role="group" aria-label="Charles Ribes contact">
+          <a href="mailto:charles.ribes@stellantis.com" title="Email Charles Ribes" aria-label="Email Charles Ribes"><i class="fas fa-envelope" aria-hidden="true"></i></a>
         </div>
-      </div>
-    </article>
-
-    <article class="organizer-card">
-      <div class="organizer-card__portrait">
-        <img class="organizer-card__photo" alt="Astrid Walle" src="{{ site.baseurl }}/assets/img/people/astrid.jpeg" width="400" height="400" loading="lazy" decoding="async">
-      </div>
-      <div class="organizer-card__info">
-        <h3>Astrid Walle</h3>
-        <p class="organizer-card__affiliation">Pasteur Labs</p>
       </div>
     </article>
 
@@ -122,29 +134,12 @@ AutoCFD5 is organised by a cross-industry and academic committee. For general wo
     </article>
 
     <article class="organizer-card">
-      <div class="organizer-card__portrait organizer-card__portrait--inset">
-        <img class="organizer-card__photo" alt="Herbert Owen" src="{{ site.baseurl }}/assets/img/people/owen.jpeg" width="120" height="120" loading="lazy" decoding="async">
-      </div>
-      <div class="organizer-card__info">
-        <h3>Herbert Owen</h3>
-        <p class="organizer-card__affiliation">Barcelona Supercomputing Center</p>
-        <div class="organizer-card__links" role="group" aria-label="Herbert Owen contact and profiles">
-          <a href="mailto:herbert.owen@bsc.es" title="Email Herbert Owen" aria-label="Email Herbert Owen"><i class="fas fa-envelope" aria-hidden="true"></i></a>
-          <a href="https://orcid.org/0000-0001-8543-303X" title="Herbert Owen ORCID profile" aria-label="Herbert Owen ORCID profile"><i class="fab fa-orcid" aria-hidden="true"></i></a>
-        </div>
-      </div>
-    </article>
-
-    <article class="organizer-card">
       <div class="organizer-card__portrait">
-        <img class="organizer-card__photo" alt="Charles Ribes" src="{{ site.baseurl }}/assets/img/people/ribes.jpeg" width="800" height="800" loading="lazy" decoding="async">
+        <img class="organizer-card__photo" alt="Astrid Walle" src="{{ site.baseurl }}/assets/img/people/astrid.jpeg" width="400" height="400" loading="lazy" decoding="async">
       </div>
       <div class="organizer-card__info">
-        <h3>Charles Ribes</h3>
-        <p class="organizer-card__affiliation">Stellantis</p>
-        <div class="organizer-card__links" role="group" aria-label="Charles Ribes contact">
-          <a href="mailto:charles.ribes@stellantis.com" title="Email Charles Ribes" aria-label="Email Charles Ribes"><i class="fas fa-envelope" aria-hidden="true"></i></a>
-        </div>
+        <h3>Astrid Walle</h3>
+        <p class="organizer-card__affiliation">Pasteur Labs</p>
       </div>
     </article>
 
