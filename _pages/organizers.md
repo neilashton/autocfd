@@ -21,9 +21,9 @@ The AutoCFD Workshop Committee brings together automotive CFD researchers and pr
       </div>
       <div class="organizer-card__info">
         <h3>Neil Ashton</h3>
-        <p class="organizer-card__affiliation">NVIDIA</p>
+        <p class="organizer-card__affiliation">Mistral</p>
         <div class="organizer-card__links" role="group" aria-label="Neil Ashton contact and profiles">
-          <a href="mailto:nashton@nvidia.com" title="Email Neil Ashton" aria-label="Email Neil Ashton"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+          <a href="mailto:contact@neilashton.co.uk" title="Email Neil Ashton" aria-label="Email Neil Ashton"><i class="fas fa-envelope" aria-hidden="true"></i></a>
           <a href="https://orcid.org/0000-0002-9943-2334" title="Neil Ashton ORCID profile" aria-label="Neil Ashton ORCID profile"><i class="fab fa-orcid" aria-hidden="true"></i></a>
         </div>
       </div>

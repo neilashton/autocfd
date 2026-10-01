@@ -42,7 +42,7 @@ Following positive feedback from AutoCFD4, the workshop continues to use the Tec
 
 [Meshing TFG](mailto:vangelis@cadence.com) - Vangelis Skaperdas (Cadence / BETA-CAE Systems) \
 [Noise Factors TFG](mailto:bhupertz@ford.com) - Burkhard Hupertz (Ford) \
-[AI/ML TFG](mailto:nashton@nvidia.com) - Neil Ashton (NVIDIA) and Astrid Walle (Pasteur Labs) \
+[AI/ML TFG](mailto:contact@neilashton.co.uk) - Neil Ashton (Mistral) and Astrid Walle (Pasteur Labs) \
 [Scale Resolving Simulations (SRS) TFG](mailto:charles.mockett@upstream-cfd.com) - Charles Mockett and Marian Fuchs (Upstream CFD) \
 [HPC TFG](mailto:herbert.owen@bsc.es) - Herbert Owen and Oriol Lehmkuhl (Barcelona Supercomputing Center)
 
@@ -52,7 +52,7 @@ Read the [AutoCFD data policy](https://autocfdv3.s3.eu-west-1.amazonaws.com/data
 
 ## AutoCFD Workshop Committee
 
-- Neil Ashton (NVIDIA)
+- Neil Ashton (Mistral)
 - Simone Bnà (CINECA)
 - Burkhard Hupertz (Ford)
 - Charles Mockett (Upstream CFD)
