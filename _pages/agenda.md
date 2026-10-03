@@ -449,8 +449,8 @@ content_class: agenda-page
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>12:30 - 12:45</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Sensitivity Testing of Transformer-Based Architectures for AutoCFD</div>
-      <div class="agenda-speaker">NVIDIA</div>
+      <div class="agenda-title">Beyond L2: Community Benchmarking of AI for Automotive CFD</div>
+      <div class="agenda-speaker">Mistral</div>
     </div>
   </div>
 
