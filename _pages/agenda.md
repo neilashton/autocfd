@@ -417,13 +417,21 @@ content_class: agenda-page
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>11:30 - 11:45</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
+      <div class="agenda-title">Beyond L2: Community Benchmarking of AI for Automotive CFD</div>
+      <div class="agenda-speaker">Mistral</div>
+    </div>
+  </div>
+
+  <div class="agenda-item tfg-item">
+    <div class="agenda-time-meta"><div>11:45 - 12:00</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-content">
       <div class="agenda-title">Impact of Input Quantities on Aerodynamic Predictions Using Geometric Deep Learning</div>
       <div class="agenda-speaker">Cadence</div>
     </div>
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>11:45 - 12:00</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>12:00 - 12:15</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">IngeniNetSim: Fast and Scalable Geometric Deep Learning for DrivAerML Aerodynamic Prediction</div>
       <div class="agenda-speaker">IngeniAI</div>
@@ -431,7 +439,7 @@ content_class: agenda-page
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>12:00 - 12:15</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>12:15 - 12:30</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">Spatially Smooth Multi-Granularity Conformal Prediction for Reliable Automotive Aerodynamic Surrogate Modeling</div>
       <div class="agenda-speaker">KIT</div>
@@ -439,18 +447,10 @@ content_class: agenda-page
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>12:15 - 12:30</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>12:30 - 12:45</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">Trustworthy AI Surrogates for DrivAerML: Cross-Architecture Evaluation, Data-Source Ablation, and Calibrated Uncertainty Quantification</div>
       <div class="agenda-speaker">Luminary AI</div>
-    </div>
-  </div>
-
-  <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>12:30 - 12:45</div><div class="agenda-duration">15 min</div></div>
-    <div class="agenda-content">
-      <div class="agenda-title">Beyond L2: Community Benchmarking of AI for Automotive CFD</div>
-      <div class="agenda-speaker">Mistral</div>
     </div>
   </div>
 
