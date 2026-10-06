@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Register for AutoCFD5 and view the registration details](https://auto-cfd.sharevent.app).
+<span class="registration-closed-text">AutoCFD5 registration is now closed (deadline: 1 October 2026).</span>

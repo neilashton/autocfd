@@ -16,10 +16,10 @@ news: true # includes a list of news items
 
 ## Key dates and next steps
 
-**Current status:** Abstract submissions and early-bird registration are now closed. The results data submission deadline has been extended to **4 September 2026**, final registration closes on **1 October 2026**, and the workshop takes place **8–9 October 2026**.
+**Current status:** Abstract submissions are now closed. <span class="registration-closed-text">Registration is now closed; the final deadline was <strong>1 October 2026</strong>.</span> The results data submission deadline was extended to **4 September 2026**, and the workshop takes place **8–9 October 2026**.
 
 <p>
-  <a class="btn btn-primary mb-2 mr-2" href="{{ '/registration/' | relative_url }}">Register for AutoCFD5</a>
+  <button class="btn registration-closed-button mb-2 mr-2" type="button" disabled>Registration closed</button>
   <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/agenda/' | relative_url }}">View the agenda</a>
   <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/case1/' | relative_url }}">Case 1 details</a>
   <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/case2/' | relative_url }}">Case 2 details</a>

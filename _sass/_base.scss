@@ -2081,9 +2081,50 @@ html[data-theme="dark"] .autocfd4-page {
   }
 }
 
+// Closed workshop registration
+
+.registration-closed-text,
+#navbar .nav-link.registration-closed-text {
+  color: var(--global-text-color-light);
+
+  strong,
+  span {
+    color: inherit;
+  }
+
+  &:hover,
+  &:focus {
+    color: var(--global-text-color-light);
+  }
+}
+
+.registration-closed-banner,
+.btn.registration-closed-button {
+  border-color: #6c757d;
+  background-color: #6c757d;
+  color: #fff;
+  box-shadow: none;
+}
+
+.registration-closed-banner {
+  margin-bottom: 30px;
+  padding: 15px;
+  border-radius: 5px;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.btn.registration-closed-button:disabled {
+  cursor: not-allowed;
+  opacity: 1;
+}
+
 // Key dates page
 
 .dates-page {
+  --dates-closed-bg-color: #f1f3f5;
+
   .dates-summary {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -2364,6 +2405,20 @@ html[data-theme="dark"] .autocfd4-page {
     top: 1rem;
   }
 
+  .is-closed .dates-milestone__card,
+  .dates-action-card.is-closed {
+    background: var(--dates-closed-bg-color);
+    box-shadow: none;
+
+    h3,
+    p,
+    strong,
+    .dates-action-card__step,
+    .dates-status {
+      color: var(--global-text-color-light);
+    }
+  }
+
   .dates-note {
     display: grid;
     grid-template-columns: minmax(10rem, 0.55fr) minmax(0, 1.45fr);
@@ -2395,6 +2450,10 @@ html[data-theme="dark"] .autocfd4-page {
     padding-top: 0.85rem;
     border-top: 1px solid var(--global-divider-color);
   }
+}
+
+html[data-theme="dark"] .dates-page {
+  --dates-closed-bg-color: #2c2c2c;
 }
 
 @media (max-width: 700px) {

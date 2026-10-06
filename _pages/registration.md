@@ -2,22 +2,22 @@
 layout: page
 permalink: /registration/
 title: Registration
-page_title: Register for AutoCFD5
-page_description: Registration fees and booking link for AutoCFD5 in Bologna on 8–9 October 2026.
-description: Register for the 5th Automotive CFD Prediction Workshop in Bologna by the final registration deadline on 1 October 2026.
+page_title: AutoCFD5 registration closed
+page_description: Registration for AutoCFD5 in Bologna on 8–9 October 2026 is now closed.
+description: Registration for the 5th Automotive CFD Prediction Workshop closed on 1 October 2026. View workshop information and registration fees for reference.
 nav: true
 nav_order: 3
 ---
 
 AutoCFD5 takes place on **8–9 October 2026** at **DAMA Technopole, Bologna, Italy**. The venue address is Via Stalingrado 84/3, 40128 Bologna.
 
-Before booking, you can [review the two-day workshop agenda]({{ '/agenda/' | relative_url }}), [plan your journey to DAMA Technopole]({{ '/venue/' | relative_url }}) and [compare suggested accommodation in Bologna]({{ '/accommodation/' | relative_url }}).
+Participants can [review the two-day workshop agenda]({{ '/agenda/' | relative_url }}), [plan their journey to DAMA Technopole]({{ '/venue/' | relative_url }}) and [compare suggested accommodation in Bologna]({{ '/accommodation/' | relative_url }}).
 
-<div style="background-color: #007bff; color: white; text-align: center; padding: 15px; font-size: 1.25rem; font-weight: bold; border-radius: 5px; margin-bottom: 30px;">
-    <a href="https://auto-cfd.sharevent.app/" style="color: white; text-decoration: none; display: block; width: 100%;">Register for AutoCFD5</a>
+<div class="registration-closed-banner">
+  Registration closed
 </div>
 
-Registration closes on **1 October 2026**, one week before the workshop. Early-bird pricing ended on 28 August; regular registration rates now apply.
+<p class="registration-closed-text">Registration closed on <strong>1 October 2026</strong>, one week before the workshop. Early-bird pricing ended on 28 August. The fees below are retained for reference.</p>
 
 ## Registration Fees
 
@@ -28,4 +28,4 @@ Registration closes on **1 October 2026**, one week before the workshop. Early-b
 
 <p style="font-size: 0.9rem; color: #666; margin-top: 10px;">* Plus VAT if required by law.</p>
 
-Registration is managed on the workshop's Sharevent booking site. Questions can be sent to [admin@autocfd.org](mailto:admin@autocfd.org).
+Registration questions can be sent to [admin@autocfd.org](mailto:admin@autocfd.org).

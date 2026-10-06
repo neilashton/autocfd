@@ -98,8 +98,17 @@
               {% else %}
                 <li class="nav-item {% if page.url contains p.permalink %}active{% endif %}">
                   {% if p.permalink contains '/blog/' %}{% assign url = '/blog/' %} {% else %}{% assign url = p.url %}{% endif %}
-                  <a class="nav-link" href="{{ url | relative_url }}">
+                  <a
+                    class="nav-link{% if p.permalink == '/registration/' %} registration-closed-text{% endif %}"
+                    href="{{ url | relative_url }}"
+                    {% if p.permalink == '/registration/' %}
+                      title="Registration closed"
+                    {% endif %}
+                  >
                     {{- p.title }}
+                    {% if p.permalink == '/registration/' %}
+                      <span class="sr-only">(closed)</span>
+                    {% endif %}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
                     {% endif %}

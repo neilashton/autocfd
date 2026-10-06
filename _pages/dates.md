@@ -84,7 +84,7 @@ content_class: dates-page
         <span class="dates-status">Upcoming · next</span>
       </article>
     </li>
-    <li class="dates-milestone is-upcoming">
+    <li class="dates-milestone is-closed">
       <article class="dates-milestone__card">
         <time class="dates-milestone__date" datetime="2026-10-01">
           <strong>1 October</strong>
@@ -92,9 +92,9 @@ content_class: dates-page
         </time>
         <div class="dates-milestone__content">
           <h3>Final registration deadline</h3>
-          <p>Registration closes one week before the workshop so final attendance numbers and badges can be prepared.</p>
+          <p>Registration is now closed. The final deadline was one week before the workshop.</p>
         </div>
-        <span class="dates-status">Upcoming</span>
+        <span class="dates-status">Closed</span>
       </article>
     </li>
     <li class="dates-milestone is-upcoming is-workshop">
@@ -132,10 +132,10 @@ content_class: dates-page
       <h3>Submit results</h3>
       <p>Sign in to the <a href="https://autocfd5.cfdsolutions.net/File_Upload">AutoCFD5 results dashboard</a> to upload completed spreadsheets by the extended deadline of <strong>4 September 2026</strong>. The upload page includes submission instructions and a Dropbox link for auxiliary files.</p>
     </article>
-    <article class="dates-action-card">
+    <article class="dates-action-card is-closed">
       <span class="dates-action-card__step" aria-hidden="true">03</span>
-      <h3>Register</h3>
-      <p><a href="{{ '/registration/' | relative_url }}">Register for AutoCFD5</a> by the final registration deadline on <strong>1 October 2026</strong>.</p>
+      <h3>Registration closed</h3>
+      <p>Registration for AutoCFD5 closed on <strong>1 October 2026</strong>.</p>
     </article>
   </div>
 </section>
