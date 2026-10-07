@@ -174,7 +174,7 @@ content_class: agenda-page
         <summary class="agenda-period__summary">
           <h3 class="agenda-period__heading">
             <span>Afternoon programme</span>
-            <span class="agenda-period__meta">14:10–17:00 · 10 entries</span>
+            <span class="agenda-period__meta">14:10–16:45 · 9 entries</span>
           </h3>
         </summary>
         <div class="agenda-period__body">
@@ -183,21 +183,13 @@ content_class: agenda-page
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>14:10 - 14:25</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Revisiting DrivAer Aerodynamics: Updated results integrating Noise Factors and AI</div>
-      <div class="agenda-speaker">Siemens Digital Industries Software</div>
-    </div>
-  </div>
-
-  <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>14:25 - 14:40</div><div class="agenda-duration">15 min</div></div>
-    <div class="agenda-content">
       <div class="agenda-title">Assessment of the open-source CFD code code_saturne on the AutoCFD workshop cases: from steady RANS to hybrid RANS-LES</div>
       <div class="agenda-speaker">Simvia / EDF Group</div>
     </div>
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>14:40 - 14:55</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>14:25 - 14:40</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">Investigation of the Effect of Targeted Octree Mesh Refinement on WFLES and SBES solutions for the DrivAer Notchback Configuration</div>
       <div class="agenda-speaker">Synopsys</div>
@@ -205,7 +197,7 @@ content_class: agenda-page
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>14:55 - 15:10</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>14:40 - 14:55</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">The Role of Numerical Scheme Accuracy in WMLES of the Aerodynamics of the Windsor Body</div>
       <div class="agenda-speaker">Universitas Mercatorum</div>
@@ -213,10 +205,18 @@ content_class: agenda-page
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>15:10 - 15:25</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>14:55 - 15:10</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">Scale-resolving OpenFOAM simulations of the DrivAer case 2 using a novel family of dynamic RANS closures</div>
       <div class="agenda-speaker">University of Modena and Reggio Emilia</div>
+    </div>
+  </div>
+
+  <div class="agenda-item tfg-item">
+    <div class="agenda-time-meta"><div>15:10 - 15:25</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-content">
+      <div class="agenda-title">Volcano ScaLES Results for AutoCFD5 Cases</div>
+      <div class="agenda-speaker">Volcano Platforms</div>
     </div>
   </div>
 
@@ -230,21 +230,13 @@ content_class: agenda-page
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>16:00 - 16:15</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Volcano ScaLES Results for AutoCFD5 Cases</div>
-      <div class="agenda-speaker">Volcano Platforms</div>
-    </div>
-  </div>
-
-  <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>16:15 - 16:30</div><div class="agenda-duration">15 min</div></div>
-    <div class="agenda-content">
       <div class="agenda-title">HPC TFG Context and Summary</div>
       <div class="agenda-speaker">Chair: Herbert Owen</div>
     </div>
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>16:30 - 16:45</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>16:15 - 16:30</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">GPU-Accelerated Scale Resolving Simulations for AutoCFD5 on Fixed and Adaptive Octrees</div>
       <div class="agenda-speaker">Institute for Advanced Study, Beijing Normal-Hong Kong Baptist University</div>
@@ -252,7 +244,7 @@ content_class: agenda-page
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>16:45 - 17:00</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>16:30 - 16:45</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">Detailed comparison of performance and quality between GPU and CPU simulations with OpenFOAM</div>
       <div class="agenda-speaker">Upstream CFD</div>
@@ -267,26 +259,26 @@ content_class: agenda-page
         <summary class="agenda-period__summary">
           <h3 class="agenda-period__heading">
             <span>Social programme</span>
-            <span class="agenda-period__meta">17:00–23:00 · 6 activities</span>
+            <span class="agenda-period__meta">16:45–23:00 · 6 activities</span>
           </h3>
         </summary>
         <div class="agenda-period__body">
 
   <div class="agenda-item social-item">
-    <div class="agenda-time-meta"><div>17:00 - 18:00</div><div class="agenda-duration">1h 00m</div></div>
+    <div class="agenda-time-meta"><div>16:45 - 18:00</div><div class="agenda-duration">1h 15m</div></div>
     <div class="agenda-content"><div class="agenda-title">Travel with bus to Museum Enzo Ferrari Modena</div></div>
   </div>
 
   <div class="agenda-item social-item">
     <div class="agenda-time-meta"><div>18:00 - 19:00</div><div class="agenda-duration">1h 00m</div></div>
-    <div class="agenda-content"><div class="agenda-title">Museum Enzo Ferrari Modena visit with tour guides (one every 20 participants)</div></div>
+    <div class="agenda-content"><div class="agenda-title">Museum Enzo Ferrari Modena visit with tour guides (one every 25 participants)</div></div>
   </div>
 
   <div class="agenda-item social-item">
     <div class="agenda-time-meta"><div>19:00 - 19:30</div><div class="agenda-duration">30 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">Travel to Restaurant "Enoteca al Duomo" in the city center of Modena</div>
-      <div class="agenda-speaker">(20 minutes walking)</div>
+      <div class="agenda-speaker">(bus, or 20 minutes walking)</div>
     </div>
   </div>
 
@@ -317,7 +309,7 @@ content_class: agenda-page
       <h2 class="agenda-day__heading">
         <span class="agenda-day__label">Day 2</span>
         <span class="agenda-day__date">Friday 9 October 2026</span>
-        <span class="agenda-day__meta">08:30–18:00</span>
+        <span class="agenda-day__meta">08:30–17:00</span>
       </h2>
     </summary>
     <div class="agenda-day__body">
@@ -362,24 +354,24 @@ content_class: agenda-page
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>09:30 - 09:45</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Using Ensemble Averaging to Accelerate Uncertainty Quantification in Automotive Aerodynamics Simulations</div>
-      <div class="agenda-speaker">Ford Motor Company</div>
+      <div class="agenda-title">Quantification of uncertainties from mesh approaches and hardware architecture using PowerFLOW and DrivAer model</div>
+      <div class="agenda-speaker">Dassault Systèmes</div>
     </div>
   </div>
 
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>09:45 - 10:00</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Towards Multi-Factor Noise Assessment in Automotive CFD Using Design of Experiments</div>
-      <div class="agenda-speaker">ICON</div>
+      <div class="agenda-title">Using Ensemble Averaging to Accelerate Uncertainty Quantification in Automotive Aerodynamics Simulations</div>
+      <div class="agenda-speaker">Ford Motor Company</div>
     </div>
   </div>
 
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>10:00 - 10:15</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Quantification of uncertainties from mesh approaches and hardware architecture using PowerFLOW and DrivAer model</div>
-      <div class="agenda-speaker">Dassault Systèmes</div>
+      <div class="agenda-title">Towards Multi-Factor Noise Assessment in Automotive CFD Using Design of Experiments</div>
+      <div class="agenda-speaker">ICON</div>
     </div>
   </div>
 
@@ -404,10 +396,18 @@ content_class: agenda-page
     <div class="agenda-content"><div class="agenda-title">Coffee</div></div>
   </div>
 
+  <div class="agenda-item tfg-item">
+    <div class="agenda-time-meta"><div>11:15 - 11:30</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-content">
+      <div class="agenda-title">Revisiting DrivAer Aerodynamics: Updated results integrating Noise Factors and AI</div>
+      <div class="agenda-speaker">Siemens Digital Industries Software</div>
+    </div>
+  </div>
+
   <h4 class="agenda-group-label">AI/ML Technology Focus Group</h4>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>11:15 - 11:30</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>11:30 - 11:45</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">AI/ML TFG context, datasets and summary</div>
       <div class="agenda-speaker">Chairs: Neil Ashton &amp; Astrid Walle</div>
@@ -415,7 +415,7 @@ content_class: agenda-page
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>11:30 - 11:45</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>11:45 - 12:00</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">Beyond L2: Community Benchmarking of AI for Automotive CFD</div>
       <div class="agenda-speaker">Mistral</div>
@@ -423,7 +423,7 @@ content_class: agenda-page
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>11:45 - 12:00</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>12:00 - 12:15</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">Impact of Input Quantities on Aerodynamic Predictions Using Geometric Deep Learning</div>
       <div class="agenda-speaker">Cadence</div>
@@ -431,7 +431,7 @@ content_class: agenda-page
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>12:00 - 12:15</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>12:15 - 12:30</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">IngeniNetSim: Fast and Scalable Geometric Deep Learning for DrivAerML Aerodynamic Prediction</div>
       <div class="agenda-speaker">IngeniAI</div>
@@ -439,18 +439,10 @@ content_class: agenda-page
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>12:15 - 12:30</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>12:30 - 12:45</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">Spatially Smooth Multi-Granularity Conformal Prediction for Reliable Automotive Aerodynamic Surrogate Modeling</div>
       <div class="agenda-speaker">KIT</div>
-    </div>
-  </div>
-
-  <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>12:30 - 12:45</div><div class="agenda-duration">15 min</div></div>
-    <div class="agenda-content">
-      <div class="agenda-title">Trustworthy AI Surrogates for DrivAerML: Cross-Architecture Evaluation, Data-Source Ablation, and Calibrated Uncertainty Quantification</div>
-      <div class="agenda-speaker">Luminary AI</div>
     </div>
   </div>
 
@@ -468,7 +460,7 @@ content_class: agenda-page
         <summary class="agenda-period__summary">
           <h3 class="agenda-period__heading">
             <span>Afternoon programme and close</span>
-            <span class="agenda-period__meta">13:45–18:00 · 6 entries</span>
+            <span class="agenda-period__meta">13:45–17:00 · 7 entries</span>
           </h3>
         </summary>
         <div class="agenda-period__body">
@@ -477,13 +469,21 @@ content_class: agenda-page
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>13:45 - 14:00</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
+      <div class="agenda-title">Trustworthy AI Surrogates for DrivAerML: Cross-Architecture Evaluation, Data-Source Ablation, and Calibrated Uncertainty Quantification</div>
+      <div class="agenda-speaker">Luminary AI</div>
+    </div>
+  </div>
+
+  <div class="agenda-item tfg-item">
+    <div class="agenda-time-meta"><div>14:00 - 14:15</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-content">
       <div class="agenda-title">Single-Pass versus Sequential Multi-Field Prediction with the Courant Neural Surrogate for the DrivAer Case</div>
       <div class="agenda-speaker">Pasteur Labs</div>
     </div>
   </div>
 
   <div class="agenda-item tfg-item">
-    <div class="agenda-time-meta"><div>14:00 - 14:15</div><div class="agenda-duration">15 min</div></div>
+    <div class="agenda-time-meta"><div>14:15 - 14:30</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
       <div class="agenda-title">Data-Centric Large Physics Models for Automotive Aerodynamics: From Architecture to Scalable Training Data</div>
       <div class="agenda-speaker">PhysicsX</div>
@@ -493,24 +493,24 @@ content_class: agenda-page
   <h4 class="agenda-group-label">Panel discussions and workshop close</h4>
 
           <div class="agenda-item closing-item">
-            <div class="agenda-time-meta"><div>14:15 - 15:00</div><div class="agenda-duration">45 min</div></div>
+            <div class="agenda-time-meta"><div>14:30 - 15:15</div><div class="agenda-duration">45 min</div></div>
             <div class="agenda-content"><div class="agenda-title">OEM Panel Discussion</div></div>
           </div>
 
           <div class="agenda-item closing-item">
-            <div class="agenda-time-meta"><div>15:00 - 15:45</div><div class="agenda-duration">45 min</div></div>
+            <div class="agenda-time-meta"><div>15:15 - 16:00</div><div class="agenda-duration">45 min</div></div>
             <div class="agenda-content"><div class="agenda-title">TFG Lead Panel Discussion</div></div>
           </div>
 
           <div class="agenda-item closing-item">
-            <div class="agenda-time-meta"><div>15:45 - 16:00</div><div class="agenda-duration">15 min</div></div>
+            <div class="agenda-time-meta"><div>16:00 - 17:00</div><div class="agenda-duration">1h 00m</div></div>
             <div class="agenda-content"><div class="agenda-title">Summary, Closing Remarks and Future Workshop Discussions</div></div>
 
   </div>
 
   <div class="agenda-item closing-item">
-    <div class="agenda-time-meta"><div>16:00 - 18:00</div><div class="agenda-duration">2h 00m</div></div>
-    <div class="agenda-content"><div class="agenda-title">Close of Workshop, optional networking event</div></div>
+    <div class="agenda-time-meta"><div>17:00</div></div>
+    <div class="agenda-content"><div class="agenda-title">Close of Workshop</div></div>
   </div>
 
         </div>
