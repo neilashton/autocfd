@@ -18,7 +18,7 @@ content_class: agenda-page
   <a class="agenda-materials-link" href="{{ '/presentations/' | relative_url }}">Presentation materials</a>
 </div>
 
-<p class="agenda-materials-note">Presentation files will be added to the <a href="{{ '/presentations/' | relative_url }}">AutoCFD5 presentation materials page</a> after the workshop.</p>
+<p class="agenda-materials-note">Browse talks and summaries in the <a href="{{ '/presentations/' | relative_url }}">AutoCFD5 presentation library</a>. PDF slides and video recordings are pending.</p>
 
 <aside class="agenda-legend" aria-label="Agenda item types">
   <span><i class="agenda-legend__marker" aria-hidden="true"></i>General workshop session</span>

@@ -1,0 +1,408 @@
+# Titles, presenters and timings follow _pages/agenda.md.
+# Add approved public URLs to pdf_url and video_url when materials are ready.
+---
+source: "/agenda/"
+sections:
+  - id: opening
+    title: Opening and test cases
+    talks:
+      - id: day-1-0900
+        day: 1
+        date: 8 October 2026
+        time: "09:00–09:10"
+        title: Opening remarks and workshop statistics
+        presenter: Simone Bnà & Neil Ashton
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-0910
+        day: 1
+        date: 8 October 2026
+        time: "09:10–09:40"
+        title: Summary of Workshop Series and Introduction to AutoCFD5 Case 1 and 2
+        presenter: Gary Page & Burkhard Hupertz
+        featured: true
+        pdf_url:
+        video_url:
+      - id: day-2-0845
+        day: 2
+        date: 9 October 2026
+        time: "08:45–09:00"
+        title: Day 1 recap and announcements
+        presenter: ""
+        featured: false
+        pdf_url:
+        video_url:
+  - id: meshing
+    title: Meshing
+    talks:
+      - id: day-1-0940
+        day: 1
+        date: 8 October 2026
+        time: "09:40–09:55"
+        title: Meshing TFG Context and Summary
+        presenter: "Chair: Vangelis Skaperdas"
+        featured: true
+        pdf_url:
+        video_url:
+      - id: day-1-0955
+        day: 1
+        date: 8 October 2026
+        time: "09:55–10:10"
+        title: Effect of Turbulence Modeling and Automatic Mesh Refinement on the External
+          Aerodynamics of Automobiles
+        presenter: CNRS / Centrale Nantes
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1010
+        day: 1
+        date: 8 October 2026
+        time: 10:10–10:25
+        title: Additional Mesh Coarsening Approaches and Their Effects
+        presenter: Multimatic
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1025
+        day: 1
+        date: 8 October 2026
+        time: 10:25–10:40
+        title: Automated Parallel Hex-Dominant Volume Mesh Generation for the DrivAer
+          Notchback Using ChopMesh
+        presenter: Voxshell
+        featured: false
+        pdf_url:
+        video_url:
+  - id: srs
+    title: Scale Resolving Simulation
+    talks:
+      - id: day-1-1110
+        day: 1
+        date: 8 October 2026
+        time: 11:10–11:25
+        title: Scale Resolving Simulation TFG Context and Summary
+        presenter: "Chair: Charlie Mockett"
+        featured: true
+        pdf_url:
+        video_url:
+      - id: day-1-1125
+        day: 1
+        date: 8 October 2026
+        time: 11:25–11:40
+        title: High Order Spectral Element Method DrivAer
+        presenter: Barcelona Supercomputing Center
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1140
+        day: 1
+        date: 8 October 2026
+        time: 11:40–11:55
+        title: Effect of time-step and grid refinement on DDES approach on flow topology
+          and separation behaviour for the DrivAer model
+        presenter: Bramble CFD
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1155
+        day: 1
+        date: 8 October 2026
+        time: 11:55–12:10
+        title: Evaluation of Hybrid RANS–LES Scale-Resolving Simulations for the DrivAer
+          Notchback Configuration
+        presenter: ENGYS
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1210
+        day: 1
+        date: 8 October 2026
+        time: 12:10–12:25
+        title: Towards Fast and Accurate DrivAer Simulations
+        presenter: Flexcompute
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1225
+        day: 1
+        date: 8 October 2026
+        time: 12:25–12:40
+        title: Effect of LES model on the onset of separation
+        presenter: KM Turbulenz
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1410
+        day: 1
+        date: 8 October 2026
+        time: 14:10–14:25
+        title: "Assessment of the open-source CFD code code_saturne on the AutoCFD workshop
+          cases: from steady RANS to hybrid RANS-LES"
+        presenter: Simvia / EDF Group
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1425
+        day: 1
+        date: 8 October 2026
+        time: 14:25–14:40
+        title: Investigation of the Effect of Targeted Octree Mesh Refinement on WFLES
+          and SBES solutions for the DrivAer Notchback Configuration
+        presenter: Synopsys
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1440
+        day: 1
+        date: 8 October 2026
+        time: 14:40–14:55
+        title: The Role of Numerical Scheme Accuracy in WMLES of the Aerodynamics of the
+          Windsor Body
+        presenter: Universitas Mercatorum
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1455
+        day: 1
+        date: 8 October 2026
+        time: 14:55–15:10
+        title: Scale-resolving OpenFOAM simulations of the DrivAer case 2 using a novel
+          family of dynamic RANS closures
+        presenter: University of Modena and Reggio Emilia
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1510
+        day: 1
+        date: 8 October 2026
+        time: 15:10–15:25
+        title: Volcano ScaLES Results for AutoCFD5 Cases
+        presenter: Volcano Platforms
+        featured: false
+        pdf_url:
+        video_url:
+  - id: hpc
+    title: High Performance Computing
+    talks:
+      - id: day-1-1600
+        day: 1
+        date: 8 October 2026
+        time: 16:00–16:15
+        title: HPC TFG Context and Summary
+        presenter: "Chair: Herbert Owen"
+        featured: true
+        pdf_url:
+        video_url:
+      - id: day-1-1615
+        day: 1
+        date: 8 October 2026
+        time: 16:15–16:30
+        title: GPU-Accelerated Scale Resolving Simulations for AutoCFD5 on Fixed and Adaptive
+          Octrees
+        presenter: Institute for Advanced Study, Beijing Normal-Hong Kong Baptist University
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-1-1630
+        day: 1
+        date: 8 October 2026
+        time: 16:30–16:45
+        title: Detailed comparison of performance and quality between GPU and CPU simulations
+          with OpenFOAM
+        presenter: Upstream CFD
+        featured: false
+        pdf_url:
+        video_url:
+  - id: noise
+    title: Noise Factors
+    talks:
+      - id: day-2-0900
+        day: 2
+        date: 9 October 2026
+        time: "09:00–09:15"
+        title: Noise Factors TFG Context and Summary
+        presenter: "Chair: Burkhard Hupertz"
+        featured: true
+        pdf_url:
+        video_url:
+      - id: day-2-0915
+        day: 2
+        date: 9 October 2026
+        time: "09:15–09:30"
+        title: Pacefish's LBM-based GPU-native CFD
+        presenter: Numeric Systems
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-0930
+        day: 2
+        date: 9 October 2026
+        time: "09:30–09:45"
+        title: Quantification of uncertainties from mesh approaches and hardware architecture
+          using PowerFLOW and DrivAer model
+        presenter: Dassault Systèmes
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-0945
+        day: 2
+        date: 9 October 2026
+        time: "09:45–10:00"
+        title: Using Ensemble Averaging to Accelerate Uncertainty Quantification in Automotive
+          Aerodynamics Simulations
+        presenter: Ford Motor Company
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1000
+        day: 2
+        date: 9 October 2026
+        time: 10:00–10:15
+        title: Towards Multi-Factor Noise Assessment in Automotive CFD Using Design of
+          Experiments
+        presenter: ICON
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1015
+        day: 2
+        date: 9 October 2026
+        time: 10:15–10:30
+        title: Ensemble Averaging Method for Efficient Transient Simulations of External
+          Automotive Aerodynamics
+        presenter: Škoda Auto
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1030
+        day: 2
+        date: 9 October 2026
+        time: 10:30–10:45
+        title: "Quantifying Noise Factors: Sampling Length and CrossSolver Uncertainty
+          Analysis"
+        presenter: Škoda Auto
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1115
+        day: 2
+        date: 9 October 2026
+        time: 11:15–11:30
+        title: "Revisiting DrivAer Aerodynamics: Updated results integrating Noise Factors
+          and AI"
+        presenter: Siemens Digital Industries Software
+        featured: false
+        pdf_url:
+        video_url:
+  - id: aiml
+    title: AI/ML
+    talks:
+      - id: day-2-1130
+        day: 2
+        date: 9 October 2026
+        time: 11:30–11:45
+        title: AI/ML TFG context, datasets and summary
+        presenter: "Chairs: Neil Ashton & Astrid Walle"
+        featured: true
+        pdf_url:
+        video_url:
+      - id: day-2-1145
+        day: 2
+        date: 9 October 2026
+        time: 11:45–12:00
+        title: "Beyond L2: Community Benchmarking of AI for Automotive CFD"
+        presenter: Mistral
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1200
+        day: 2
+        date: 9 October 2026
+        time: 12:00–12:15
+        title: Impact of Input Quantities on Aerodynamic Predictions Using Geometric Deep
+          Learning
+        presenter: Cadence
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1215
+        day: 2
+        date: 9 October 2026
+        time: 12:15–12:30
+        title: "IngeniNetSim: Fast and Scalable Geometric Deep Learning for DrivAerML
+          Aerodynamic Prediction"
+        presenter: IngeniAI
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1230
+        day: 2
+        date: 9 October 2026
+        time: 12:30–12:45
+        title: Spatially Smooth Multi-Granularity Conformal Prediction for Reliable Automotive
+          Aerodynamic Surrogate Modeling
+        presenter: KIT
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1345
+        day: 2
+        date: 9 October 2026
+        time: 13:45–14:00
+        title: "Trustworthy AI Surrogates for DrivAerML: Cross-Architecture Evaluation,
+          Data-Source Ablation, and Calibrated Uncertainty Quantification"
+        presenter: Luminary AI
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1400
+        day: 2
+        date: 9 October 2026
+        time: 14:00–14:15
+        title: Single-Pass versus Sequential Multi-Field Prediction with the Courant Neural
+          Surrogate for the DrivAer Case
+        presenter: Pasteur Labs
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1415
+        day: 2
+        date: 9 October 2026
+        time: 14:15–14:30
+        title: "Data-Centric Large Physics Models for Automotive Aerodynamics: From Architecture
+          to Scalable Training Data"
+        presenter: PhysicsX
+        featured: false
+        pdf_url:
+        video_url:
+  - id: closing
+    title: Panels and closing
+    talks:
+      - id: day-2-1430
+        day: 2
+        date: 9 October 2026
+        time: 14:30–15:15
+        title: OEM Panel Discussion
+        presenter: ""
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1515
+        day: 2
+        date: 9 October 2026
+        time: 15:15–16:00
+        title: TFG Lead Panel Discussion
+        presenter: ""
+        featured: false
+        pdf_url:
+        video_url:
+      - id: day-2-1600
+        day: 2
+        date: 9 October 2026
+        time: 16:00–17:00
+        title: Summary, Closing Remarks and Future Workshop Discussions
+        presenter: ""
+        featured: true
+        pdf_url:
+        video_url:
