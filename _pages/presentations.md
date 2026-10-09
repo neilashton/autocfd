@@ -17,7 +17,7 @@ content_class: presentations-page
 {% endfor %}
 
 <div class="presentations-intro">
-  <p><strong>{{ talk_count }} presentations and discussions across {{ catalogue.sections.size }} programme sections.</strong><br>Browse the workshop summaries and individual talks below. PDF slides and video recordings are pending.</p>
+  <p><strong>{{ talk_count }} presentations and discussions across {{ catalogue.sections.size }} programme sections.</strong><br>Browse the workshop summaries and individual talks below. PDF slides are being added as they become available. Video recordings will follow.</p>
   <a href="{{ '/agenda/' | relative_url }}">View the full agenda</a>
 </div>
 

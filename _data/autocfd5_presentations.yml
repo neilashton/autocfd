@@ -305,7 +305,7 @@ sections:
         title: AI/ML TFG context, datasets and summary
         presenter: "Chairs: Neil Ashton & Astrid Walle"
         featured: true
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/autocfd5-aiml-tfg-summary-2026-10-09.pdf
         video_url:
       - id: day-2-1145
         day: 2
@@ -314,7 +314,7 @@ sections:
         title: "Mistral DrivAerML results using AB-UPT"
         presenter: Mistral
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/mistral-drivaerml-ab-upt-2026-10-09.pdf
         video_url:
       - id: day-2-1200
         day: 2
