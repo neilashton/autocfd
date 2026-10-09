@@ -5,7 +5,7 @@ title: Registration
 page_title: AutoCFD5 registration closed
 page_description: Registration for AutoCFD5 in Bologna on 8–9 October 2026 is now closed.
 description: Registration for the 5th Automotive CFD Prediction Workshop closed on 1 October 2026. View workshop information and registration fees for reference.
-nav: true
+nav: false
 nav_order: 3
 ---
 
