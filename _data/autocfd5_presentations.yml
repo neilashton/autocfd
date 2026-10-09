@@ -311,7 +311,7 @@ sections:
         day: 2
         date: 9 October 2026
         time: 11:45–12:00
-        title: "Beyond L2: Community Benchmarking of AI for Automotive CFD"
+        title: "Mistral DrivAerML results using AB-UPT"
         presenter: Mistral
         featured: false
         pdf_url:

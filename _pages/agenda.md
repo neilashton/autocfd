@@ -417,7 +417,7 @@ content_class: agenda-page
   <div class="agenda-item tfg-item">
     <div class="agenda-time-meta"><div>11:45 - 12:00</div><div class="agenda-duration">15 min</div></div>
     <div class="agenda-content">
-      <div class="agenda-title">Beyond L2: Community Benchmarking of AI for Automotive CFD</div>
+      <div class="agenda-title">Mistral DrivAerML results using AB-UPT</div>
       <div class="agenda-speaker">Mistral</div>
     </div>
   </div>
