@@ -5,8 +5,8 @@ title: Presentations
 page_title: AutoCFD5 presentations
 page_description: Presentations and discussions from Bologna, 8–9 October 2026.
 description: Browse AutoCFD5 presentations by Technology Focus Group, title, speaker or organisation, with PDF and video recording availability.
-nav: false
-nav_order: 6
+nav: true
+nav_order: 3
 content_class: presentations-page
 ---
 
