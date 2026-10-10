@@ -344,7 +344,7 @@ sections:
           Aerodynamic Surrogate Modeling
         presenter: KIT
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/xia-conformal-prediction-autocfd5-2026-10-09.pdf
         video_url:
       - id: day-2-1345
         day: 2
