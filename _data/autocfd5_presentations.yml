@@ -293,7 +293,7 @@ sections:
           and AI"
         presenter: Siemens Digital Industries Software
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/siemens-drivaer-noise-factors-ai-autocfd5-2026.pdf
         video_url:
   - id: aiml
     title: AI/ML
