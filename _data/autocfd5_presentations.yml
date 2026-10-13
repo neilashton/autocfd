@@ -62,7 +62,7 @@ sections:
         title: Additional Mesh Coarsening Approaches and Their Effects
         presenter: Multimatic
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/multimatic-mesh-coarsening-autocfd5-2026.pdf
         video_url:
       - id: day-1-1025
         day: 1
