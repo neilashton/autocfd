@@ -403,7 +403,8 @@ sections:
         date: 9 October 2026
         time: 16:00–17:00
         title: Summary, Closing Remarks and Future Workshop Discussions
-        presenter: ""
+        presenter: "New case proposal: Gary Page"
         featured: true
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/gary-page-nwtf-new-automotive-reference-models-2026.pdf
+        pdf_label: "New case proposal: NWTF automotive reference models (PDF)"
         video_url:

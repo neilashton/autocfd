@@ -504,7 +504,11 @@ content_class: agenda-page
 
           <div class="agenda-item closing-item">
             <div class="agenda-time-meta"><div>16:00 - 17:00</div><div class="agenda-duration">1h 00m</div></div>
-            <div class="agenda-content"><div class="agenda-title">Summary, Closing Remarks and Future Workshop Discussions</div></div>
+            <div class="agenda-content">
+              <div class="agenda-title">Summary, Closing Remarks and Future Workshop Discussions</div>
+              <div class="agenda-speaker">New case proposal: Gary Page — NWTF automotive reference models</div>
+              <a href="{{ '/assets/pdf/autocfd5/gary-page-nwtf-new-automotive-reference-models-2026.pdf' | relative_url }}">View new case proposal (PDF)</a>
+            </div>
 
   </div>
 
