@@ -76,7 +76,7 @@ content_class: presentations-page
             {% endif %}
             <div class="presentation-entry__materials" aria-label="Materials for {{ talk.title | escape }}">
               {% if talk.pdf_url != blank %}
-                <a href="{{ talk.pdf_url | relative_url }}" aria-label="View PDF slides: {{ talk.title | escape }}">View slides (PDF)</a>
+                <a href="{{ talk.pdf_url | relative_url }}" aria-label="View PDF slides: {{ talk.title | escape }}">{{ talk.pdf_label | default: "View slides (PDF)" | escape }}</a>
               {% else %}
                 <span class="presentation-pending"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i> PDF pending</span>
               {% endif %}

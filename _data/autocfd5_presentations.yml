@@ -22,7 +22,8 @@ sections:
         title: Summary of Workshop Series and Introduction to AutoCFD5 Case 1 and 2
         presenter: Gary Page & Burkhard Hupertz
         featured: true
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/autocfd5-case-1-windsor-squareback-summary-2026.pdf
+        pdf_label: Case 1 summary (PDF)
         video_url:
       - id: day-2-0845
         day: 2
