@@ -73,7 +73,7 @@ sections:
           Notchback Using ChopMesh
         presenter: Voxshell
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/voxshell-chopmesh-drivaer-notchback-autocfd5-2026.pdf
         video_url:
   - id: srs
     title: Scale Resolving Simulation
