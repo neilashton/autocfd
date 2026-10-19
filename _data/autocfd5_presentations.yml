@@ -54,7 +54,7 @@ sections:
           Aerodynamics of Automobiles
         presenter: CNRS / Centrale Nantes
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/guilmineau-turbulence-modeling-mesh-refinement-autocfd5-2026.pdf
         video_url:
       - id: day-1-1010
         day: 1
