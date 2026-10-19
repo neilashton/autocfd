@@ -85,7 +85,7 @@ sections:
         title: Scale Resolving Simulation TFG Context and Summary
         presenter: "Chair: Charlie Mockett"
         featured: true
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/autocfd5-srs-tfg-summary-2026.pdf
         video_url:
       - id: day-1-1125
         day: 1
@@ -104,7 +104,7 @@ sections:
           and separation behaviour for the DrivAer model
         presenter: Bramble CFD
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/bramble-cfd-ddes-time-step-autocfd5-2026.pdf
         video_url:
       - id: day-1-1155
         day: 1
@@ -123,7 +123,7 @@ sections:
         title: Towards Fast and Accurate DrivAer Simulations
         presenter: Flexcompute
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/flexcompute-drivaer-simulations-autocfd5-2026.pdf
         video_url:
       - id: day-1-1225
         day: 1
@@ -132,7 +132,7 @@ sections:
         title: Effect of LES model on the onset of separation
         presenter: KM Turbulenz
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/km-turbulenz-les-separation-autocfd5-2026.pdf
         video_url:
       - id: day-1-1410
         day: 1
@@ -152,7 +152,7 @@ sections:
           and SBES solutions for the DrivAer Notchback Configuration
         presenter: Synopsys
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/synopsys-menter-octree-refinement-autocfd5-2026.pdf
         video_url:
       - id: day-1-1440
         day: 1
@@ -162,7 +162,7 @@ sections:
           Windsor Body
         presenter: Universitas Mercatorum
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/angelino-windsor-wmles-scheme-accuracy-autocfd5-2026.pdf
         video_url:
       - id: day-1-1455
         day: 1
@@ -203,7 +203,7 @@ sections:
           Octrees
         presenter: Institute for Advanced Study, Beijing Normal-Hong Kong Baptist University
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/coreixas-latt-gpu-octrees-autocfd5-2026.pdf
         video_url:
       - id: day-1-1630
         day: 1
@@ -213,7 +213,7 @@ sections:
           with OpenFOAM
         presenter: Upstream CFD
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/upstream-cfd-openfoam-gpu-cpu-autocfd5-2026.pdf
         video_url:
   - id: noise
     title: Noise Factors
@@ -274,7 +274,7 @@ sections:
           Automotive Aerodynamics
         presenter: Škoda Auto
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/skoda-ensemble-averaging-autocfd5-2026.pdf
         video_url:
       - id: day-2-1030
         day: 2
@@ -284,7 +284,7 @@ sections:
           Analysis"
         presenter: Škoda Auto
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/skoda-sampling-cross-solver-autocfd5-2026.pdf
         video_url:
       - id: day-2-1115
         day: 2
