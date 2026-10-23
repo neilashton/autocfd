@@ -335,7 +335,7 @@ sections:
           Aerodynamic Prediction"
         presenter: IngeniAI
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/ingeniai-ingeninetsim-drivaerml-autocfd5-2026.pdf
         video_url:
       - id: day-2-1230
         day: 2
