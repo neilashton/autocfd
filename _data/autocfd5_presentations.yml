@@ -2,6 +2,7 @@
 # Add approved public URLs to pdf_url and video_url when materials are ready.
 ---
 source: "/agenda/"
+playlist_url: https://www.youtube.com/playlist?list=PLPWIA-9VDjy0
 sections:
   - id: opening
     title: Opening and test cases
@@ -25,6 +26,11 @@ sections:
         pdf_url: /assets/pdf/autocfd5/autocfd5-case-1-windsor-squareback-summary-2026.pdf
         pdf_label: Case 1 summary (PDF)
         video_url:
+        videos:
+          - label: Watch Case 1 recording
+            url: https://youtu.be/YefR81Ouys4
+          - label: Watch Case 2 recording
+            url: https://youtu.be/RxpoGIjmmQM
       - id: day-2-0845
         day: 2
         date: 9 October 2026
@@ -45,7 +51,7 @@ sections:
         presenter: "Chair: Vangelis Skaperdas"
         featured: true
         pdf_url: /assets/pdf/autocfd5/autocfd5-meshing-tfg-summary-skaperdas-2026.pdf
-        video_url:
+        video_url: https://youtu.be/BtRyeNHTtkM
       - id: day-1-0955
         day: 1
         date: 8 October 2026
@@ -55,7 +61,7 @@ sections:
         presenter: CNRS / Centrale Nantes
         featured: false
         pdf_url: /assets/pdf/autocfd5/guilmineau-turbulence-modeling-mesh-refinement-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/NnGLbPIK41k
       - id: day-1-1010
         day: 1
         date: 8 October 2026
@@ -64,7 +70,7 @@ sections:
         presenter: Multimatic
         featured: false
         pdf_url: /assets/pdf/autocfd5/multimatic-mesh-coarsening-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/zryp1T3xvjY
       - id: day-1-1025
         day: 1
         date: 8 October 2026
@@ -74,7 +80,7 @@ sections:
         presenter: Voxshell
         featured: false
         pdf_url: /assets/pdf/autocfd5/voxshell-chopmesh-drivaer-notchback-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/xhHD3Ffpga0
   - id: srs
     title: Scale Resolving Simulation
     talks:
@@ -86,7 +92,7 @@ sections:
         presenter: "Chair: Charlie Mockett"
         featured: true
         pdf_url: /assets/pdf/autocfd5/autocfd5-srs-tfg-summary-2026.pdf
-        video_url:
+        video_url: https://youtu.be/XMvVN8YmN9Y
       - id: day-1-1125
         day: 1
         date: 8 October 2026
@@ -95,7 +101,7 @@ sections:
         presenter: Barcelona Supercomputing Center
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/gNfo4fBlru0
       - id: day-1-1140
         day: 1
         date: 8 October 2026
@@ -105,7 +111,7 @@ sections:
         presenter: Bramble CFD
         featured: false
         pdf_url: /assets/pdf/autocfd5/bramble-cfd-ddes-time-step-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/u73SMZiEO9I
       - id: day-1-1155
         day: 1
         date: 8 October 2026
@@ -115,7 +121,7 @@ sections:
         presenter: ENGYS
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/WAv8K1Wt-Wo
       - id: day-1-1210
         day: 1
         date: 8 October 2026
@@ -124,7 +130,7 @@ sections:
         presenter: Flexcompute
         featured: false
         pdf_url: /assets/pdf/autocfd5/flexcompute-drivaer-simulations-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/sEWpLJMCh-Y
       - id: day-1-1225
         day: 1
         date: 8 October 2026
