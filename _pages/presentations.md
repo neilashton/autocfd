@@ -17,8 +17,8 @@ content_class: presentations-page
 {% endfor %}
 
 <div class="presentations-intro">
-  <p><strong>{{ talk_count }} presentations and discussions across {{ catalogue.sections.size }} programme sections.</strong><br>Browse the workshop summaries and individual talks below. PDF slides are being added as they become available. Video recordings will follow.</p>
-  <a href="{{ '/agenda/' | relative_url }}">View the full agenda</a>
+  <p><strong>{{ talk_count }} presentations and discussions across {{ catalogue.sections.size }} programme sections.</strong><br>Browse the workshop summaries and individual talks below. PDF slides and reviewed video recordings are being added as they become available.</p>
+  <a href="{{ '/agenda/' | relative_url }}">View the full agenda</a> · <a href="{{ catalogue.playlist_url }}">Watch the AutoCFD5 playlist</a>
 </div>
 
 <section class="presentation-summaries" aria-labelledby="summary-heading">
@@ -80,7 +80,11 @@ content_class: presentations-page
               {% else %}
                 <span class="presentation-pending"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i> PDF pending</span>
               {% endif %}
-              {% if talk.video_url != blank %}
+              {% if talk.videos.size > 0 %}
+                {% for video in talk.videos %}
+                  <a href="{{ video.url }}" aria-label="{{ video.label | escape }}: {{ talk.title | escape }}">{{ video.label | escape }}</a>
+                {% endfor %}
+              {% elsif talk.video_url != blank %}
                 <a href="{{ talk.video_url | relative_url }}" aria-label="Watch video recording: {{ talk.title | escape }}">Watch recording</a>
               {% else %}
                 <span class="presentation-pending"><i class="fa-solid fa-video" aria-hidden="true"></i> Video recording pending</span>
