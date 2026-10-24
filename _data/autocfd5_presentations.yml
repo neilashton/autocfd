@@ -31,15 +31,6 @@ sections:
             url: https://youtu.be/YefR81Ouys4
           - label: Watch Case 2 recording
             url: https://youtu.be/RxpoGIjmmQM
-      - id: day-2-0845
-        day: 2
-        date: 9 October 2026
-        time: "08:45–09:00"
-        title: Day 1 recap and announcements
-        presenter: ""
-        featured: false
-        pdf_url:
-        video_url:
   - id: meshing
     title: Meshing
     talks:
