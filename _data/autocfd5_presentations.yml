@@ -232,7 +232,7 @@ sections:
         presenter: Numeric Systems
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/LWmeoxHt3NE
       - id: day-2-0930
         day: 2
         date: 9 October 2026
@@ -252,7 +252,7 @@ sections:
         presenter: Ford Motor Company
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/gEC8ZcukyM0
       - id: day-2-1000
         day: 2
         date: 9 October 2026
@@ -262,7 +262,7 @@ sections:
         presenter: ICON
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/Ltg4xCnEc1o
       - id: day-2-1015
         day: 2
         date: 9 October 2026
@@ -272,7 +272,7 @@ sections:
         presenter: Škoda Auto
         featured: false
         pdf_url: /assets/pdf/autocfd5/skoda-ensemble-averaging-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/w0bm4V0If-I
       - id: day-2-1030
         day: 2
         date: 9 October 2026
@@ -282,7 +282,7 @@ sections:
         presenter: Škoda Auto
         featured: false
         pdf_url: /assets/pdf/autocfd5/skoda-sampling-cross-solver-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/MRAVpXST9so
       - id: day-2-1115
         day: 2
         date: 9 October 2026
@@ -292,7 +292,7 @@ sections:
         presenter: Siemens Digital Industries Software
         featured: false
         pdf_url: /assets/pdf/autocfd5/siemens-drivaer-noise-factors-ai-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/OX56xhF2qds
   - id: aiml
     title: AI/ML
     talks:
@@ -304,7 +304,7 @@ sections:
         presenter: "Chairs: Neil Ashton & Astrid Walle"
         featured: true
         pdf_url: /assets/pdf/autocfd5/autocfd5-aiml-tfg-summary-2026-10-09.pdf
-        video_url:
+        video_url: https://youtu.be/YSSaSt2EfGA
       - id: day-2-1145
         day: 2
         date: 9 October 2026
@@ -313,7 +313,7 @@ sections:
         presenter: Mistral
         featured: false
         pdf_url: /assets/pdf/autocfd5/mistral-drivaerml-ab-upt-2026-10-09.pdf
-        video_url:
+        video_url: https://youtu.be/VURz8MIawqc
       - id: day-2-1200
         day: 2
         date: 9 October 2026
@@ -323,7 +323,7 @@ sections:
         presenter: Cadence
         featured: false
         pdf_url: /assets/pdf/autocfd5/cadence-drivaerml-geometric-deep-learning-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/3QpoETptAFY
       - id: day-2-1215
         day: 2
         date: 9 October 2026
@@ -333,7 +333,7 @@ sections:
         presenter: IngeniAI
         featured: false
         pdf_url: /assets/pdf/autocfd5/ingeniai-ingeninetsim-drivaerml-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/m_5GT-vSRG8
       - id: day-2-1230
         day: 2
         date: 9 October 2026
@@ -343,7 +343,7 @@ sections:
         presenter: KIT
         featured: false
         pdf_url: /assets/pdf/autocfd5/xia-conformal-prediction-autocfd5-2026-10-09.pdf
-        video_url:
+        video_url: https://youtu.be/kaR6aXs6UtY
       - id: day-2-1345
         day: 2
         date: 9 October 2026
@@ -353,7 +353,7 @@ sections:
         presenter: Luminary AI
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/vqOAtJ0PU8I
       - id: day-2-1400
         day: 2
         date: 9 October 2026
@@ -363,7 +363,7 @@ sections:
         presenter: Pasteur Labs
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/bcdAZu96vbg
       - id: day-2-1415
         day: 2
         date: 9 October 2026
@@ -373,7 +373,7 @@ sections:
         presenter: PhysicsX
         featured: false
         pdf_url: /assets/pdf/autocfd5/physicsx-large-physics-models-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/K1Ne6v8gPh4
   - id: closing
     title: Panels and closing
     talks:
@@ -385,7 +385,7 @@ sections:
         presenter: ""
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/M0h_pRJfOmE
       - id: day-2-1515
         day: 2
         date: 9 October 2026
@@ -394,7 +394,7 @@ sections:
         presenter: ""
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/1aXgItzJBYQ
       - id: day-2-1600
         day: 2
         date: 9 October 2026
@@ -405,3 +405,10 @@ sections:
         pdf_url: /assets/pdf/autocfd5/gary-page-nwtf-new-automotive-reference-models-2026.pdf
         pdf_label: "New case proposal: NWTF automotive reference models (PDF)"
         video_url:
+        videos:
+          - label: Watch Ford GTU proposal
+            url: https://youtu.be/C_kYCCo4PgY
+          - label: Watch NWTF proposal
+            url: https://youtu.be/HmMIivUUyLU
+          - label: Watch workshop conclusions
+            url: https://youtu.be/bGwi4k3J41o
