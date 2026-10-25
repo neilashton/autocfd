@@ -7,15 +7,6 @@ sections:
   - id: opening
     title: Opening and test cases
     talks:
-      - id: day-1-0900
-        day: 1
-        date: 8 October 2026
-        time: "09:00–09:10"
-        title: Opening remarks and workshop statistics
-        presenter: Simone Bnà & Neil Ashton
-        featured: false
-        pdf_url:
-        video_url:
       - id: day-1-0910
         day: 1
         date: 8 October 2026
