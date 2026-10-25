@@ -130,7 +130,7 @@ sections:
         presenter: KM Turbulenz
         featured: false
         pdf_url: /assets/pdf/autocfd5/km-turbulenz-les-separation-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/SPDh4xVEjsU
       - id: day-1-1410
         day: 1
         date: 8 October 2026
@@ -140,7 +140,7 @@ sections:
         presenter: Simvia / EDF Group
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/BGJaOb1xjG4
       - id: day-1-1425
         day: 1
         date: 8 October 2026
@@ -150,7 +150,7 @@ sections:
         presenter: Synopsys
         featured: false
         pdf_url: /assets/pdf/autocfd5/synopsys-menter-octree-refinement-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/H_Fiel7hMbw
       - id: day-1-1440
         day: 1
         date: 8 October 2026
@@ -160,7 +160,7 @@ sections:
         presenter: Universitas Mercatorum
         featured: false
         pdf_url: /assets/pdf/autocfd5/angelino-windsor-wmles-scheme-accuracy-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/YZNY9DUoAp4
       - id: day-1-1455
         day: 1
         date: 8 October 2026
@@ -170,7 +170,7 @@ sections:
         presenter: University of Modena and Reggio Emilia
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/K_i_AVMl8eQ
       - id: day-1-1510
         day: 1
         date: 8 October 2026
@@ -179,7 +179,7 @@ sections:
         presenter: Volcano Platforms
         featured: false
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/8L6QjpvPF4w
   - id: hpc
     title: High Performance Computing
     talks:
@@ -191,7 +191,7 @@ sections:
         presenter: "Chair: Herbert Owen"
         featured: true
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/aRID_KuqcsI
       - id: day-1-1615
         day: 1
         date: 8 October 2026
@@ -201,7 +201,7 @@ sections:
         presenter: Institute for Advanced Study, Beijing Normal-Hong Kong Baptist University
         featured: false
         pdf_url: /assets/pdf/autocfd5/coreixas-latt-gpu-octrees-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/lSwqa8-25Ek
       - id: day-1-1630
         day: 1
         date: 8 October 2026
@@ -211,7 +211,7 @@ sections:
         presenter: Upstream CFD
         featured: false
         pdf_url: /assets/pdf/autocfd5/upstream-cfd-openfoam-gpu-cpu-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/k44BPy1Ohog
   - id: noise
     title: Noise Factors
     talks:
@@ -223,7 +223,7 @@ sections:
         presenter: "Chair: Burkhard Hupertz"
         featured: true
         pdf_url:
-        video_url:
+        video_url: https://youtu.be/u-4KiTHtlqg
       - id: day-2-0915
         day: 2
         date: 9 October 2026
