@@ -181,7 +181,7 @@ sections:
         title: HPC TFG Context and Summary
         presenter: "Chair: Herbert Owen"
         featured: true
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/autocfd5-hpc-tfg-summary-2026.pdf
         video_url: https://youtu.be/aRID_KuqcsI
       - id: day-1-1615
         day: 1
