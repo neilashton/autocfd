@@ -222,7 +222,7 @@ sections:
         title: Pacefish's LBM-based GPU-native CFD
         presenter: Numeric Systems
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/numeric-systems-pacefish-autocfd5-2026.pdf
         video_url: https://youtu.be/LWmeoxHt3NE
       - id: day-2-0930
         day: 2
@@ -232,7 +232,7 @@ sections:
           using PowerFLOW and DrivAer model
         presenter: Dassault Systèmes
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/dassault-powerflow-uncertainty-quantification-autocfd5-2026.pdf
         video_url:
       - id: day-2-0945
         day: 2
