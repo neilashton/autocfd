@@ -82,7 +82,7 @@ sections:
         title: High Order Spectral Element Method DrivAer
         presenter: Barcelona Supercomputing Center
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/bsc-high-order-spectral-element-drivaer-autocfd5-2026.pdf
         video_url: https://youtu.be/gNfo4fBlru0
       - id: day-1-1140
         day: 1
