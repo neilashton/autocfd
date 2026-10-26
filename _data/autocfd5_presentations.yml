@@ -343,7 +343,7 @@ sections:
           Data-Source Ablation, and Calibrated Uncertainty Quantification"
         presenter: Luminary AI
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/luminary-ai-trustworthy-surrogates-drivaerml-autocfd5-2026.pdf
         video_url: https://youtu.be/vqOAtJ0PU8I
       - id: day-2-1400
         day: 2
@@ -353,7 +353,7 @@ sections:
           Surrogate for the DrivAer Case
         presenter: Pasteur Labs
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/pasteur-labs-courant-neural-surrogate-autocfd5-2026.pdf
         video_url: https://youtu.be/bcdAZu96vbg
       - id: day-2-1415
         day: 2
