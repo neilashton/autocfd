@@ -3,15 +3,17 @@ layout: page
 permalink: /accommodation/
 title: Accommodation
 page_title: Accommodation in Bologna
-page_description: Suggested hotels for AutoCFD5 attendees travelling to Bologna.
+page_description: Archived accommodation information for the completed AutoCFD5 workshop in Bologna.
 description: Find suggested hotels near Bologna Centrale for AutoCFD5, with addresses, booking links and directions to DAMA Technopole, Bologna, Italy.
-nav: true
+nav: false
 nav_order: 7
 ---
 
+**Workshop completed.** AutoCFD5 was held on 8–9 October 2026. This page is retained for reference. [Browse presentations and recordings]({{ '/presentations/' | relative_url }}).
+
 ## Recommended accommodation
 
-For your convenience, we have compiled a list of suggested hotels. They are listed in order from nearest to farthest from Bologna Centrale railway station.
+The following hotel suggestions were provided for AutoCFD5 attendees. They are listed in order from nearest to farthest from Bologna Centrale railway station.
 
 See the [AutoCFD5 venue address and travel directions]({{ '/venue/' | relative_url }}) for routes from Bologna Centrale to DAMA Technopole.
 

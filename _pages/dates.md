@@ -2,16 +2,18 @@
 layout: page
 permalink: /dates/
 title: Dates
-page_title: AutoCFD5 key dates
+page_title: AutoCFD5 historical dates
 page_description: Submission, registration and workshop dates for AutoCFD5 in 2026.
 description: AutoCFD5 deadlines for abstracts, results data and registration, plus the 8–9 October 2026 workshop dates in Bologna.
-nav: true
+nav: false
 nav_order: 5
 content_class: dates-page
 ---
 
-<div class="dates-summary" aria-label="Upcoming AutoCFD5 dates">
-  <div class="dates-summary__card dates-summary__card--next">
+<p><strong>Workshop completed.</strong> These dates record AutoCFD5 preparation and the event held on 8–9 October 2026. <a href="{{ '/presentations/' | relative_url }}">Browse presentations and recordings</a>.</p>
+
+<div class="dates-summary" aria-label="Historical AutoCFD5 dates">
+  <div class="dates-summary__card dates-summary__card--workshop">
     <span class="dates-summary__label">Extended results deadline</span>
     <strong class="dates-summary__date">4 September 2026</strong>
     <span class="dates-summary__detail">Data submission · previously 21 August</span>
@@ -71,7 +73,7 @@ content_class: dates-page
         <span class="dates-status">Closed</span>
       </article>
     </li>
-    <li class="dates-milestone is-upcoming is-next">
+    <li class="dates-milestone is-complete">
       <article class="dates-milestone__card">
         <time class="dates-milestone__date" datetime="2026-09-04">
           <strong>4 September</strong>
@@ -79,9 +81,9 @@ content_class: dates-page
         </time>
         <div class="dates-milestone__content">
           <h3>Results data submission deadline</h3>
-          <p>The deadline has been extended from 21 August to give participants more time to complete and upload their result spreadsheets.</p>
+          <p>The deadline was extended from 21 August to give participants more time to complete and upload their result spreadsheets.</p>
         </div>
-        <span class="dates-status">Upcoming · next</span>
+        <span class="dates-status">Deadline passed</span>
       </article>
     </li>
     <li class="dates-milestone is-closed">
@@ -97,7 +99,7 @@ content_class: dates-page
         <span class="dates-status">Closed</span>
       </article>
     </li>
-    <li class="dates-milestone is-upcoming is-workshop">
+    <li class="dates-milestone is-complete is-workshop">
       <article class="dates-milestone__card">
         <time class="dates-milestone__date" datetime="2026-10-08">
           <strong>8–9 October</strong>
@@ -107,37 +109,15 @@ content_class: dates-page
           <h3>AutoCFD5 workshop</h3>
           <p>Two days of test-case results and technical discussion at DAMA Technopole, Bologna, Italy.</p>
         </div>
-        <span class="dates-status">Upcoming</span>
+        <span class="dates-status">Completed</span>
       </article>
     </li>
   </ol>
 </section>
 
-<section class="dates-section" aria-labelledby="current-actions">
-  <div class="dates-section__heading">
-    <div>
-      <h2 id="current-actions">Current actions</h2>
-      <p>Prepare your results and attendance using the links below.</p>
-    </div>
-  </div>
-
-  <div class="dates-actions">
-    <article class="dates-action-card">
-      <span class="dates-action-card__step" aria-hidden="true">01</span>
-      <h3>Choose a test case</h3>
-      <p>Download the <a href="{{ '/case1/' | relative_url }}">Case 1 Windsor benchmark resources</a> or <a href="{{ '/case2/' | relative_url }}">Case 2 DrivAer benchmark resources</a>.</p>
-    </article>
-    <article class="dates-action-card">
-      <span class="dates-action-card__step" aria-hidden="true">02</span>
-      <h3>Submit results</h3>
-      <p>Sign in to the <a href="https://autocfd5.cfdsolutions.net/File_Upload">AutoCFD5 results dashboard</a> to upload completed spreadsheets by the extended deadline of <strong>4 September 2026</strong>. The upload page includes submission instructions and a Dropbox link for auxiliary files.</p>
-    </article>
-    <article class="dates-action-card is-closed">
-      <span class="dates-action-card__step" aria-hidden="true">03</span>
-      <h3>Registration closed</h3>
-      <p>Registration for AutoCFD5 closed on <strong>1 October 2026</strong>.</p>
-    </article>
-  </div>
+<section class="dates-section" aria-labelledby="workshop-resources">
+  <h2 id="workshop-resources">Workshop resources</h2>
+  <p>Explore the <a href="{{ '/presentations/' | relative_url }}">presentations and recordings</a>, <a href="{{ '/test-cases/' | relative_url }}">benchmark resources</a> and <a href="{{ '/agenda/' | relative_url }}">workshop programme</a>. For questions about existing submissions or follow-up contributions, contact <a href="mailto:admin@autocfd.org">admin@autocfd.org</a>.</p>
 </section>
 
 <aside class="dates-note" aria-labelledby="abstract-note">
@@ -146,7 +126,7 @@ content_class: dates-page
     <h2 id="abstract-note">About abstract submissions</h2>
   </div>
   <div class="dates-note__content">
-    <p>Due to the large number of registered contributors and limited speaking slots, participants submitting results were also asked to submit a 250-word PDF abstract describing their preliminary findings and methodology (<a href="https://autocfd5.s3.eu-west-1.amazonaws.com/autocfd5-abstract-template.docx">download the abstract template</a>). The organising committee uses a light peer-review process to select speaking slots. Each contributor is assigned an ID for result submissions and cross-plotting.</p>
+    <p>Due to the large number of registered contributors and limited speaking slots, participants submitting results were also asked to submit a 250-word PDF abstract describing their preliminary findings and methodology (<a href="https://autocfd5.s3.eu-west-1.amazonaws.com/autocfd5-abstract-template.docx">download the abstract template</a>). The organising committee used a light peer-review process to select speaking slots. Each contributor was assigned an ID for result submissions and cross-plotting.</p>
 
     <p class="dates-note__closed"><strong>Abstract submissions are now closed.</strong> For questions about an existing submission, email <a href="mailto:admin@autocfd.org">admin@autocfd.org</a>.</p>
 

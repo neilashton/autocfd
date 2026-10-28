@@ -9,9 +9,11 @@ nav: false
 nav_order: 3
 ---
 
-AutoCFD5 takes place on **8–9 October 2026** at **DAMA Technopole, Bologna, Italy**. The venue address is Via Stalingrado 84/3, 40128 Bologna.
+**Workshop completed.** AutoCFD5 was held on 8–9 October 2026. This page is retained for reference. [Browse presentations and recordings]({{ '/presentations/' | relative_url }}).
 
-Participants can [review the two-day workshop agenda]({{ '/agenda/' | relative_url }}), [plan their journey to DAMA Technopole]({{ '/venue/' | relative_url }}) and [compare suggested accommodation in Bologna]({{ '/accommodation/' | relative_url }}).
+AutoCFD5 was held on **8–9 October 2026** at **DAMA Technopole, Bologna, Italy**. The venue address is Via Stalingrado 84/3, 40128 Bologna.
+
+The [workshop programme]({{ '/agenda/' | relative_url }}) and [presentation materials]({{ '/presentations/' | relative_url }}) are available in the workshop archive.
 
 <div class="registration-closed-banner">
   Registration closed

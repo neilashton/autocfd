@@ -1,14 +1,16 @@
 ---
 layout: page
 permalink: /agenda/
-title: Agenda
-page_title: AutoCFD5 workshop agenda
+title: Workshop programme
+page_title: AutoCFD5 workshop programme archive
 page_description: Two-day programme for AutoCFD5 in Bologna on 8–9 October 2026.
 description: View the two-day AutoCFD5 agenda for 8–9 October 2026, including test-case sessions, Technology Focus Groups and workshop discussions.
 nav: true
-nav_order: 6
+nav_order: 3
 content_class: agenda-page
 ---
+
+<p><strong>Workshop completed:</strong> AutoCFD5 was held on 8–9 October 2026. This programme is retained for reference.</p>
 
 <div class="agenda-overview">
   <div>
@@ -18,7 +20,7 @@ content_class: agenda-page
   <a class="agenda-materials-link" href="{{ '/presentations/' | relative_url }}">Presentation materials</a>
 </div>
 
-<p class="agenda-materials-note">Browse talks and summaries in the <a href="{{ '/presentations/' | relative_url }}">AutoCFD5 presentation library</a>. PDF slides are being added as they become available. Video recordings will follow.</p>
+<p class="agenda-materials-note">Browse talks and summaries in the <a href="{{ '/presentations/' | relative_url }}">AutoCFD5 presentation library</a>. Available PDF slides and video recordings can be accessed now. Additional materials are being added as they become available.</p>
 
 <aside class="agenda-legend" aria-label="Agenda item types">
   <span><i class="agenda-legend__marker" aria-hidden="true"></i>General workshop session</span>

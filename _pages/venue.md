@@ -5,17 +5,19 @@ title: Venue
 page_title: AutoCFD5 venue and travel
 page_description: Venue details and travel information for AutoCFD5 at DAMA Technopole, Bologna, Italy.
 description: Find the AutoCFD5 venue address, airport, public transport, driving and taxi information for DAMA Technopole, Bologna, Italy.
-nav: true
+nav: false
 nav_order: 4
 ---
 
+**Workshop completed.** AutoCFD5 was held on 8–9 October 2026. This page is retained for reference. [Browse presentations and recordings]({{ '/presentations/' | relative_url }}).
+
 ## Venue location
 
-AutoCFD5 will be held at **DAMA Technopole, Bologna, Italy**.
+AutoCFD5 was held at **DAMA Technopole, Bologna, Italy**.
 
 **Address:** Via Stalingrado 84/3, 40128 Bologna BO, Italy
 
-Attendees can also review the [recommended accommodation near Bologna Centrale]({{ '/accommodation/' | relative_url }}) when planning their visit.
+The [accommodation information supplied for the workshop]({{ '/accommodation/' | relative_url }}) is also retained for reference.
 
 <iframe 
   src="https://maps.google.com/maps?q=DAMA%20Technopole,%20Bologna,%20Italy&t=&z=15&ie=UTF8&iwloc=&output=embed"
