@@ -1,16 +1,14 @@
 ---
 layout: page
 title: News
-page_title: AutoCFD5 news and announcements
-page_description: Deadline updates and workshop announcements from the AutoCFD5 organising committee.
-description: AutoCFD5 announcements and deadline updates for the 5th Automotive CFD Prediction Workshop in Bologna on 8–9 October 2026.
+page_title: AutoCFD5 news archive
+page_description: Workshop materials updates and historical announcements from the AutoCFD5 organising committee.
+description: Find AutoCFD5 materials updates and archived announcements from the workshop held in Bologna on 8–9 October 2026.
 permalink: /news/
 ---
 
+**AutoCFD5 has concluded.** Browse the [presentations and recordings]({{ '/presentations/' | relative_url }}) and [test-case resources]({{ '/test-cases/' | relative_url }}).
+
+Announcements below are dated records. Earlier registration and submission deadlines refer to the completed 2026 workshop.
+
 {% include news.liquid %}
-
-## Current AutoCFD5 actions
-
-- Check the [AutoCFD5 deadlines and workshop dates]({{ '/dates/' | relative_url }}).
-- Download the [Case 1 Windsor benchmark resources]({{ '/case1/' | relative_url }}) or [Case 2 DrivAer benchmark resources]({{ '/case2/' | relative_url }}), then sign in to the [AutoCFD5 results dashboard](https://autocfd5.cfdsolutions.net/File_Upload) to submit results. The upload page includes submission instructions and a Dropbox link for auxiliary files.
-- <span class="registration-closed-text">AutoCFD5 registration is now closed (deadline: 1 October 2026).</span> Review the [two-day workshop agenda]({{ '/agenda/' | relative_url }}).

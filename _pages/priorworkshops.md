@@ -3,7 +3,7 @@ layout: page
 title: Previous workshops
 permalink: /previous-workshops/
 nav: true
-nav_order: 8
+nav_order: 4
 sitemap: false
 robots: noindex, follow
 redirect: /autocfd4/

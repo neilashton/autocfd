@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /presentations/
-title: Presentations
-page_title: AutoCFD5 presentations
+title: Presentations & recordings
+page_title: AutoCFD5 presentations and recordings
 page_description: Presentations and discussions from Bologna, 8–9 October 2026.
 description: Browse AutoCFD5 presentations by Technology Focus Group, title, speaker or organisation, with PDF and video recording availability.
 nav: true
-nav_order: 3
+nav_order: 1
 content_class: presentations-page
 ---
 
@@ -56,7 +56,7 @@ content_class: presentations-page
   <h2>All presentations</h2>
   <p id="presentation-count" role="status" aria-live="polite">{{ talk_count }} presentations and discussions</p>
 </div>
-<p class="presentation-time-note">Times follow the latest <a href="{{ catalogue.source | relative_url }}">workshop agenda</a> and use CEST. Names and organisations appear as listed in the programme.</p>
+<p class="presentation-time-note">This archive follows the <a href="{{ catalogue.source | relative_url }}">workshop programme</a>. Times are shown in CEST. Names and organisations appear as listed in the programme.</p>
 
 <div id="presentation-library">
   {% for section in catalogue.sections %}
@@ -78,7 +78,7 @@ content_class: presentations-page
               {% if talk.pdf_url != blank %}
                 <a href="{{ talk.pdf_url | relative_url }}" aria-label="View PDF slides: {{ talk.title | escape }}">{{ talk.pdf_label | default: "View slides (PDF)" | escape }}</a>
               {% elsif talk.pdf_expected != false %}
-                <span class="presentation-pending"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i> PDF pending</span>
+                <span class="presentation-pending"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i> Slides not yet available</span>
               {% endif %}
               {% if talk.videos.size > 0 %}
                 {% for video in talk.videos %}
@@ -87,7 +87,7 @@ content_class: presentations-page
               {% elsif talk.video_url != blank %}
                 <a href="{{ talk.video_url | relative_url }}" aria-label="Watch video recording: {{ talk.title | escape }}">Watch recording</a>
               {% else %}
-                <span class="presentation-pending"><i class="fa-solid fa-video" aria-hidden="true"></i> Video recording pending</span>
+                <span class="presentation-pending"><i class="fa-solid fa-video" aria-hidden="true"></i> Recording not available</span>
               {% endif %}
             </div>
           </div>

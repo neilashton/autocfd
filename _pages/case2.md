@@ -20,7 +20,7 @@ content_class: case-study
   <span class="case-jump__label">On this page</span>
   <a href="#overview">Overview</a>
   <a href="#documents">Documents</a>
-  <a href="#submit-results">Submit results</a>
+  <a href="#submit-results">Submission information</a>
   <a href="#geometry-and-surface-meshes">Geometry</a>
   <a href="#case-2a-volume-meshes">Case 2a meshes</a>
   <a href="#case-2b-volume-meshes">Case 2b meshes</a>
@@ -46,9 +46,9 @@ content_class: case-study
 
 </div>
 
-## Submit results
+## Submission information {#submit-results}
 
-> [Sign in to the AutoCFD5 results dashboard](https://autocfd5.cfdsolutions.net/File_Upload) to upload completed submissions. The upload page includes submission instructions and a Dropbox link for auxiliary files.
+> [Sign in to the AutoCFD5 results dashboard](https://autocfd5.cfdsolutions.net/File_Upload) for existing submission resources and instructions. AutoCFD5 has concluded; contact [admin@autocfd.org](mailto:admin@autocfd.org) about corrections or follow-up contributions.
 > {: .case-submit}
 
 ## Grids and geometry

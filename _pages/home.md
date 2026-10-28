@@ -2,43 +2,55 @@
 layout: home
 title: Home
 permalink: /
-page_title: "5th Automotive CFD Prediction Workshop"
-page_subtitle: 8–9 October 2026 · DAMA Technopole, Bologna, Italy
-description: Join AutoCFD5 in Bologna on 8–9 October 2026 to compare automotive CFD predictions, benchmark methods and share practical modelling guidance.
-
-news: true # includes a list of news items
+page_title: "AutoCFD5 — Workshop materials and recordings"
+page_subtitle: Held on 8–9 October 2026 · DAMA Technopole, Bologna, Italy
+description: Explore presentations, video recordings, Technology Focus Group summaries and benchmark resources from AutoCFD5, held in Bologna on 8–9 October 2026.
+news: false
 ---
 
-<iframe data-w-token="45cda9059213c0870327" data-w-type="pop-in" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://xkgki.mjt.lu/wgt/xkgki/vki/form?c=859c0789" width="100%" style="height: 0;"></iframe>
-<iframe data-w-token="45cda9059213c0870327" data-w-type="trigger" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://xkgki.mjt.lu/wgt/xkgki/vki/trigger?c=d6c34be5" width="100%" style="height: 0;"></iframe>
+<p class="text-center"><strong>Workshop completed</strong></p>
 
-<script type="text/javascript" src="https://app.mailjet.com/pas-nc-pop-in-v1.js"></script>
-
-## Key dates and next steps
-
-**Current status:** Abstract submissions are now closed. <span class="registration-closed-text">Registration is now closed; the final deadline was <strong>1 October 2026</strong>.</span> The results data submission deadline was extended to **4 September 2026**, and the workshop takes place **8–9 October 2026**.
+AutoCFD5 has concluded. Thank you to everyone who contributed to the 5th Automotive CFD Prediction Workshop. Explore the presentation slides, session recordings and Technology Focus Group summaries below. Additional materials are being added as they become available.
 
 <p>
-  <button class="btn registration-closed-button mb-2 mr-2" type="button" disabled>Registration closed</button>
-  <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/agenda/' | relative_url }}">View the agenda</a>
-  <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/case1/' | relative_url }}">Case 1 details</a>
-  <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/case2/' | relative_url }}">Case 2 details</a>
-  <a class="btn btn-outline-primary mb-2" href="https://autocfd5.cfdsolutions.net/File_Upload">Submit results</a>
+  <a class="btn btn-primary mb-2 mr-2" href="{{ '/presentations/' | relative_url }}">Browse presentations and recordings</a>
+  <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/presentations/#summary-heading' | relative_url }}">Workshop summaries</a>
+  <a class="btn btn-outline-primary mb-2" href="{{ '/test-cases/' | relative_url }}">Test cases and resources</a>
 </p>
 
-The results dashboard requires sign-in and includes submission instructions and a Dropbox link for auxiliary files.
+## Explore the workshop
 
-## Aims and scope
+Start with the [test-case introduction]({{ '/presentations/#day-1-0910' | relative_url }}) and the Technology Focus Group summaries:
 
-AutoCFD5 will take place on 8–9 October 2026 at **DAMA Technopole, Bologna, Italy**, with Upstream CFD as the main event organiser, CINECA providing the venue and local organisational support, and EVCM as financial administrator. This follows the success of the previous four workshops: [AutoCFD1 in Oxford (2019)]({{ '/autocfd1/' | relative_url }}), [AutoCFD2 in Berlin (2021)]({{ '/autocfd2/' | relative_url }}), [AutoCFD3 in Barcelona (2022)]({{ '/autocfd3/' | relative_url }}) and [AutoCFD4 in Belfast (2024)]({{ '/autocfd4/' | relative_url }}).
+- [Meshing]({{ '/presentations/#day-1-0940' | relative_url }})
+- [Scale Resolving Simulation]({{ '/presentations/#day-1-1110' | relative_url }})
+- [High Performance Computing]({{ '/presentations/#day-1-1600' | relative_url }})
+- [Noise Factors]({{ '/presentations/#day-2-0900' | relative_url }})
+- [AI/ML]({{ '/presentations/#day-2-1130' | relative_url }})
 
-The main objective of the 5th Automotive CFD Prediction Workshop is to continue the community effort to assess the predictive capability of CFD codes for road-car geometries. Using prescribed geometry, boundary conditions and computational grids, the workshop aims to provide practical modelling guidance for the automotive community, including best practice for turbulence modelling, meshing and numerical schemes. It also brings together automotive CFD researchers and practitioners from academia and industry to discuss future directions. The AutoCFD5 test cases build on the benchmark configurations used for AutoCFD4. For the AI/ML activity, the open-source [DrivAerML dataset](https://huggingface.co/datasets/neashton/drivaerml) is the standard training dataset used to assess model architectures.
+Watch the [panel discussions and workshop conclusions]({{ '/presentations/#section-closing' | relative_url }}), browse the [workshop programme]({{ '/agenda/' | relative_url }}), or explore the [AutoCFD5 video playlist](https://www.youtube.com/playlist?list=PLPWIA-9VDjy0).
 
-Computing the test cases is not required to attend the workshop, but participants are strongly encouraged to submit results.
+## Latest update
+
+{% include news.liquid limit=true count=1 %}
+
+[View the news archive]({{ '/news/' | relative_url }}).
+
+## About AutoCFD5
+
+AutoCFD5 was held on 8–9 October 2026 at **DAMA Technopole, Bologna, Italy**, with Upstream CFD as the main event organiser, CINECA providing the venue and local organisational support, and EVCM as financial administrator. It followed [AutoCFD1 in Oxford (2019)]({{ '/autocfd1/' | relative_url }}), [AutoCFD2 in Berlin (2021)]({{ '/autocfd2/' | relative_url }}), [AutoCFD3 in Barcelona (2022)]({{ '/autocfd3/' | relative_url }}) and [AutoCFD4 in Belfast (2024)]({{ '/autocfd4/' | relative_url }}).
+
+The workshop brought together automotive CFD researchers and practitioners from academia and industry to assess predictive capability for road-car geometries and discuss practical modelling guidance. Topics included turbulence modelling, meshing, numerical schemes, high-performance computing, noise factors and AI/ML.
+
+The [Windsor Squareback and DrivAer Notchback benchmark resources]({{ '/test-cases/' | relative_url }}) remain available for reference and further study. For the AI/ML activity, the open-source [DrivAerML dataset](https://huggingface.co/datasets/neashton/drivaerml) was the standard training dataset used to assess model architectures.
+
+## Stay involved
+
+For questions about workshop materials, corrections, follow-up publications or future AutoCFD activities, contact [admin@autocfd.org](mailto:admin@autocfd.org). For follow-up technical discussions and information about any continuing TFG activity, contact the relevant group leaders below.
 
 ## Technology Focus Groups
 
-Following positive feedback from AutoCFD4, the workshop continues to use the Technology Focus Group (TFG) model. Each participant is invited to join a TFG covering one of five core areas. The groups meet every four to five weeks to share findings and results collaboratively in the run-up to the workshop. This enables deeper technical discussion over a longer period than the two workshop days alone. Contact the relevant TFG leaders below to join the meetings, which began in mid-2025.
+Five Technology Focus Groups supported collaboration and technical discussion in preparation for AutoCFD5. Their workshop summaries and available recordings are linked above.
 
 [Meshing TFG](mailto:vangelis@cadence.com) - Vangelis Skaperdas (Cadence / BETA-CAE Systems) \
 [Noise Factors TFG](mailto:bhupertz@ford.com) - Burkhard Hupertz (Ford) \
@@ -46,9 +58,11 @@ Following positive feedback from AutoCFD4, the workshop continues to use the Tec
 [Scale Resolving Simulations (SRS) TFG](mailto:charles.mockett@upstream-cfd.com) - Charles Mockett and Marian Fuchs (Upstream CFD) \
 [HPC TFG](mailto:herbert.owen@bsc.es) - Herbert Owen and Oriol Lehmkuhl (Barcelona Supercomputing Center)
 
-Read the [Technology Focus Group scope and goals](https://autocfd4.s3.eu-west-1.amazonaws.com/AutoCFD_TFG_overall.pdf).
+Read the [Technology Focus Group scope and goals](https://autocfd4.s3.eu-west-1.amazonaws.com/AutoCFD_TFG_overall.pdf) and the [AutoCFD data policy](https://autocfdv3.s3.eu-west-1.amazonaws.com/data-policy.pdf).
 
-Read the [AutoCFD data policy](https://autocfdv3.s3.eu-west-1.amazonaws.com/data-policy.pdf).
+## Workshop archive
+
+The [programme]({{ '/agenda/' | relative_url }}), [historical dates]({{ '/dates/' | relative_url }}), [registration information]({{ '/registration/' | relative_url }}), [venue]({{ '/venue/' | relative_url }}) and [accommodation information]({{ '/accommodation/' | relative_url }}) are retained as a record of the 2026 event.
 
 ## AutoCFD Workshop Committee
 
