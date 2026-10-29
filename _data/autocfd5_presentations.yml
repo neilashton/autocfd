@@ -213,7 +213,7 @@ sections:
         title: Noise Factors TFG Context and Summary
         presenter: "Chair: Burkhard Hupertz"
         featured: true
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/autocfd5-noise-factors-tfg-summary-hupertz-2026.pdf
         video_url: https://youtu.be/u-4KiTHtlqg
       - id: day-2-0915
         day: 2
@@ -242,7 +242,7 @@ sections:
           Aerodynamics Simulations
         presenter: Ford Motor Company
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/ford-ensemble-averaging-norman-autocfd5-2026.pdf
         video_url: https://youtu.be/gEC8ZcukyM0
       - id: day-2-1000
         day: 2
@@ -252,7 +252,7 @@ sections:
           Experiments
         presenter: ICON
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/icon-noise-factors-design-of-experiments-autocfd5-2026.pdf
         video_url: https://youtu.be/Ltg4xCnEc1o
       - id: day-2-1015
         day: 2
