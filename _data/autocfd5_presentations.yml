@@ -233,7 +233,7 @@ sections:
         presenter: Dassault Systèmes
         featured: false
         pdf_url: /assets/pdf/autocfd5/dassault-powerflow-uncertainty-quantification-autocfd5-2026.pdf
-        video_url:
+        video_url: https://youtu.be/jZ7jhu8_AC4
       - id: day-2-0945
         day: 2
         date: 9 October 2026
