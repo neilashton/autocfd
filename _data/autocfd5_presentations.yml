@@ -130,7 +130,7 @@ sections:
           cases: from steady RANS to hybrid RANS-LES"
         presenter: Simvia / EDF Group
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/simvia-edf-code-saturne-autocfd5-2026.pdf
         video_url: https://youtu.be/BGJaOb1xjG4
       - id: day-1-1425
         day: 1
