@@ -102,7 +102,7 @@ sections:
           Notchback Configuration
         presenter: ENGYS
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/engys-hybrid-rans-les-drivaer-notchback-autocfd5-2026.pdf
         video_url: https://youtu.be/WAv8K1Wt-Wo
       - id: day-1-1210
         day: 1
@@ -160,7 +160,7 @@ sections:
           family of dynamic RANS closures
         presenter: University of Modena and Reggio Emilia
         featured: false
-        pdf_url:
+        pdf_url: /assets/pdf/autocfd5/unimore-openfoam-dynamic-rans-autocfd5-2026.pdf
         video_url: https://youtu.be/K_i_AVMl8eQ
       - id: day-1-1510
         day: 1
