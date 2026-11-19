@@ -50,7 +50,7 @@ content_class: case-study
 
 ## Submission information {#submit-results}
 
-> [Sign in to the AutoCFD5 results dashboard](https://autocfd5.cfdsolutions.net/File_Upload) for existing submission resources and instructions. AutoCFD5 has concluded; contact [admin@autocfd.org](mailto:admin@autocfd.org) about corrections or follow-up contributions.
+> Explore the [AutoCFD5 results dashboard](https://autocfd5.upstream-cfd.com) to view the workshop results. AutoCFD5 has concluded; contact [admin@autocfd.org](mailto:admin@autocfd.org) about corrections or follow-up contributions.
 > {: .case-submit}
 
 ## Grids
