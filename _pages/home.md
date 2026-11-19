@@ -14,9 +14,12 @@ AutoCFD5 has concluded. Thank you to everyone who contributed to the 5th Automot
 
 <p>
   <a class="btn btn-primary mb-2 mr-2" href="{{ '/presentations/' | relative_url }}">Browse presentations and recordings</a>
+  <a class="btn btn-outline-primary mb-2 mr-2" href="https://autocfd5.upstream-cfd.com">Explore results dashboard</a>
   <a class="btn btn-outline-primary mb-2 mr-2" href="{{ '/presentations/#summary-heading' | relative_url }}">Workshop summaries</a>
   <a class="btn btn-outline-primary mb-2" href="{{ '/test-cases/' | relative_url }}">Test cases and resources</a>
 </p>
+
+The results dashboard is publicly accessible and hosted by Upstream CFD.
 
 ## Explore the workshop
 
